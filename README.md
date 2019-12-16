@@ -18,7 +18,9 @@ I spent an inordinate amount of time making this so, I really hope your enjoy. :
 Special Thanks to M.R. Programs for helping me create this.
 and to mcskware for his prng datapack for 1.13 and willingness to share his code.
 
-TRMotd (aka RMotd, Motd datapack)
+TRMotd (aka RMotd, Random Motd datapack)
+
+Check the wiki for version history and patch notes.
 
 Cheers 
 
