@@ -1,5 +1,5 @@
 # TRMotd
-Truly Random Message of the Day - Minecraft Datapack
+
 A Datapack for Minecraft Java Edition
 which sends a random message to the player when they log in.
 
