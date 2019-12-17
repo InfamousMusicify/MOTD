@@ -7,8 +7,8 @@ Tested in 1.15, potentially compatible with 1.14.
 
 Version 3.8 or higher Recommended.
 
-You can use the command "scoreboard players set @p Logout 1" to trigger a message for the closest player,
-or "scoreboard players set @a[distance=..50] Logout 1" for an area of effect message.
+     You can use the command "scoreboard players set @p Logout 1" to trigger a message for the closest player,
+     or "scoreboard players set @a[distance=..50] Logout 1" for an area of effect message.
 
 If your going to use this on a public or busy server I recommend editing some of the messages,
 To change the messages themselves, 
