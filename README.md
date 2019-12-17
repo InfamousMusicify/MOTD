@@ -5,6 +5,8 @@ A Datapack for Minecraft Java Edition
 which sends a random message to the player when they log in.
 Tested in 1.15, potentially compatible with 1.14.
 
+Version 3.8 or higher Recommended.
+
 If your going to use this on a public or busy server I recommend editing some of the messages,
 To change the messages themselves, 
 navigate in the data/rmt/functions/join.mcfunction file and edit the text in between the brackets.
