@@ -8,10 +8,6 @@ Works as intended. Bugs fixed, Performance Optimized.
 Bugs Fixed:
 Everyone getting a message when someone logs in.
 
-     Version 3.7:
-Merged v3.3 and v3.5.
-Does not work as intended.
-
      Version 3.5:
 Broken but i left it up in case someone likes its functionality.
 Sends a message to everyone when someone logs in.
@@ -20,14 +16,3 @@ Sends a message to everyone when someone logs in.
 Performance Overhaul
 Issues:
 Doesn't send a message to players the first time they login.
-
-     Version 3.1:
-Bug fixes, code cleaning
-
-     Version 3.0:
-Bug fix for multiplayer.
-New players now receive messages (99% of the time)
-
-     Version 1.0:
-Original Release
-Has a bug that will send a message to everyone when someone logs in.
