@@ -1,5 +1,7 @@
      # Editing
 If you want to Edit the content of the messages navigate to data/rmt/functions/join.mcfunction
+To Edit the content of the New Player message navigate to data/rmt/functions/new.mcfunction
+
 and edit the text between the curly brackets, Example:
 {"text":"Change this to your message","color":"gold"}
 
