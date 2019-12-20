@@ -1,0 +1,30 @@
+     # Editing
+If you want to Edit the content of the messages navigate to data/rmt/functions/join.mcfunction
+and edit the text between the curly brackets, Example:
+{"text":"Change this to your message","color":"gold"}
+
+     # Changing the Amount of Messages
+If you want to increase or decrease the number of Messages there are 2 steps involved.
+# Importatnt To Know, *Never edit the #randval in lod.mcf, it should always be at 0.
+# Second, Maxrand should always be set 1 number above your last messages number, Example:
+# Your last message = 130 than #maxrand = 131
+
+     1a: Edit the join.Mcf File in the folder above, if you're removing messages your task is simple,
+     delete from the bottom up the number of lines you wish to remove to get your desired number of messages.
+     make sure you do not delete lines with lower numbers.
+     1b: If you're adding messages its a little more time consuming but still relatively simple.
+     heasd to the bottom of the Join.mcf from the file listed above, line 127 is where you should add new messages, 
+     move line 128 down a bit so you dont break the anything when pasting. 
+     
+Line 126 - tellraw @a[tag=RandMsg,scores={CurrentMsg=126}] {"text":"144p GAMEPLAY!","color":"gold"}
+Line 127 - 
+Line 128 - tag @a remove RandMsg
+
+     # Add messages by copy and pasting the command on line 126 and editing the numbers to count up, 
+     change the mcprng #maxrand to your new last messages #+1 in mcprng:load.mcf.
+     
+     2: Now head over to data/mcprng/functions/load.mcfunction, 
+     and edit the number at the end of this command to you last message #+1
+     ----- scoreboard players set #maxrand mcprng 127 -----
+     
+Protip for editing vertical columns of text:  Notepad++, hold alt, click and drag you mouse down to select vertically.
