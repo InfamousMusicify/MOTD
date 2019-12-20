@@ -25,8 +25,6 @@ and to mcskware for his prng datapack for 1.13 and willingness to share his code
 
 TRMotd (aka RMotd, Random Motd datapack)
 
-Check the wiki for version history and patch notes. 
-
 Cheers 
 
 -Infamous 
