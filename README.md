@@ -11,10 +11,12 @@ Version 4.0 or higher Recommended.
      or "scoreboard players set @a[distance=..50] Logout 1" for an area of effect message.
 
 If your going to use this on a public or busy server I recommend editing some of the messages,
-To change the messages themselves, 
-navigate in the data/rmt/functions/join.mcfunction file and edit the text in between the brackets.
-Example:
-{"text":"Change this to your message","color":"gold"}
+
+     To change the messages themselves, 
+     navigate in the data/rmt/functions/join.mcfunction file and edit the text in between the brackets.
+     Example:
+     {"text":"Change this to your message","color":"gold"}
+
 
 There are notes in the datapack .mcf files on how to add more messages
 
