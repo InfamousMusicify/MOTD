@@ -1,4 +1,7 @@
-     Version 3.9: Working as Intended!  (i hope, report any bugs please)
+     Version 4.0: Bug Fix
+Attempted to fix a bug where some new players dont recieve messages.  (report any issues please)
+
+     Version 3.9: Working moslty as intended.  (report any bugs please)
 Fixed the Bug where New players do not get Messages.
 Now new players will get a specific message!  which can be customized in the new.mcf
 
