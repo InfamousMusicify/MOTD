@@ -1,0 +1,660 @@
+{"text":"The FamousBros Server!","color":"gold"}
+{"text":"Flying Raijin: Level 2!","color":"gold"}
+{"text":"What is the meaning of life?","color":"gold"}
+{"text":"Life is but a walking shadow.","color":"gold"}
+{"text":"Spawn is disabled due to an exploit.","color":"gold"}
+{"text":"Learn Japanese!","color":"gold"}
+{"text":"Once you join YOU CANT UNJOIN","color":"gold"}
+{"text":"Ping the human!","color":"gold"}
+{"text":"memes were disabled due to an exploit","color":"gold"}
+{"text":"Lives in a pineapple under the sea!","color":"gold"}
+{"text":"the best minecraft server in the universe","color":"gold"}
+{"text":"Teetsuuuuooooo!","color":"gold"}
+{"text":"co-ordinates are currency","color":"gold"}
+{"text":"There's no right, there's no wrong, there's only popular opinion.","color":"gold"}
+{"text":"Something new under maintanence weekly!","color":"gold"}
+{"text":"Show off your digital girth!","color":"gold"}
+{"text":"Palladain","color":"gold"}
+{"text":"Let's Get Dank","color":"gold"}
+{"text":"'Autism' has more than 300 definitions here","color":"gold"}
+{"text":"Official Mojang Testing Grounds","color":"gold"}
+{"text":"Look mum, I'm in a Motd!","color":"gold"}
+{"text":"Huge tracts of land!","color":"gold"}
+{"text":"Hotdogs, hamburgers, hookers and blow","color":"gold"}
+{"text":"GET UP ON THE HYDRA'S BACK","color":"gold"}
+{"text":"THE FINAL FRONTIER","color":"gold"}
+{"text":"SPACE","color":"gold"}
+{"text":"SPACE COPS ARE COMING","color":"gold"}
+{"text":"Internet enabled!","color":"gold"}
+{"text":"It will be done my Lord","color":"gold"}
+{"text":"Bienvenue sur le serveur de Crawaii!","color":"gold"}
+{"text":"Walking is temporarily disabled due to an exploit","color":"gold"}
+{"text":"Vanilla as Fuck.","color":"gold"}
+{"text":"Singleplayer!","color":"gold"}
+{"text":"welcome to spawn","color":"gold"}
+{"text":"100% lag free","color":"gold"}
+{"text":"Buy a Wither","color":"gold"}
+{"text":"fitsgoodbutrush","color":"gold"}
+{"text":"I have a suggestion.","color":"gold"}
+{"text":"Hell is empty and all devils are here.","color":"gold"}
+{"text":"website: 2b2t.org (forever down)","color":"gold"}
+{"text":"Try the item shop!","color":"gold"}
+{"text":"The answer to Life, The Universe, and Everything.","color":"gold"}
+{"text":"What if i put my end crystal next to you?  Just kidding...","color":"gold"}
+{"text":"There is always a workaround.","color":"gold"}
+{"text":"Warning! A huge battleship ''STEVE'' is approaching fast!","color":"gold"}
+{"text":"PC gaming since 1873!","color":"gold"}
+{"text":"Sensational!","color":"gold"}
+{"text":"Awesome community!","color":"gold"}
+{"text":"peace of shit lag","color":"gold"}
+{"text":"Information wants to be free!","color":"gold"}
+{"text":"Do you is fucking?","color":"gold"}
+{"text":"fattnblack","color":"gold"}
+{"text":"All praise the Melon Goddess!","color":"gold"}
+{"text":"Plant a tree!","color":"gold"}
+{"text":"Now containers 32 random daily cats!","color":"gold"}
+{"text":"of all the things you've lost, you'll miss your sanity the most.","color":"gold"}
+{"text":"Not as cool as Spock!","color":"gold"}
+{"text":"What can change the nature of man?","color":"dark_red"}
+{"text":"We are an equal opportunity community","color":"gold"}
+{"text":"mom its just a entire day wasted on digital legos","color":"gold"}
+{"text":"An exploit was disabled due to","color":"gold"}
+{"text":"Javalicious edition","color":"gold"}
+{"text":"PvP has been disabled due to an exploit","color":"gold"}
+{"text":"Time to smoke weed and eat pizza","color":"gold"}
+{"text":"I want to die.  It's not a joke anymore.  I want to die.","color":"gold"}
+{"text":"GOD WILL NOT SAVE YOU HERE -2b2t.org","color":"gold"}
+{"text":"Dinnerbone","color":"gold"}
+{"text":"pinging...","color":"gold"}
+{"text":"Happy Birthday!","color":"gold"}
+{"text":"Connect 4 in minecraft!","color":"gold"}
+{"text":"I solemly swear I don't have a life...","color":"gold"}
+{"text":"Flyable end ships!","color":"gold"}
+{"text":"''Player has made the advancement 'Free the End' - Player experienced kinetic energy whilst trying to escape the Ender Dragon''","color":"dark_red"}
+{"text":"You will die alone in the end...","color":"dark_red"}
+{"text":"Any computer is a laptop if your brave enough!","color":"gold"}
+{"text":"What?  No-one is going to travel 1 mil just to","color":"gold"}
+{"text":"Confusion","color":"gold"}
+{"text":"least advertised server ever","color":"gold"}
+{"text":"My horse fucking disintegrated","color":"gold"}
+{"text":"Happy birthday, sp614x!","color":"gold"}
+{"text":"Ask more questions","color":"gold"}
+{"text":"Add the mushrooms","color":"gold"}
+{"text":"Presents!","color":"gold"}
+{"text":"Call your mother!","color":"gold"}
+{"text":"Placing blocks is disabled due to an exploit","color":"gold"}
+{"text":"Best christian factions server.","color":"gold"}
+{"text":"naruto of minecraft","color":"gold"}
+{"text":"looking for moderators apply now!","color":"gold"}
+{"text":"Dungeoun!","color":"gold"}
+{"text":"Limited edition!","color":"gold"}
+{"text":"looking for admins apply now!","color":"gold"}
+{"text":"Visit Olympus","color":"dark_purple"}
+{"text":"A E S T H E T I C","color":"gold"}
+{"text":"Ping!","color":"gold"}
+{"text":"Pong!","color":"gold"}
+{"text":"looking for operators apply now!","color":"gold"}
+{"text":"My stepdads play here","color":"gold"}
+{"text":"Complex cellular automata!","color":"gold"}
+{"text":"Do you want to join my server?","color":"gold"}
+{"text":"Spawn is disabled due to an exploit.","color":"gold"}
+{"text":"Either, Or Both.  Depends on perspective.","color":"gold"}
+{"text":"Every Time Lightning strikes, a veterean dies","color":"gold"}
+{"text":"Woo, somethingawful!","color":"gold"}
+{"text":"More than a meme","color":"gold"}
+{"text":"Oh shoot","color":"gold"}
+{"text":"Exploding Creepers!","color":"gold"}
+{"text":"I dont think minecraft uses graphics cards unless you use optifine","color":"gold"}
+{"text":"ores before whores","color":"gold"}
+{"text":"this is why we cant have nice things","color":"gold"}
+{"text":"Branbran is Daddy","color":"gold"}
+{"text":"Joel is branbrans Boi","color":"gold"}
+{"text":"Whats the reason for Joining this time?","color":"gold"}
+{"text":"Pocket edition is better","color":"gold"}
+{"text":"FamousBros and smoke weed","color":"gold"}
+{"text":"its only a block game","color":"gold"}
+{"text":"SPLEEF SPLEEF SPLEEF","color":"gold"}
+{"text":"why are you","color":"gold"}
+{"text":"Praise be thy melon!","color":"gold"}
+{"text":"Monty Pythons Moose","color":"gold"}
+{"text":"Big Pointy Teeth!","color":"gold"}
+{"text":"It's groundbreaking!","color":"gold"}
+{"text":"A skeleton popped out!","color":"gold"}
+{"text":"FACTION:PRISON:ARENAPVP","color":"gold"}
+{"text":"No! Not Gravy! Nooooo!","color":"gold"}
+{"text":"Best 2b2t Clone","color":"gold"}
+{"text":"144p GAMEPLAY!","color":"gold"}
+{"text":"Do it all, Everything!","color":"gold"}
+{"text":"WELCOME TO DIE","color":"gold"}
+{"text":"Logging in is temporarily disabled due to an exploit","color":"gold"}
+{"text":"Not your personal daycare.","color":"gold"}
+{"text":"Death ahead","color":"gold"}
+{"text":"Let's danec!","color":"gold"}
+{"text":"/ignore is your only friend here.","color":"gold"}
+{"text":"It does not end.","color":"dark_red"}
+{"text":"Woo, worldofminecraft!","color":"gold"}
+{"text":"So sweet, like a nice bon bon!","color":"gold"}
+{"text":"[deleted]","color":"gold"}
+{"text":"Look at me, I am the captain now.","color":"gold"}
+{"text":"/ignore is your only friend here. -2b2t","color":"gold"}
+{"text":"Jesus approves vetarians","color":"gold"}
+{"text":"What?  No-one is going to travel 1 mil just to grief.","color":"gold"}
+{"text":"Death ahead","color":"gold"}
+{"text":"But there's already one that is just like this?","color":"gold"}
+{"text":"Welcome Back","color":"gold"}
+{"text":"Trust me, I'm a doctor.","color":"gold"}
+{"text":"2b2t is full ya know","color":"gold"}
+{"text":"Deaths Home","color":"gold"}
+{"text":"DeathToMicrosoft","color":"gold"}
+{"text":"Let go.","color":"gold"}
+{"text":"It is meaningless.","color":"dark_red"}
+{"text":"Even the border is griefed","color":"gold"}
+{"text":"The Oldest Christian Family Friendly Server!!","color":"gold"}
+{"text":"Can't connect to server","color":"dark_red"}
+{"text":"How did you find this place?","color":"gold"}
+{"text":"Here's your daily dose of autism.","color":"gold"}
+{"text":"Happy birthday to my wife","color":"gold"}
+{"text":"Plos help i am vitran member","color":"gold"}
+{"text":"See you @30mil","color":"gold"}
+{"text":"OwO What's this?","color":"gold"}
+{"text":"Look around... They will all betray you...","color":"dark_red"}
+{"text":"Do not walk behind me, for I may not lead.  Do not walk ahead of me, for I may not follow.  Do not walk beside me, either; Just leave me the hell alone.","color":"gold"}
+{"text":"The journey of a million blocks begins with your fist and a block of wood.","color":"gold"}
+{"text":"It's always darkest before dawn. So if you're going to steal your neighbor's newspaper that's the time to do it.","color":"gold"}
+{"text":"Don't be irreplaceable; if you can't be replaced, you can't be promoted.","color":"gold"}
+{"text":"No one is listening until you make a mistake.","color":"gold"}
+{"text":"Always remember you're unique, just like everyone else.","color":"gold"}
+{"text":"Always test the depth of the water with both feet.","color":"gold"}
+{"text":"It may be that your sole purpose in life is simply to serve as a warning to others.","color":"gold"}
+{"text":"If you think nobody cares if you're alive, try missing a couple of car payments.","color":"gold"}
+{"text":"If you lend someone $20, and never see that person again, it was probably worth it.","color":"gold"}
+{"text":"If at first you don't succeed, skydiving is not for you.","color":"gold"}
+{"text":"Squat with your spurs on.","color":"gold"}
+{"text":"If you drink, don't park; accidents cause people.","color":"gold"}
+{"text":"Some days you are the bug, some days you are the windscreen.","color":"gold"}
+{"text":"Don't worry, it only seems kinky the first time.","color":"gold"}
+{"text":"Good judgment comes from bad experience, and a lot of that comes from bad judgment.","color":"gold"}
+{"text":"The quickest way to double your money is to head to blockmart... i mean.. lets be honest it..*Ooof* ------_____","color":"gold"}
+{"text":"Timing has an awful lot to do with the outcome of a rain dance.","color":"gold"}
+{"text":"Experience is something you don't get until just after need it.","color":"gold"}
+{"text":"Never miss a good chance to shut up.","color":"gold"}
+{"text":"An error doesn't become a mistake until you refuse to cor","color":"gold"}
+{"text":"After God created women, beer was the bug fix.","color":"gold"}
+{"text":"And Notch said: ''Time set 0'' ...and there was light!","color":"dark_red"}
+{"text":"And Notch said, ''Let there be light, but make it quick.''","color":"dark_red"}
+{"text":"A dress makes no sense unless it inspires men to remove it","color":"gold"}
+{"text":"A life? Where can I download that?","color":"gold"}
+{"text":"''Could you continue your petty bickering? I find it most intriguing.''","color":"gold"}
+{"text":"Love thy neighbour, but make sure her husband is away first!","color":"gold"}
+{"text":"64,999,964 firearm owners killed no one yesterday..","color":"gold"}
+{"text":"A mind is a terrible thing to... OOOOH, DOOM 2 is here!","color":"gold"}
+{"text":"Amazing what alcohol does to a sense of humour. Death becomes funny.","color":"gold"}
+{"text":"Say nothing & they think your stupid..talk & they know for sure","color":"gold"}
+{"text":"Any bank will give you a loan as soon as you prove you don't need it","color":"gold"}
+{"text":"Health is merely the slowest possible rate at which one can die.","color":"gold"}
+{"text":"A mind is a terrible thing to ugh... I forgot...","color":"gold"}
+{"text":"When it comes to giving, most people will stop at nothing","color":"gold"}
+{"text":"Please keep your hands off the secretary's reproducing equipment.","color":"gold"}
+{"text":"To error is human, to blame it on someone else is more human","color":"gold"}
+{"text":"When in darkness or in doubt, Run in circles, scream and shout.","color":"gold"}
+{"text":"It is morally wrong to allow suckers to keep their money.","color":"gold"}
+{"text":"If you wish to succeed, consult three old people.","color":"gold"}
+{"text":"It works better if you plug it in.","color":"gold"}
+{"text":"File that under ''Never''.","color":"gold"}
+{"text":"When in doubt, down a few.","color":"gold"}
+{"text":"Don`t force it, get a larger hammer.","color":"gold"}
+{"text":"Blood is thicker than water--and much tastier","color":"gold"}
+{"text":"A desk is a wastebasket with drawers","color":"gold"}
+{"text":"Don't ask me - I just work here","color":"gold"}
+{"text":"I'm making these up as I go along","color":"gold"}
+{"text":"Do unto others before they do unto you","color":"gold"}
+{"text":"All I want is a warm bed, a kind word, and *unlimited power*...","color":"gold"}
+{"text":"Never put off until tomorrow what you can avoid all together.","color":"gold"}
+{"text":"Smile -- It makes people wonder what you're thinking.","color":"gold"}
+{"text":"A Smith & Wesson beats four aces.","color":"gold"}
+{"text":"A person forgives only when she is in the wrong.","color":"gold"}
+{"text":"And Man said: ''Let there be God,'' and there was God!","color":"dark_red"}
+{"text":"AIDS is a virus; Bill Gates is a punishment from God.","color":"gold"}
+{"text":"Anything is possible if you don't know what you're talking about.","color":"gold"}
+{"text":"Any system which depends on human reliability is unreliable.","color":"gold"}
+{"text":"An honest politician is one who, when bought, stays bought.","color":"gold"}
+{"text":"Ambition destroys its possessor.","color":"gold"}
+{"text":"A husband is a man who gave up privileges he never knew he had.","color":"gold"}
+{"text":"Anything you say can and will be misquoted and used against you.","color":"gold"}
+{"text":"Anyone who willingly runs Windows deserves what they get","color":"gold"}
+{"text":"Always make stupid moves. It confuses your opponent.","color":"gold"}
+{"text":"","color":"gold","extra":[{"selector":"@r"},{"text":" is livin on reds, vitamin c and cocaine"}]}
+{"text":"And Notch said, ''Let there be crap...'' and Gravel appeared!","color":"dark_red"}
+{"text":"Anything you do can get you shot, including doing nothing.","color":"gold"}
+{"text":"Sure, I know how to copy disks. Where's the Xerox machine?","color":"gold"}
+{"text":"All for one; one for all; ME above all!","color":"gold"}
+{"text":"''Are you stupid?  or are you makin' a special effort today?''","color":"gold"}
+{"text":"Who put it there?","color":"gold"}
+{"text":"I don't work here. I'm a consultant.","color":"gold"}
+{"text":"I'm out of my mind, but feel free to leave a message.","color":"gold"}
+{"text":"Do I sound like a people person?","color":"gold"}
+{"text":"I started out with nothing & still have most of it left!","color":"gold"}
+{"text":"I'm not being rude. You're just insignificant.","color":"gold"}
+{"text":"Any connection between your reality and mine is purely coincidental.","color":"gold"}
+{"text":"The fact that no one understands you doesn't mean you're an artist.","color":"gold"}
+{"text":"I see you've set aside this special time to humiliate yourself in public.","color":"gold"}
+{"text":"I'm really easy to get along with once you people learn to see it my way.","color":"gold"}
+{"text":"Thank you. We're all refreshed and challenged by your unique point of view.","color":"gold"}
+{"text":"Sarcasm is just one more service we offer.","color":"gold"}
+{"text":"Errors have been made. Others will be blamed.","color":"gold"}
+{"text":"Ahhh...I see the screw-up fairy has visited us again.","color":"gold"}
+{"text":"I like you. You remind me of when I was young and stupid.","color":"gold"}
+{"text":"I'm trying to imagine you with a personality.","color":"gold"}
+{"text":"Chaos, panic, & disorder - my work here is done.","color":"gold"}
+{"text":"How do I set a beacon to stun?","color":"gold"}
+{"text":"You are validating my inherent mistrust of strangers.","color":"gold"}
+{"text":"Advice is what we ask for when we already know.","color":"gold"}
+{"text":"Give a man a fish and he will eat for a day. Teach him how to fish, and he will sit in a boat & drink beer all day.","color":"gold"}
+{"text":"Any club that would accept me as a member, I wouldn't want to join.","color":"gold"}
+{"text":"And that is how we know the Earth is banana-shaped.","color":"gold"}
+{"text":"An optimist is a guy without much experience...","color":"gold"}
+{"text":"Two's company, three's the result.","color":"gold"}
+{"text":"All of life's answers are on the wrong side of progress.","color":"gold"}
+{"text":"I don't know what your problem is, but I'll bet it's hard to pronounce.","color":"gold"}
+{"text":"It sounds like English, but I can't understand a word you're saying.","color":"gold"}
+{"text":"I will always cherish the initial misconceptions I had about you.","color":"gold"}
+{"text":"...!","color":"gold"}
+{"text":".party()!","color":"gold"}
+{"text":"","color":"gold","extra":[{"selector":"@a[tag=RandMsg,scores={CurrentMsg=263}]"},{"text":" IS YOU"}]}
+{"text":"1% sugar!","color":"gold"}
+{"text":"100% pure!","color":"gold"}
+{"text":"10 years of Mining and Crafting!","color":"gold"}
+{"text":"0% sugar!","color":"gold"}
+{"text":"Play Minecraft, Watch Topgear, Get Pig!","color":"gold"}
+{"text":"12 herbs and spices!","color":"gold"}
+{"text":"12345 is a bad password!","color":"gold"}
+{"text":"150 bpm for 400000 minutes!","color":"gold"}
+{"text":"150% hyperbole!","color":"gold"}
+{"text":"20 GOTO 10!","color":"gold"}
+{"text":"4815162342 lines of code!","color":"gold"}
+{"text":"90% bug free!","color":"gold"}
+{"text":"90210!","color":"gold"}
+{"text":"A skeleton popped out!","color":"gold"}
+{"text":"Absolutely fixed relatively broken coordinates","color":"gold"}
+{"text":"I just mined 1 TNT!","color":"gold"}
+{"text":"Absolutely no memes!","color":"gold"}
+{"text":"Afraid of the big, black bat!","color":"gold"}
+{"text":"Age of Wonders is better!","color":"gold"}
+{"text":"Ahhhhhh!","color":"gold"}
+{"text":"All inclusive!","color":"gold"}
+{"text":"All is full of love!","color":"light_purple"}
+{"text":"All rumors are true!","color":"gold"}
+{"text":"''Almost never'' is an interesting concept!","color":"gold"}
+{"text":"Also try Braid!","color":"gold"}
+{"text":"Also try Limbo!","color":"gray"}
+{"text":"Also try Mount And Blade!","color":"gold"}
+{"text":"Also try Pixeljunk Shooter!","color":"gold"}
+{"text":"Also try Project Zomboid!","color":"gold"}
+{"text":"Also try Super Meat Boy!","color":"gold"}
+{"text":"Also try Terraria!","color":"gold"}
+{"text":"Also try VVVVVV!","color":"gold"}
+{"text":"Also try World of Goo!","color":"gold"}
+{"text":"An illusion! What are you hiding?","color":"gold"}
+{"text":"A riddle, wrapped in a mystery!","color":"gold"}
+{"text":"As seen on TV!","color":"gold"}
+{"text":"Ask your doctor!","color":"gold"}
+{"text":"''Autological'' is!","color":"gold"}
+{"text":"Autonomous!","color":"gold"}
+{"text":"Awesome game design right there!","color":"gold"}
+{"text":"Awesome!","color":"gold"}
+{"text":"Bees, bees, bees, bees!","color":"gold"}
+{"text":"Bekarton guards the gate!","color":"gold"}
+{"text":"Best in class!","color":"gold"}
+{"text":"Bigger than a bread box!","color":"gold"}
+{"text":"Blue warrior shot the food!","color":"gold"}
+{"text":"Boats FTW","color":"gold"}
+{"text":"Boots with the fur!","color":"gold"}
+{"text":"Bread is pain!","color":"gold"}
+{"text":"Bring it on!","color":"gold"}
+{"text":"Bring me Ray Cokes!","color":"gold"}
+{"text":"Bringing home the bacon!","color":"gold"}
+{"text":"BTAF used to be good!","color":"gold"}
+{"text":"Buckets of lava!","color":"gold"}
+{"text":"Buzzy Bees!","color":"gold"}
+{"text":"Casual gaming!","color":"gold"}
+{"text":"Ceci n'est pas une title screen!","color":"gold"}
+{"text":"Check it out!","color":"gold"}
+{"text":"Check out the far lands!","color":"gold"}
+{"text":"Child's play!","color":"gold"}
+{"text":"Classy!","color":"gold"}
+{"text":"Closed source!","color":"red"}
+{"text":"Cloud computing!","color":"gold"}
+{"text":"Cogito ergo sum!","color":"gold"}
+{"text":"The Zone will consume you.","color":"gold"}
+{"text":"Burn it, burn it all!","color":"gold"}
+{"text":"Collaborate and listen!","color":"gold"}
+["",{"text":"C","color":"dark_blue"},{"text":"o","color":"dark_green"},{"text":"l","color":"aqua"},{"text":"o","color":"dark_red"},{"text":"r","color":"light_purple"},{"text":"m","color":"gold"},{"text":"a","color":"gray"},{"text":"t","color":"dark_gray"},{"text":"i","color":"blue"},{"text":"c","color":"green"}]
+{"text":"Complex cellular automata!","color":"gold"}
+{"text":"Consummate V's!","color":"gold"}
+{"text":"Conventional!","color":"gold"}
+{"text":"Cow Tools!","color":"gold"}
+{"text":"Create!","color":"gold"}
+{"text":"Cruising streets for gold!","color":"gold"}
+{"text":"Cześć Polsko!","color":"gold"}
+{"text":"Déjà vu!","color":"aqua"}
+{"text":"Do not distribute!","color":"gold"}
+{"text":"Does barrel rolls!","color":"gold"}
+{"text":"Doesn't avoid double negatives!","color":"gold"}
+{"text":"Doesn't use the U-word!","color":"gold"}
+{"text":"Don't bother with the clones!","color":"gold"}
+{"text":"Don't feed avocados to parrots!","color":"gold"}
+{"text":"Don't feed chocolate to parrots!","color":"gold"}
+{"text":"Don't look directly at the bugs!","color":"gold"}
+{"text":"Don’t worry, be happy!","color":"gold"}
+{"text":"doot doot","color":"gold"}
+{"text":"Double buffered!","color":"gold"}
+{"text":"Down with O.P.P.!","color":"gold"}
+{"text":"DRR! DRR! DRR!","color":"gold"}
+{"text":"Dungeon!","color":"gold"}
+{"text":"DungeonQuest is unfair","color":"gold"}
+{"text":"Engage!","color":"gold"}
+{"text":"Enhanced!","color":"gold"}
+{"text":"Eple (original edit)!","color":"gold"}
+["",{"text":"FUNKY","obfuscated":true,"color":"gold"},{"text":" LOL","color":"gold"}]
+{"text":"Euclidian!","color":"gold"}
+{"text":"Excitement!","color":"gold"}
+{"text":"Exclusive!","color":"gold"}
+{"text":"Extra things!","color":"gold"}
+{"text":"Falling off cliffs!","color":"gold"}
+{"text":"Falling with style!","color":"gold"}
+{"text":"Fan fiction!","color":"gold"}
+{"text":"Fantasy!","color":"gold"}
+{"text":"Fat free!","color":"gold"}
+{"text":"Feature packed!","color":"gold"}
+{"text":"Finally complete!","color":"gold"}
+{"text":"Finally with ladders!","color":"gold"}
+{"text":"Finger-licking!","color":"gold"}
+{"text":"Flashing letters!","color":"gold"}
+{"text":"Flavor with no seasoning!","color":"gold"}
+{"text":"Flaxkikare!","color":"gold"}
+{"text":"Fnord!","color":"gold"}
+{"text":"Follow the train, CJ!","color":"gold"}
+{"text":"Freaky!","color":"gold"}
+{"text":"Free dental!","color":"gold"}
+{"text":"From the streets of Södermalm!","color":"gold"}
+{"text":"Full of stars!","color":"gold"}
+{"text":"Funk soul brother!","color":"gold"}
+{"text":"Gargamel plays it!","color":"gold"}
+{"text":"Gasp!","color":"gold"}
+{"text":"Getting ready to drop!","color":"gold"}
+{"text":"Getting ready to freak!","color":"gold"}
+{"text":"Getting ready to know!","color":"gold"}
+{"text":"Getting ready to shock!","color":"gold"}
+{"text":"Getting ready to show!","color":"gold"}
+{"text":"Getting ready to speak!","color":"gold"}
+{"text":"Ghoughpteighbteau tchoghs!","color":"gold"}
+{"text":"/give @a hugs 64","color":"red"}
+{"text":"Give us Gordon!","color":"gold"}
+{"text":"GNU Terry Pratchett","color":"gold"}
+{"text":"Go to the dentist!","color":"gold"}
+{"text":"Google anlyticsed!","color":"gold"}
+{"text":"Got your nose!","color":"gold"}
+{"text":"GOTY!","color":"gold"}
+{"text":"Guaranteed!","color":"gold"}
+{"text":"Haha, LOL!","color":"gold"}
+{"text":"Haley loves Elan!","color":"gold"}
+{"text":"Hampsterdance!","color":"gold"}
+{"text":"Han shot first!","color":"gold"}
+{"text":"Hard to label!","color":"gold"}
+{"text":"Has an ending!","color":"gold"}
+{"text":"Haunted!","color":"dark_purple"}
+{"text":"Heaps of hits on YouTube!","color":"gold"}
+{"text":"Helo Cymru!","color":"gold"}
+{"text":"Herregud!","color":"gold"}
+{"text":"Holy cow, man!","color":"gold"}
+{"text":"Homeomorphic to a 3-sphere!","color":"gold"}
+{"text":"Hot tamale, hot hot tamale!","color":"gold"}
+{"text":"Hotter than the sun!","color":"gold"}
+{"text":"HURNERJSGER?","color":"gold"}
+{"text":"I miss ADOM!","color":"gold"}
+{"text":"I need more context.","color":"gold"}
+{"text":"I see your vocabulary has improved!","color":"gold"}
+{"text":"idspispopd!","color":"gold"}
+{"text":"if not ok then return end","color":"gold"}
+{"text":"Indev!","color":"gold"}
+{"text":"Indie!","color":"gold"}
+{"text":"Ingots!","color":"gold"}
+{"text":"Inspirational!","color":"gold"}
+{"text":"In case it isn't obvious, foxes aren't players.","color":"gold"}
+{"text":"It came from space.","color":"gold"}
+{"text":"It swings, it jives!","color":"gold"}
+{"text":"It's a game!","color":"gold"}
+{"text":"It's finished!","color":"gold"}
+{"text":"It's here!","color":"gold"}
+{"text":"Coming soon!","color":"gold"}
+{"text":"Jag känner en bot!","color":"gold"}
+{"text":"I know a bot","color":"gold"}
+{"text":"Jason! Jason! Jason!","color":"gold"}
+{"text":"Jeb has amazing hair!","color":"gold"}
+{"text":"Joel is neat!","color":"gold"}
+{"text":"Jump up, jump up, and get down!","color":"gold"}
+{"text":"Kaaneeeedaaaa!","color":"gold"}
+{"text":"Keyboard compatible!","color":"gold"}
+{"text":"Khaaaaaaaaan!","color":"gold"}
+{"text":"Kick it root down!","color":"gold"}
+{"text":"Kind of dragon free!","color":"gold"}
+{"text":"Kinda like Lemmings!","color":"gold"}
+{"text":"Kiss the sky!","color":"gold"}
+{"text":"l33t!","color":"gold"}
+{"text":"Larger than Earth!","color":"gold"}
+{"text":"Legal in Finland!","color":"gold"}
+{"text":"Lennart lennart = new Lennart();","color":"gold"}
+{"text":"Less addictive than TV Tropes!","color":"gold"}
+{"text":"Leveraging synergy!","color":"gold"}
+{"text":"Lewd with two dudes with food!","color":"gold"}
+{"text":"Limited edition!","color":"gold"}
+{"text":"Livestreamed!","color":"aqua"}
+{"text":"Lots of truthiness!","color":"gold"}
+{"text":"Loved by millions!","color":"gold"}
+{"text":"Macroscopic!","color":"gold"}
+{"text":"Made in Sweden!","color":"gold"}
+{"text":"Make me a table, a funky table!","color":"gold"}
+{"text":"MAP11 has two names!","color":"gold"}
+{"text":"Matt Damon!","color":"gold"}
+{"text":"May contain nuts!","color":"gold"}
+{"text":"Meeting expectations!","color":"gold"}
+{"text":"Menger sponge!","color":"gold"}
+{"text":"Millions of peaches!","color":"light_purple"}
+{"text":"Minecraft!","color":"gold"}
+{"text":"Minecraft Java Edition presents: Disgusting Bugs","color":"gold"}
+{"text":"Miners welcome!","color":"gold"}
+{"text":"Mmmph, mmph!","color":"gold"}
+{"text":"Monster infighting!","color":"gold"}
+{"text":"More Digital!","color":"gold"}
+{"text":"More addictive than lemonade!","color":"yellow"}
+{"text":"More polygons!","color":"gold"}
+{"text":"More than 500 sold!","color":"gold"}
+{"text":"Music by C418!","color":"gold"}
+{"text":"My life for Aiur!","color":"gold"}
+{"text":"Dig straight down!","color":"gold"}
+{"text":"Nice to meet you!","color":"gold"}
+{"text":"Not linear!","color":"gold"}
+{"text":"Not on steam!","color":"gold"}
+{"text":"Now in 3D!","color":"gold"}
+{"text":"Now Java 8!","color":"gold"}
+{"text":"Now supports åäö!","color":"gold"}
+{"text":"Now with additional stuff!","color":"gold"}
+{"text":"Now with difficulty!","color":"gold"}
+{"text":"Now with extra hugs!","color":"gold"}
+{"text":"Now With Multiplayer!","color":"gold"}
+{"text":"NP is not in P!","color":"gold"}
+{"text":"Octagonal!","color":"gold"}
+{"text":"Oh man!","color":"gold"}
+{"text":"Oh, ok, Pigmen!","color":"gold"}
+{"text":"OICU812!","color":"gold"}
+{"text":"Omnipotent!","color":"dark_green"}
+{"text":"One day, somewhere in the future, my work will be quoted!","color":"gold"}
+{"text":"One of a kind!","color":"gold"}
+{"text":"OpenGL 2.1 (if supported)!","color":"gold"}
+{"text":"Peter Griffin!","color":"gold"}
+{"text":"Ph1lza had a good run!","color":"gold"}
+{"text":"Phobos anomaly!","color":"gold"}
+{"text":"Play him off, keyboard cat!","color":"gold"}
+{"text":"Played by cowboys!","color":"gold"}
+{"text":"pls rt","color":"gold"}
+{"text":"Plz reply to my tweet!","color":"gold"}
+{"text":"Pneumatic!","color":"gold"}
+{"text":"Polynomial!","color":"gold"}
+{"text":"Popping tags!","color":"gold"}
+{"text":"Pretty!","color":"gold"}
+{"text":"Pretty scary!","color":"gold"}
+{"text":"Pumpa kungen!","color":"gold"}
+{"text":"Pumpkinhead!","color":"gold"}
+{"text":"Punching wood!","color":"gold"}
+{"text":"Put a little fence around it!","color":"gold"}
+{"text":"Put that cookie down!","color":"gold"}
+{"text":"Random splash!","color":"red"}
+{"text":"Rainbow turtle?","color":"gold"}
+{"text":"Read more books!","color":"gold"}
+{"text":"Reference implementation!","color":"gold"}
+{"text":"Regional resources!","color":"gold"}
+{"text":"Replaced molten cheese with blood?","color":"gold"}
+{"text":"Representing Edsbyn!","color":"gold"}
+{"text":"Reticulating splines!","color":"gold"}
+{"text":"Ride the pig!","color":"gold"}
+{"text":"Rise from your grave!","color":"gold"}
+{"text":"Rita is the new top dog!","color":"gold"}
+{"text":"Rule #1: it's never my fault","color":"gold"}
+{"text":"Run, coward! I hunger!","color":"gold"}
+{"text":"Ryan also has amazing hair!","color":"yellow"}
+{"text":"Scary!","color":"gold"}
+{"text":"Scientific!","color":"gold"}
+{"text":"See you next Friday or so!","color":"gold"}
+{"text":"Seecret Friday update!","color":"gold"}
+{"text":"Sensational!","color":"gold"}
+{"text":"Sexy!","color":"dark_purple"}
+{"text":"Should not be played while driving","color":"gold"}
+{"text":"Slow acting portals!","color":"gold"}
+{"text":"So fresh, so clean!","color":"gold"}
+{"text":"Something funny!","color":"gold"}
+{"text":"Something's not quite right...","color":"gold"}
+{"text":"Spiders everywhere!","color":"gold"}
+{"text":"sqrt(-1) love you!","color":"gold"}
+{"text":"Stay a while, stay forever!","color":"gold"}
+{"text":"Stay a while and listen!","color":"gold"}
+{"text":"Stop being reasonable, this is the Internet!","color":"gold"}
+{"text":"Stop, hammertime!","color":"gold"}
+{"text":"Strange, but not a stranger!","color":"gold"}
+{"text":"Sublime!","color":"gold"}
+{"text":"Supercalifragilisticexpialidocious!","color":"gold"}
+{"text":"Survive!","color":"gold"}
+{"text":"Switches and ores!","color":"gold"}
+{"text":"SWM forever!","color":"gold"}
+{"text":"Swords for everyone!","color":"gold"}
+{"text":"Synecdoche!","color":"gold"}
+{"text":"Take an eggbeater and beat it against a skillet!","color":"gold"}
+{"text":"Take frequent breaks!","color":"gold"}
+{"text":"Take her pillow!","color":"gold"}
+{"text":"Take the elevator to the mezzanine!","color":"gold"}
+{"text":"Technically good!","color":"gold"}
+{"text":"Technologic!","color":"gold"}
+{"text":"Tell your friends!","color":"gold"}
+{"text":"Terrestrial!","color":"gold"}
+{"text":"Testificates!","color":"gold"}
+{"text":"Thank you for the fish!","color":"gold"}
+{"text":"That's no moon!","color":"gold"}
+{"text":"That's Numberwang!","color":"gold"}
+{"text":"That's super!","color":"gold"}
+{"text":"The bee's knees!","color":"gold"}
+{"text":"The creeper is a spy!","color":"gold"}
+{"text":"The sky is the limit!","color":"gold"}
+{"text":"The sum of its parts!","color":"gold"}
+{"text":"Thematic!","color":"gold"}
+{"text":"There's no stopping the Trollmaso","color":"gold"}
+{"text":"This is good for Realms.","color":"gold"}
+{"text":"This is my true form!","color":"gold"}
+{"text":"This message will never appear on the splash screen, isn't that weird?","color":"gold"}
+{"text":"This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!","color":"gold"}
+{"text":"Thousands of colors!","color":"red"}
+{"text":"Throw a blanket over it!","color":"gold"}
+{"text":"Throw yourself at the ground and miss","color":"gold"}
+{"text":"Tip your waiter!","color":"gold"}
+{"text":"Totally forgot about Dre!","color":"gold"}
+{"text":"Tougher than diamonds, rich like cream!","color":"gold"}
+{"text":"Treatment for your rash!","color":"gold"}
+{"text":"Truly gone fishing!","color":"gold"}
+{"text":"Try it!","color":"gold"}
+{"text":"Place ALL the blocks!","color":"gold"}
+{"text":"Try the mushroom stew!","color":"gold"}
+{"text":"Try the Nether!","color":"gold"}
+{"text":"Twittered about!","color":"gold"}
+{"text":"Turing complete!","color":"gold"}
+{"text":"Tyrion would love it!","color":"gold"}
+{"text":"Ultimate edition!","color":"gold"}
+{"text":"umop-apisdn!","color":"gold"}
+{"text":"Undefeated!","color":"gold"}
+{"text":"Undocumented!","color":"gold"}
+{"text":"Une baguette!","color":"gold"}
+{"text":"Uninflammable!","color":"gold"}
+{"text":"Uses LWJGL!","color":"gold"}
+{"text":"Verlet intregration!","color":"gold"}
+{"text":"Very fun!","color":"gold"}
+{"text":"Very influential in its circle!","color":"gold"}
+{"text":"Vote for net neutrality!","color":"dark_green"}
+{"text":"Warning!","color":"dark_red"}
+{"text":"Water bottle!","color":"gold"}
+{"text":"Water proof!","color":"gold"}
+{"text":"Welcome to your Doom!","color":"gold"}
+{"text":"What do you expect?","color":"gold"}
+{"text":"What’s the question?","color":"gold"}
+{"text":"What's up, Doc?","color":"gold"}
+{"text":"Where there is not light, there can spider!","color":"gold"}
+{"text":"Who put it there?","color":"gold"}
+{"text":"Whoa, dude!","color":"gold"}
+{"text":"Woah.","color":"gold"}
+{"text":"Woo, /v/!","color":"gold"}
+{"text":"Woo, facepunch!","color":"gold"}
+{"text":"Woo, reddit!","color":"gold"}
+{"text":"Woo, 2pp!","color":"gold"}
+{"text":"Woo, tigsource!","color":"gold"}
+{"text":"Wow!","color":"gold"}
+{"text":"Yaaay!","color":"gold"}
+{"text":"Yay, puppies for everyone!","color":"gold"}
+{"text":"Yes, sir!","color":"gold"}
+{"text":"You can't explain that!","color":"gold"}
+{"text":"You're going too fast!","color":"gold"}
+{"text":"You've got a brand new key!","color":"gold"}
+{"text":"Γεια σου Ελλάδα!","color":"gold"}
+{"text":"Привет Россия!","color":"gold"}
+{"text":"日本ハロー！","color":"gold"}
+{"text":"한국 안녕하세요!","color":"gold"}
+{"text":"你好中国!","color":"gold"}
+{"text":"''WHat's your name scumbag?''","color":"dark_red"}
+{"text":"From now on you're private snowball.","color":"red"}
+{"text":"Private Joker","color":"red"}
+{"text":"Let me see your war face.","color":"dark_red"}
+{"text":"You got a war face?","color":"dark_red"}
+{"text":"Now let me see your war face!","color":"dark_red"}
+{"text":"Bullshit you didnt convince me, now let me see your real war face!","color":"dark_red"}
+{"text":"AAAAAAAHHHHH","color":"red"}
+{"text":"You dont scare me, work on it.","color":"dark_red"}
+{"text":"Sir yes sir.","color":"red"}
+{"text":"Truly Random Message of the Day","color":"dark_green"}
+{"text":"TRMotd","color":"dark_green"}
+{"text":"Random Motd","color":"dark_green"}
+{"text":"Motd","color":"dark_green"}
+{"text":"Salt","color":"gold"}
+{"text":"I hope someone out there appreciates these messages, I spent like 20 hours overall making the join.mcf.","color":"red"}
+{"text":"Random messages pulled from: Minecraft Splashes, 2b2t Motds, Ubuntu 2007 Forum thread, and a few custom ones.","color":"red"}
+{"text":"''Salt'' is the placeholder used when editing the messages for this datapack.  Because editing them is salty.","color":"red"}
+{"text":"Made by Infamous","color":"gold"}
+{"text":"Razer makes sexy products.","color":"gold"}
+{"text":"My new mouse is better than yours.","color":"gold"}
+{"text":"SO is my keyboard.","color":"gold"}
+{"text":"Updating a computers hardware is a bitch.","color":"gold"}
+{"text":"What ya name is?","color":"gold"}
+{"text":"What da probum is?","color":"gold"}
+{"text":"/kill","color":"gold"}
+{"text":"There's always another message to add...","color":"dark_red"}
+{"text":"I am running out of Motd's.","color":"gold"}
+{"text":"Rate this Datapack, send feedback, github.com/InfamousMusicify/TRMotd","color":"gold"}
+{"text":"Thank you for Downloading TRMotd!","color":"red"}
+{"text":"Do dogs have shoulders?","color":"gold"}
+{"text":"Every Block Is a Silverfish Block","color":"dark_red"}
+{"text":"If you put a lava bucket in a chest, it will burn down.","color":"gold"}
+{"text":"''My axe got stuck in the tree.''","color":"gold"}
