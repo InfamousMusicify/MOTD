@@ -1,10 +1,13 @@
 
 
      Version 4.5:
-Functionality Update: Welcome new players to the server with a server-wide Greeting with their name, that everyone can see.
+Functionality Update: 
+Welcome new players to the server with a server-wide Greeting that everyone can see with the new players name.
+(new players get a server-wide greeting)
 
      Version 4.4:
-Bug Fix: Fixed the Bug where everyone gets a new players welcome message.
+Bug fix: The new player message no longer broadcasts server-wide.
+(New players get a personal welcome message)
 (The way the datapack was originally intended to work by the developer)
 
      Version 4.3:
