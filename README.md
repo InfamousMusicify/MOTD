@@ -5,7 +5,7 @@ Truly Random Message of the Day
      which sends a random message to the player when they log in.
      (Compatible with 1.14+ - 1.15+)
 
-     Version 4.0 or higher Recommended.
+     Version 4.4 or higher Recommended.
 
      You can use the command "scoreboard players set @p Logout 1" to trigger a message for the closest player,
      or "scoreboard players set @a[distance=..50] Logout 1" for an area of effect message.
