@@ -5,6 +5,9 @@ To Edit the content of the New Player message navigate to data/rmt/functions/new
 and edit the text between the curly brackets, Example:
 {"text":"Change this to your message","color":"gold"}
 
+# Keywords to search if your purging the shameless self plugs for the famousbros server:
+Death, Famous, FamousBros, Server.  (also edit the new.mcf in rmt to change the greeting message.)
+
      # Changing the Amount of Messages
 If you want to increase or decrease the number of Messages there are 2 steps involved.
 # Importatnt To Know, *Never edit the #randval in lod.mcf, it should always be at 0.
