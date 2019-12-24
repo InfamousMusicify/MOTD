@@ -1,4 +1,12 @@
 
+
+     Version 4.5:
+Functionality Update: Welcome new players to the server with a server-wide Greeting with their name, that everyone can see.
+
+     Version 4.4:
+Bug Fix: Fixed the Bug where everyone gets a new players welcome message.
+(The way the datapack was originally intended to work by the developer)
+
      Version 4.3:
 Added 400 New Random Messages.  There are now 660 Messages.  (Good Luck Editing Them loool)
 
