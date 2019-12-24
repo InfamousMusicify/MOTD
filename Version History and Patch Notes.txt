@@ -1,6 +1,6 @@
 
-     Future Version 4.x:
-Adding more messages.
+     Version 4.3:
+Added 400 New Random Messages.  There are now 660 Messages.  (Good Luck Editing Them loool)
 
 
      Version 4.2:
