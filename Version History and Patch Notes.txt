@@ -13,22 +13,23 @@ Bug fix: The new player message no longer broadcasts server-wide.
      Version 4.3:
 Added 400 New Random Messages.  There are now 660 Messages.  (Good Luck Editing Them loool)
 
-
      Version 4.2:
 Increased Message count to 260.  Added 134 new random messages.
 
      Version 4.0: Bug Fix
 Attempted to fix a bug where some new players dont recieve messages.  (report any issues please)
 
+
+     Old Versions with Patchy Notes at best:
+     (3.3/3.5 work as advertised)
+
      Version 3.9: Working moslty as intended.  (report any bugs please)
 Fixed the Bug where New players do not get Messages.
 Now new players will get a specific message!  which can be customized in the new.mcf
 
-     Version 3.8: Stable Release
+     Version 3.8:
 Merged v3.3 and v3.5 for optimal functionality and performance.
-Works as intended. Bugs fixed, Performance Optimized.
-Bugs Fixed:
-Everyone getting a message when someone logs in.
+Bugs attempted to be fixed(but failed), Performance Optimized.
 
      Version 3.5:
 Broken but i left it up in case someone likes its functionality.
