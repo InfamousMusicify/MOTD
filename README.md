@@ -20,6 +20,11 @@ Truly Random Message of the Day
      Example:
      {"text":"Change this to your message","color":"gold"}
 
+     4 Commands, /trigger <motd|stoprecord|rfxON|rfxOFF>
+     motd: sends the player a random message
+     stoprecord: stops the music that plays.
+     rfxON: Turn on Effects for yourself.
+     rfxOFF: Turn off Effects for yourself.
 
      There are notes in the datapack .mcf files on how to add more messages
 
