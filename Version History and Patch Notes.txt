@@ -1,5 +1,9 @@
 
 
+     Version 4.6:
+Functionality Update: 
+Added random effects to logins, such as, music playing, cloaks, area effects and auras.
+
      Version 4.5:
 Functionality Update: 
 Welcome new players to the server with a server-wide Greeting that everyone can see with the new players name.
