@@ -1,5 +1,13 @@
 
 
+     Version 4.7
+Funtionality Update:
+Added 4 Commands, /trigger <motd|stoprecord|rfxON|rfxOFF>
+motd: sends the player a random message
+stoprecord: stops the music that plays.
+rfxON: Turn on Effects for yourself.
+rfxOFF: Turn off Effects for yourself.
+
      Version 4.6:
 Functionality Update: 
 Added random effects to logins, such as, music playing, cloaks, area effects and auras.
