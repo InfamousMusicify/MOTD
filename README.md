@@ -19,14 +19,14 @@ Truly Random Message of the Day
      navigate in the data/rmt/functions/join.mcfunction file and edit the text in between the brackets.
      Example:
      {"text":"Change this to your message","color":"gold"}
+     
+     There are notes in the datapack .mcf files on how to add more messages
 
      4 Commands, /trigger <motd|stoprecord|rfxON|rfxOFF>
      motd: sends the player a random message
      stoprecord: stops the music that plays.
      rfxON: Turn on Effects for yourself.
      rfxOFF: Turn off Effects for yourself.
-
-     There are notes in the datapack .mcf files on how to add more messages
 
 
      I spent an inordinate amount of time making this so, I really hope your enjoy. :)
