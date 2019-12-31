@@ -1,8 +1,15 @@
 
 
+     Version 4.7.4:
+Added: 31 Messages, Total Message count now: 691
+Functionality Update: added Toggle Commands to enable/Disable The music and Effects on login.
+/trigger <ToggleRecord-ToggleRFX>
+ToggleRecord: Toggle wether Music plays on login
+ToggleRFX: Toggle Whether Effects play at login.
+
      Version 4.7
 Funtionality Update:
-Added 4 Commands, /trigger <motd|stoprecord|rfxON|rfxOFF>
+Added 4 Commands, /trigger <motd-stoprecord-rfxON-rfxOFF>
 motd: sends the player a random message
 stoprecord: stops the music that plays.
 rfxON: Turn on Effects for yourself.
