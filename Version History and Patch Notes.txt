@@ -1,5 +1,10 @@
 
 
+     Version 4.7.7:
+Added 409 New Messages, Total Message Count: 1100
+Fixed music and effects to fit with new numbers
+Message sources: Discord Loading Lines, Google Translate Resource Pack, Random Ideas, 2b2t Motds, minecraft advancements.
+
      Version 4.7.5:
 Added: 31 Messages, Total Message count now: 691
 Functionality Update: added Toggle Commands to enable/Disable The music and Effects on login.
