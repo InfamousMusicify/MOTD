@@ -5,7 +5,8 @@ Truly Random Message of the Day
      which sends a random message to the player when they log in.
      (Compatible with 1.14+ - 1.15+)
 
-     Version 4.4 or higher Recommended.
+     Version 4.7.4 or higher Recommended.
+     (4.4 or higher for classic)
      
      Motd Sources: All the Minecraft Splashes as of Dec 2019, an evergrowing # of 2b2t Motds, Ubuntu 2007 Forums Motds,
      And a fair amount of custom Motds.
@@ -22,11 +23,13 @@ Truly Random Message of the Day
      
      There are notes in the datapack .mcf files on how to add more messages
 
-     4 Commands, /trigger <motd|stoprecord|rfxON|rfxOFF>
+     6 Commands, /trigger <motd-stoprecord-rfxON-rfxOFF-ToggleRecord-ToggleRFX>
      motd: sends the player a random message
      stoprecord: stops the music that plays.
      rfxON: Turn on Effects for yourself.
      rfxOFF: Turn off Effects for yourself.
+     ToggleRecord: Toggle wether Music plays on login
+     ToggleRFX: Toggle Whether Effects play at login.
 
 
      I spent an inordinate amount of time making this so, I really hope your enjoy. :)
