@@ -4,8 +4,8 @@
 Added: 31 Messages, Total Message count now: 691
 Functionality Update: added Toggle Commands to enable/Disable The music and Effects on login.
 /trigger <ToggleRecord-ToggleRFX>
-ToggleRecord: Toggle wether Music plays on login
-ToggleRFX: Toggle Whether Effects play at login.
+ToggleRecord: Toggle whether Music plays on login
+ToggleRFX: Toggle whether Effects play at login.
 
      Version 4.7
 Funtionality Update:
