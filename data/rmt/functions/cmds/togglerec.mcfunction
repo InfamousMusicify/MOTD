@@ -1,0 +1,1 @@
+scoreboard players set @a[scores={ToggleRecord=2..}] ToggleRecord 0
