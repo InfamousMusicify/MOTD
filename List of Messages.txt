@@ -658,3 +658,34 @@
 {"text":"Every Block Is a Silverfish Block","color":"dark_red"}
 {"text":"If you put a lava bucket in a chest, it will burn down.","color":"gold"}
 {"text":"''My axe got stuck in the tree.''","color":"gold"}
+{"text":"Fix the damn end portals","color":"gold"}
+{"text":"SUPERJAIL","color":"gold"}
+{"text":"Break a block, then break it again!","color":"gold"}
+{"text":"Does anybody have food?","color":"gold"}
+{"text":"dead forever","color":"gold"}
+{"text":"I just picked up 64 Netherrack!","color":"gold"}
+{"text":"YEET!","color":"gold"}
+{"text":"YEET IT!","color":"gold"}
+{"text":"Now with kits!","color":"gold"}
+{"text":"Accept it.","color":"gold"}
+{"text":"---- Minecraft Crash Report ---- // // // // // // // // // On the bright side, I bought you a teddy bear!","color":"gold"}
+{"text":"FIX THE LADDERS","color":"gold"}
+{"text":"The Beginning of The End is HERE!!!","color":"dark_red"}
+{"text":"ok","color":"gold"}
+{"text":"Which SCP number is 2b2t?","color":"gold"}
+{"text":">wooga","color":"gold"}
+{"text":"SUMBIT! SUMBIT! SUMBIT! SUMBIT! SUMBIT! SUMBIT!","color":"gold"}
+{"text":"how do i get food","color":"gold"}
+{"text":"whomst'd've broke my maps!","color":"gold"}
+{"text":"Did You Bring the Cheese","color":"gold"}
+{"text":"Proud Sponsor of My Little Pony","color":"light_purple"}
+{"text":"You thought it was over, but the worst of it has yet to come.","color":"gold"}
+{"text":"Blocks are disabled due to an exploit","color":"gold"}
+{"text":"Placing blocks is now disabled due to an exploit","color":"gold"}
+{"text":"Open Source!","color":"gold"}
+{"text":"you are banned from this server.","color":"dark_red"}
+{"text":"GIT GUD","color":"gold"}
+{"text":"who is the mysterious and elusive master of houses","color":"gold"}
+{"text":"Nobody is amused","color":"gold"}
+{"text":"unstoppable","color":"gold"}
+{"text":"Oh shit it's going down","color":"gold"}
