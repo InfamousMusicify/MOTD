@@ -1,1 +1,0 @@
-scoreboard players set @a[scores={ToggleRFX=2..}] ToggleRFX 0
