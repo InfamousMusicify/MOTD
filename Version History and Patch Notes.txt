@@ -1,6 +1,6 @@
 
 
-     Version 4.7.4:
+     Version 4.7.5:
 Added: 31 Messages, Total Message count now: 691
 Functionality Update: added Toggle Commands to enable/Disable The music and Effects on login.
 /trigger <ToggleRecord-ToggleRFX>
