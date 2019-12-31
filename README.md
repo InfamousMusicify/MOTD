@@ -6,11 +6,11 @@ Truly Random Message of the Day
      (Compatible with 1.14+ - 1.15+)
 
      Version 4.7.7 or higher Recommended.
-     (4.4 or higher for classic)
+     (4.4-4.5 for classic)
      
-     Motd Sources: All the Minecraft Splashes as of Dec 2019, an evergrowing # of 2b2t Motds, Ubuntu 2007 Forums Motds,
-     Discord Loading Lines, Google Translate Resource Pack, Minecraft Advancements.  
-     Random Ideas, And a fair amount of custom Motds.
+     Motd Sources: All the Minecraft Splashes as of Dec 2019, an evergrowing # of 2b2t Motds, 
+     Ubuntu 2007 Forums Motds, Discord Loading Lines, Google Translate Resource Pack, 
+     Minecraft Advancements, Random Ideas, And a fair amount of custom Motds.
 
      You can use the command "scoreboard players set @p Logout 1" to trigger a message for the closest player,
      or "scoreboard players set @a[distance=..50] Logout 1" for an area of effect message.
