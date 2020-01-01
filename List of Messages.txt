@@ -689,3 +689,412 @@
 {"text":"Nobody is amused","color":"gold"}
 {"text":"unstoppable","color":"gold"}
 {"text":"Oh shit it's going down","color":"gold"}
+{"text":"Name a wither at spawn","color":"gold"}
+{"text":"A little fruity","color":"gold"}
+{"text":"friendly players on","color":"gold"}
+{"text":"stop reading this and start placing meaningless blocks","color":"gold"}
+{"text":"2bombs2terrorists","color":"gold"}
+{"text":"It's wabbit season!","color":"gold"}
+{"text":"It's wabbit hunting season!","color":"gold"}
+{"text":"Everyone is a shit","color":"gold"}
+{"text":"S U C C","color":"gold"}
+{"text":"Just 5 more minutes...","color":"gold"}
+{"text":"Delet This!","color":"gold"}
+{"text":"Delete This!","color":"gold"}
+{"text":"Do you have a moment to talk about our lord and savior 'Backdoor'","color":"gold"}
+{"text":"LEGALIZE RANCH!","color":"gold"}
+{"text":"edgy sentence here","color":"gold"}
+{"text":"I could kill you all in 3 seconds.","color":"gold"}
+{"text":"As seen on /b/!","color":"gold"}
+{"text":"Chill. it's just a block game.","color":"gold"}
+{"text":"Don't dig straight down!","color":"gold"}
+{"text":"> has voted","color":"gold"}
+{"text":"Server for SoundCloud rappers only","color":"gold"}
+{"text":"do /kill veteran to join #team veteran","color":"gold"}
+{"text":"Let go.","color":"gold"}
+{"text":"peaceful smp","color":"gold"}
+{"text":"No.","color":"gold"}
+{"text":"Yes.","color":"gold"}
+{"text":"whats a 2b2?????","color":"gold"}
+{"text":"Team map.","color":"gold"}
+{"text":"An uncontained SCP.","color":"gold"}
+{"text":"I'm new can I have food","color":"gold"}
+{"text":"my syndrome may be down, but my hopes are up","color":"gold"}
+{"text":"Fit did nothng wrong","color":"gold"}
+{"text":"where does the ocean end ??","color":"gold"}
+{"text":"Now with circles!","color":"gold"}
+{"text":"succ","color":"gold"}
+{"text":"So hard to die.","color":"gold"}
+{"text":"Not actually the oldest server in Minecraft.","color":"gold"}
+{"text":"A Minecraft Server","color":"gold"}
+{"text":"I hate god because my crush didn't like me","color":"gold"}
+{"text":"Constructive shape","color":"gold"}
+{"text":"Creative mode server","color":"gold"}
+{"text":"Play the selected field","color":"gold"}
+{"text":"Opportunity ...","color":"gold"}
+{"text":"expediency","color":"gold"}
+{"text":"In a creative way","color":"gold"}
+{"text":"Fraud","color":"gold"}
+{"text":"Police","color":"gold"}
+{"text":"how","color":"gold"}
+{"text":"Hard brain!","color":"dark_red"}
+{"text":"Welcome to The End.","color":"gold"}
+{"text":"Welcome to The Realm of Dank!","color":"gold"}
+{"text":"We have a difficult time","color":"gold"}
+{"text":"Create an oak!","color":"gold"}
+{"text":"Gru at Home","color":"gold"}
+{"text":"Room in the house","color":"gold"}
+{"text":"Details.","color":"gold"}
+{"text":"Green card","color":"gold"}
+{"text":"He was born in limestone.","color":"gold"}
+{"text":"wATERMELON","color":"gold"}
+{"text":"Call the influence of the forest!","color":"gold"}
+{"text":"Red","color":"yellow"}
+{"text":"about it","color":"gold"}
+{"text":"Beat the Netherlands","color":"gold"}
+{"text":"Illuminated","color":"aqua"}
+{"text":"Prysmarynskaya","color":"gold"}
+{"text":"This is dangerous","color":"gold"}
+{"text":"The Creator of the sun","color":"gold"}
+{"text":"Your order","color":"gold"}
+{"text":"Your order is ready.","color":"gold"}
+{"text":"The captain of the day","color":"gold"}
+{"text":"Brick walls are the best brick","color":"gold"}
+{"text":"Stay involved","color":"gold"}
+{"text":"Leave them alone!","color":"gold"}
+{"text":"The problem: My farm is on the Observia Site","color":"gold"}
+["",{"selector":"@a[tag=RandMsg,scores={CurrentMsg=766}]","color":"yellow"},{"text":" succesfull","color":"gold"},{"text":" [The problem]","color":"green"},{"text":" grams","color":"gold"}]
+{"text":"Find Pearls","color":"gold"}
+{"text":"Mining","color":"gold"}
+{"text":"it is","color":"gold"}
+{"text":"Shopping: Lemon Juice","color":"gold"}
+{"text":"Download Update: Take a good picture.","color":"gold"}
+{"text":"Gameplay information: AAAAAAHHHHHHHHH!!!!!!!!!!!","color":"gold"}
+{"text":"To much mind is, stone in my lemon juice","color":"gold"}
+{"text":"It's Hot, Fill the hollow with a fork.","color":"gold"}
+{"text":"I dont know today.","color":"gold"}
+{"text":"shield","color":"gold"}
+{"text":"Dr. Healing","color":"gold"}
+{"text":"Ask more questions","color":"dark_purple"}
+{"text":"theft","color":"gold"}
+{"text":"Intersting collection of magical words.","color":"light_purple"}
+{"text":"Sir, it extends into layers.","color":"gold"}
+{"text":"Back on The Road: Take the Spirit out of the fire","color":"gold"}
+{"text":"Tall, Bring your summer clothes","color":"gold"}
+{"text":"Television: Use your power to remove the markers","color":"gold"}
+{"text":"Bring the lighthouse home, Organize and set the cookies","color":"gold"}
+{"text":"Higher loading times, Meet Kayne.","color":"dark_red"}
+{"text":"are you here","color":"gold"}
+{"text":"Protect from weapons, save him from danger at home ... and destroy.","color":"gold"}
+{"text":"The most dangerous skeleton","color":"dark_gray"}
+{"text":"Track everything that happens at once","color":"gold"}
+{"text":"How did we get here?","color":"gold"}
+{"text":"Everyone < knocker","color":"gold"}
+{"text":"To drink.  The local brewery","color":"gold"}
+{"text":"Leave the fire","color":"gold"}
+{"text":"there has never been","color":"gold"}
+{"text":"Successful transfer to the city","color":"gold"}
+{"text":"Adventure!","color":"gold"}
+{"text":"Adventure, Discover, Battle.","color":"gold"}
+{"text":"Call the iron curtain to protect the village","color":"gold"}
+{"text":"Combine the two ghosts with arrows","color":"gold"}
+{"text":"Two birds","color":"gold"}
+{"text":"From stress.","color":"gold"}
+{"text":"So who is the driver?","color":"gold"}
+{"text":"Phil Agger Tries Medicine","color":"gold"}
+{"text":"Harpism","color":"gold"}
+{"text":"fish","color":"gold"}
+{"text":"Look","color":"gold"}
+{"text":"Time of adventure!","color":"gold"}
+{"text":"42/42","color":"gold"}
+{"text":"Time of adventure!  42/42","color":"gold"}
+{"text":"Change changes","color":"gold"}
+{"text":"Sweet Dreams","color":"yellow"}
+{"text":"Use after Death.","color":"dark_red"}
+{"text":"Monster","color":"gold"}
+{"text":"No one","color":"gold"}
+{"text":"He hunts animals","color":"gold"}
+{"text":"Water the enemy","color":"gold"}
+{"text":"to recieve, throw in arrows and arrows","color":"gold"}
+{"text":"Sniper Dundee: Pull the skull at least 50 meters away","color":"gold"}
+{"text":"My friends, death, life, mysteries, being held prisoner, a lack of freedom, the terrors of school...","color":"gold"}
+{"text":"I have watched Supernatural.","color":"gold"}
+{"text":"Excuse me? Such harsh language is not tolerated, especially around the children!!!","color":"gold"}
+{"text":"I have a real name.  I don't wanna give it out.  Because I love you.  'Wut'","color":"gold"}
+{"text":"A poor player that struts and frets his hour upon the stage.","color":"gold"}
+["",{"text":"No I'm not telling you my name.","color":"gold"},{"text":" \u0020Pew.","color":"yellow"},{"text":" \u0020Because you don't need to know.","color":"gold"},{"text":" \u0020Space.","color":"yellow"},{"text":" \u0020Marry me.","color":"gold"},{"text":" \u0020Clever.","color":"yellow"},{"text":" \u0020No it's Robin.","color":"gold"},{"text":" \u0020Williams?","color":"yellow"},{"text":" \u0020Yes.","color":"gold"}]
+{"text":"Hobo with a shotgun","color":"red"}
+["",{"selector":"@r","color":"yellow"},{"text":" Has Voted","color":"gold"}]
+{"text":"Fear Deer","color":"gold"}
+{"text":"Bent","color":"gold"}
+{"text":"Pull somehwhere.","color":"gold"}
+{"text":"City Hero: Finally he attacks you","color":"gold"}
+{"text":"Low Battery","color":"gold"}
+{"text":"Except the straw, Attack!","color":"gold"}
+{"text":"Finally.","color":"dark_red"}
+{"text":"Get the trailer","color":"gold"}
+{"text":"Get the minecart.","color":"gold"}
+{"text":"Get the minecart, I drank to many potions.","color":"gold"}
+{"text":"The sky is the sky","color":"gold"}
+{"text":"Elitia Research.","color":"gold"}
+{"text":"Please fill out the form","color":"gold"}
+{"text":"Congratulations!","color":"gold"}
+{"text":"Gather","color":"gold"}
+{"text":"Working","color":"yellow"}
+{"text":"Working...","color":"yellow"}
+{"text":"Rich","color":"gold"}
+{"text":"Language","color":"gold"}
+{"text":"C U L T U R E","color":"gold"}
+{"text":"Communication","color":"gold"}
+{"text":"Mouse","color":"yellow"}
+{"text":"Catch the fish","color":"gold"}
+{"text":"The world is full of friends and food.","color":"gold"}
+{"text":"Eat something bad for you.","color":"gold"}
+{"text":"Use all the diamond notes and review them.","color":"gold"}
+{"text":"Personal Information","color":"gold"}
+{"text":"The Storm: Then a seed and see its growth","color":"gold"}
+{"text":"Too much mind","color":"gold"}
+{"text":"It was time to play","color":"gold"}
+{"text":"L A N G U A G E","color":"gold"}
+{"text":"Open the open keys","color":"gold"}
+{"text":"The attack has begun!","color":"gold"}
+{"text":"At the End.","color":"dark_red"}
+{"text":"Distance of pigs","color":"gold"}
+{"text":"Wipe the cloth","color":"gold"}
+{"text":"You hope to deal with it.","color":"gold"}
+{"text":"Interested in:","color":"gold"}
+{"text":"Take the Fish","color":"gold"}
+{"text":"Bomb interaction","color":"gold"}
+{"text":"Boat place.","color":"gold"}
+{"text":"These are the people","color":"gold"}
+{"text":"Get up","color":"gold"}
+{"text":"Because","color":"gold"}
+{"text":"The bed was comfortable","color":"gold"}
+{"text":"Bottles open.","color":"gold"}
+{"text":"of","color":"gold"}
+{"text":"The power of loss","color":"gold"}
+{"text":"Animal race","color":"gold"}
+{"text":"Contact us","color":"gold"}
+{"text":"Things","color":"gold"}
+{"text":"the locals","color":"gold"}
+{"text":"It's full of grunts","color":"gold"}
+{"text":"Find the pages","color":"gold"}
+{"text":"Seperate the necessary components","color":"gold"}
+{"text":"He won","color":"gold"}
+{"text":"Damage caused by damage","color":"gold"}
+{"text":"The plants are planted","color":"gold"}
+{"text":"Contact Flare","color":"gold"}
+{"text":"Talk to smoke","color":"gold"}
+{"text":"Talk to the caterpillar with the hookah.","color":"gold"}
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Jumping to hyperspace","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Is this thing on?","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Initiating launch sequence","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Initializing socialization","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" If you are reading this, you can read","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" I swear it's around here somewhere...","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" i need healing","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" how do i turn this thing on","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Loading machine broke","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Get ready for a surprise!","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Finishing this senta...","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Dusting the cobwebs","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Do you even notice these?","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Opening the loading bay doors","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Discord is my city","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Disconnecting from Reality","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Charging spirit bomb","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Charging Limit Break","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Calibrating flux capacitors","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Buckle up!","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Assembling Voltron","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Are we there yet?","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" A brawl is surely brewing!","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" LOADING 001: ARP 303 Saw","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" *Elevator Music Plays*","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Researching cheat codes","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Wizard needs food badly","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Decrypting Engrams","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" And now for something completely different","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Stopping to smell the flowers","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Achieving Nirvana","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Managing Inventory","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Wobbling to 299%","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" DISCORD REQUIRES MORE MINERALS","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Untap, Upkeep, Draw","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Traveling to Hanamura","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" TIME'S UP - LET'S DO THIS!","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" This loading is a line","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" They see me loading, They waiting","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Start your engines","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Skipping cutscenes","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Shuffling the deck","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Reviving dead memes","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Returning the slab","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Recombobulating Discombobulators","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" now with scratch and sniff","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Now with 100% more Screenshare!","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Dropping in Pochinki","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Looking for the power button","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Look behind you","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Locating Wumpus","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Loading your digital hug","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Loading Simulation","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" [A MEME]","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Suh dud","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" PK Load Ω","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Generating terrain...","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Ready Player One","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Did they just walk up slowly and load?","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" i solemnly swear that i am up to no good","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Loading Lines in 2016 LUL","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Switching sides","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Dispatching carrier pigeons","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Is this thing on..?","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Error 404: Joke Not Found","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" We at pumpkin hill, you ready?","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Preparing Final Form","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" ULTIMATE IS READY!","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Activating Witch Time...","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Insert Coin to Continue","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" spinning to win","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Entering cheat codes","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Rushing B","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Pressing random buttons","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Cheat Code Activated","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Discord A-GO-GO BABY","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Resetting Run","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Removing pen from pineapple","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Caution: Contents Spicy","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Good News Everyone!","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Resurrecting dead memes","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Clicking circles (to the beat!)","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Building Lore","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" We don't need a healer for this, right?","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Wubba Lubba Dub Dub","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Scaling Bananas","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" l o a d i n g a e s t h e t i c s","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+{"text":"drugs","color":"gold"}
+{"text":"The cashiers have changed.","color":"gold"}
+{"text":"They were killed","color":"gold"}
+{"text":"Handle Loom Machines!","color":"gold"}
+{"text":"Minimize Damage","color":"gold"}
+{"text":"Do busines with people.","color":"gold"}
+{"text":"Flight","color":"gold"}
+{"text":"Create better pixels.","color":"gold"}
+{"text":"Get an update.","color":"gold"}
+{"text":"This is your new image","color":"gold"}
+{"text":"Cut out","color":"gold"}
+{"text":"We have to dig it deep.","color":"gold"}
+{"text":"take","color":"gold"}
+{"text":"Send it!","color":"gold"}
+{"text":"Superstar Bubble: Use the Void to travel 7 miles around the World","color":"gold"}
+{"text":"Uprising: The shocking castle","color":"gold"}
+{"text":"Raw Cocktail","color":"gold"}
+{"text":"Power","color":"gold"}
+{"text":"Take a lighthouse home","color":"gold"}
+{"text":"Lower","color":"gold"}
+{"text":"Save Leh Ghast, Only to kill Leh Ghast","color":"gold"}
+{"text":"Find your summer clothes","color":"gold"}
+{"text":"A little union","color":"gold"}
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Adventure Time!","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+{"text":"Change your stage.","color":"gold"}
+{"text":"Arbalistiku","color":"gold"}
+{"text":"Who is the Pirate?","color":"gold"}
+{"text":"more","color":"gold"}
+{"text":"Who is the Pilot?","color":"gold"}
+{"text":"Kill the two gods with a blood arrow","color":"gold"}
+{"text":"Loh Golem was called in to defend the city","color":"gold"}
+{"text":"Use the immortal bottom to cheat until you die.","color":"gold"}
+{"text":"One of the worst murders.","color":"dark_purple"}
+{"text":"Monsters are on the hunt.","color":"gold"}
+{"text":"Blood Moon.","color":"dark_red"}
+{"text":"Prevent damage to every enemy","color":"gold"}
+{"text":"The lightning struck the farmer","color":"gold"}
+{"text":"Scared","color":"red"}
+{"text":"Village Details: Success","color":"gold"}
+{"text":"As a volunteer","color":"gold"}
+{"text":"Choose a Captain.","color":"gold"}
+{"text":"What happens then?","color":"gold"}
+{"text":"Free End: Fortunately","color":"gold"}
+{"text":"Finished: Or start.","color":"gold"}
+{"text":"Future: Grab the dragon Egg.","color":"gold"}
+{"text":"Be honest honest","color":"gold"}
+{"text":"Feel like a diamond and think about your life choices","color":"gold"}
+{"text":"Startegy: Catch fish ... no stick.","color":"gold"}
+{"text":"This world is full of friends and food.","color":"gold"}
+{"text":"Developemet","color":"red"}
+{"text":"Do all animals!","color":"gold"}
+{"text":"There are two.","color":"gold"}
+{"text":"Parks and Bats.","color":"gold"}
+{"text":"Permanent","color":"gold"}
+{"text":"Higher Material","color":"gold"}
+{"text":"Follow the eyes of the ender","color":"gold"}
+{"text":"Zombie Doctor Doctor Cutter","color":"light_purple"}
+{"text":"You are weak and he takes care of the zombie farmers","color":"gold"}
+{"text":"Sign into Mobile Portal","color":"gold"}
+{"text":"Mutual of Omicron: Insuring your world... and its destruction.","color":"yellow"}
+{"text":"Wizards!","color":"dark_purple"}
+{"text":"The power of the mind","color":"gold"}
+{"text":"Hello","color":"gold"}
+{"text":"Unique","color":"dark_purple"}
+{"text":"Come summer time","color":"gold"}
+{"text":"Scary Ghost Skeleton","color":"gold"}
+{"text":"Get Skull Skull Wither","color":"gold"}
+{"text":"Wuthering: Call a Tornado","color":"gold"}
+{"text":"Bring the boxer home","color":"gold"}
+{"text":"Builds","color":"red"}
+{"text":"Get a Wither Skull!","color":"gold"}
+{"text":"Project","color":"yellow"}
+{"text":"Take a man by Force","color":"gold"}
+{"text":"Change Breeding Ground.","color":"gold"}
+{"text":"Orbitalist","color":"gold"}
+{"text":"Pillager: Enjoy pillows","color":"gold"}
+{"text":"Let him call","color":"gold"}
+{"text":"Help contracted","color":"gold"}
+{"text":"What a feast!","color":"gold"}
+{"text":"Kill the corpse","color":"gold"}
+{"text":"Use an Unauthorized Totem to deceive Death","color":"red"}
+{"text":"Objective: Shoot something with an arrow and an arrow.","color":"gold"}
+{"text":"Drop a village with lightning.","color":"gold"}
+{"text":"Drop some trout.","color":"gold"}
+{"text":"A Biography","color":"gold"}
+{"text":"Voluntary Depression.","color":"dark_red"}
+{"text":"Progress","color":"gold"}
+{"text":"The","color":"gold"}
+{"text":"Grab the dragon fruit","color":"gold"}
+{"text":"What can happen","color":"gold"}
+{"text":"List 50 blocks of Scholker attacks","color":"gold"}
+{"text":"Good Luck","color":"gold"}
+{"text":"Perfect","color":"gold"}
+{"text":"Serious Devotion","color":"gold"}
+{"text":"Celebrate all kinds of cats!","color":"gold"}
+{"text":"Breed two animals at once.","color":"gold"}
+{"text":"If you haven't tried it, dont knock it.","color":"gold"}
+{"text":"If you won't join me, at least don't dissaprove of me.  not until you've tried it for yourself...","color":"gold"}
+{"text":"Fly like a butterfly, sting like a bee.","color":"gold"}
+{"text":"Fly like a butterfly, sting like a bee, Spectacular on the M.I.C.","color":"gold"}
+{"text":"If that song was pussy I'd eat it.","color":"gold"}
+{"text":"I do what I do when I do what I do when I do it.","color":"gold"}
+{"text":"I feel what I feel when I feel what I feel when I feel it.","color":"gold"}
+{"text":"I listen to what I listen to when I listen to what I listen to when I listen to it.","color":"gold"}
+{"text":"In the sunshine...","color":"gold"}
+{"text":"If you gonna be an asshole, be the whole asshole, don't be half the asshole.","color":"gold"}
+{"text":"Wuba Wuba","color":"gold"}
+{"text":"Yuh Wuba Wunga","color":"gold"}
+{"text":"The opposite of love isn't hate, but, indifference.","color":"gold"}
+{"text":"*Girls turning into guys/ guys into girls*  Friend: 'We live in a society.'","color":"gold"}
+{"text":"Nice guys finish last (with Hoes) but their marriages last cuz they, know what they really want to DoooOOOoooo...","color":"gold"}
+{"text":"Be full of yourself but dont take yourself seriously.  Neither should other people.","color":"gold"}
+{"text":"When in doubt, Ramen.","color":"gold"}
+{"text":"You need a degree of determination to eat delicious things. -Teuchi","color":"gold"}
+{"text":"Tou live and learn, at any rate, you live. -HG2G","color":"gold"}
+{"text":"10,000 Things, 1 Suchness","color":"gold"}
+{"text":"There is a difference between having powers and having percision.","color":"gold"}
+{"text":"Its inscribbled in my mind.","color":"gold"}
+{"text":"You're It.","color":"gold"}
+{"text":"Instigate, Create, Develope, Stir up emotion... And you'll win everytime.","color":"gold"}
+{"text":"Tag","color":"light_purple"}
+{"text":"There are 2 parts to every idea, Inception and Execution.","color":"gold"}
+{"text":"History repeats itself, first as tragedy, and then as farce.","color":"gold"}
+{"text":"Mind Wrappd around Universe Rather than Universe Wrapped around Mind.","color":"gold"}
+{"text":"What radical mis-combinations of characters will be produced next?","color":"red"}
