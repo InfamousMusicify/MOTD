@@ -1,5 +1,9 @@
 
 
+     Version 4.8:
+Added 400 New Message from 2b2t's Motd list.
+Bug fixes: /trigger stoprecord command now stops all sounds. (previously just records)
+
      Version 4.7.7:
 Added 409 New Messages, Total Message Count: 1100
 Fixed music and effects to fit with new numbers
