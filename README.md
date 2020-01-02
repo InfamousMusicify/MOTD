@@ -5,8 +5,8 @@ Truly Random Message of the Day
      which sends a random message to the player when they log in.
      (Compatible with 1.14+ - 1.15+)
 
-     Version 4.7.7 or higher Recommended.
-     (4.4-4.5 for classic)
+     Version 4.8 or higher Recommended.
+     (4.4-4.5 for classic/lightweight experience)
      
      Motd Sources: All the Minecraft Splashes as of Dec 2019, an evergrowing # of 2b2t Motds, 
      Ubuntu 2007 Forums Motds, Discord Loading Lines, Google Translate Resource Pack, 
