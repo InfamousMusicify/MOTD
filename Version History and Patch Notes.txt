@@ -1,7 +1,8 @@
 
 
      Version 4.8:
-Added 400 New Message from 2b2t's Motd list.
+Added 400 New Messages from 2b2t's Motd list. 
+There are now a total of 1500 Random messages.  (and thats probably where it will stay)
 Bug fixes: /trigger stoprecord command now stops all sounds. (previously just records)
 
      Version 4.7.7:
