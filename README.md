@@ -39,6 +39,9 @@ Truly Random Message of the Day
      and to mcskware for his prng datapack for 1.13 and willingness to share his code.
 
      TRMotd (aka RMotd, Random Motd datapack)
+     
+     Check out the Beta-Testing Server!
+     https://bit.ly/2TizsgS
 
      Cheers 
      -Infamous 
