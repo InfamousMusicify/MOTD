@@ -18,7 +18,7 @@ If you want to increase or decrease the number of Messages there are 2 steps inv
      delete from the bottom up the number of lines you wish to remove to get your desired number of messages.
      make sure you do not delete lines with lower numbers.
      1b: If you're adding messages its a little more time consuming but still relatively simple.
-     heasd to the bottom of the Join.mcf from the file listed above, line 1501 is where you should add new messages, 
+     head to the bottom of the Join.mcf from the file listed above, line 1501 is where you should add new messages, 
      move line 1502 down a bit so you dont break the anything when pasting. 
      
 Line 1500 - tellraw @a[tag=RandMsg,scores={CurrentMsg=1500}] {"text":"144p GAMEPLAY!","color":"gold"}
@@ -30,6 +30,6 @@ Line 1502 - tag @a remove RandMsg
      
      2: Now head over to data/mcprng/functions/load.mcfunction, 
      and edit the number at the end of this command to you last message #+1
-     ----- scoreboard players set #maxrand mcprng 1500 -----
+     ----- scoreboard players set #maxrand mcprng 1501 -----
      
 Protip for editing vertical columns of text:  Notepad++, hold alt, click and drag you mouse down to select vertically.
