@@ -7,6 +7,7 @@ Truly Random Message of the Day
 
      Version 4.8 or higher Recommended.
      (4.4-4.5 for classic/lightweight experience)
+     (Version 3.3-3.5 for original experience)
      
      Motd Sources: All the Minecraft Splashes as of Dec 2019, an evergrowing # of 2b2t Motds, 
      Ubuntu 2007 Forums Motds, Discord Loading Lines, Google Translate Resource Pack, 
