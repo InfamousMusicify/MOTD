@@ -1,4 +1,8 @@
 
+     Version 5.2:
+Fixed the bug where all sounds were being stopped continuously.
+and the the message function looping.  Much more performance friendly now. *Nervous Laugh*
+
      Version 5.1:
 Fixed a bug where the random effect wouldn't go away after login.
 
