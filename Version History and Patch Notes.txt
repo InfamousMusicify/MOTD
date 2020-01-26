@@ -1,4 +1,6 @@
 
+     Version 5.0:
+Fixed a multiplayer bug where people who joined after 1 person wouldnt receive messages.
 
      Version 4.8:
 Added 400 New Messages from 2b2t's Motd list. 
