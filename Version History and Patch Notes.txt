@@ -1,4 +1,7 @@
 
+     Version 5.1:
+Fixed a bug where the random effect wouldn't go away after login.
+
      Version 5.0:
 Fixed a multiplayer bug where people who joined after 1 person wouldnt receive messages.
 
