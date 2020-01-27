@@ -1,4 +1,7 @@
 
+     Version 5.5:
+Fixed Login Effect Bug.
+
      Version 5.4:
 Fixed the 2nd login bug where players wouldnt receive a message.
 fixed some other bugs but ive lost track of them honestly.
