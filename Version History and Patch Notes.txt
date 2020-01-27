@@ -1,4 +1,8 @@
 
+     Version 5.4:
+Fixed the 2nd login bug where players wouldnt receive a message.
+fixed some other bugs but ive lost track of them honestly.
+
      Version 5.2:
 Fixed the bug where all sounds were being stopped continuously.
 and the the message function looping.  Much more performance friendly now. *Nervous Laugh*
