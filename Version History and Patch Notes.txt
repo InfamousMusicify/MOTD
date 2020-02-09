@@ -1,4 +1,7 @@
 
+     Version 5.5.1:
+Re-fixed Login effect bug.
+
      Version 5.5:
 Fixed Login Effect Bug.
 
