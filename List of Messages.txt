@@ -1498,3 +1498,83 @@
 {"text":"You thought it was over,","color":"gold"}
 {"text":"You will be alone in the end...","color":"gold"}
 {"text":"You won't last long here","color":"gold"}
+{"text":"MOTD has been disabled due to an exploit","color":"gold"}
+{"text":"Right or wrong, it's very pleasant to break something from time to time","color":"gold"}
+{"text":"Happy senior man approves this message!","color":"gold"}
+{"text":"1.15 Expected sometime soon","color":"gold"}
+{"text":"The nether is now disabled","color":"gold"}
+{"text":"this is a christian server, do not swear","color":"gold"}
+{"text":"mountains get big because they have no natural predators","color":"gold"}
+{"text":"Joining is now disabled due to an exploit.","color":"gold"}
+{"text":"I'm not gay, but $20 is $20","color":"gold"}
+{"text":"Type /kill yes or /kill no to vote!","color":"gold"}
+{"text":"I Got Big Booty Bitches, Big, Big, Booty Bitches","color":"gold"}
+{"text":"Get on a bus leave it all to us, we're going on a feild trip to F A B U L O U S","color":"gold"}
+{"text":"U wot m9?","color":"gold"}
+{"text":"this is now dead","color":"gold"}
+{"text":"The shit storm is obvious now","color":"gold"}
+{"text":"COMMUNICATION ERROR","color":"gold"}
+{"text":"We all never belonged here, but here we are today. ~Wise Words of T","color":"gold"}
+{"text":"The Minecraft equivalent of a Disney attraction based on the Holocost","color":"gold"}
+{"text":"Where's the lamb sauce!?","color":"gold"}
+{"text":"Yeah I have made a mistake","color":"gold"}
+{"text":"have you ever seen a healthy person drink diet coke?","color":"gold"}
+{"text":"im using ubuntu but i might buy a linux computer just to see if its good for gaming","color":"gold"}
+{"text":"Coming Soon, 2b2tCon!","color":"gold"}
+{"text":"Format you hard drive today!","color":"gold"}
+{"text":"Daily reminder to brush your teeth.","color":"gold"}
+{"text":"Use the 1.12 narrator.","color":"gold"}
+{"text":"This server is clickbait","color":"gold"}
+{"text":"The world oldest faction server","color":"gold"}
+{"text":"The worlds oldest faction server","color":"gold"}
+{"text":"What do you do if there are 400 bats in your server","color":"gold"}
+{"text":"AS SEEN ON TV","color":"gold"}
+{"text":"Notch approved server!","color":"gold"}
+{"text":"Make Fort Dick Great Again!","color":"gold"}
+{"text":"Sound disabled due to an exploit","color":"gold"}
+{"text":"Did you know? No you didn't!","color":"gold"}
+{"text":"Null","color":"gold"}
+{"text":"vanilla'","color":"gold"}
+{"text":"OBEY","color":"gold"}
+{"text":"remember, no rashen","color":"gold"}
+{"text":"1.14 Expected sometime soon","color":"gold"}
+{"text":"Any cute girls on today :3","color":"gold"}
+{"text":"Does Marcellas Wallace look like a bitch","color":"gold"}
+{"text":"Always carry Chorus","color":"gold"}
+{"text":"Welcome, Dave.","color":"gold"}
+{"text":"This ends you.","color":"gold"}
+{"text":"Twilight Sparkle is best pony.","color":"gold"}
+{"text":"Self improvment is masturbation.  Now self destruction...","color":"gold"}
+{"text":"Sometimes once is better than a lifetime","color":"gold"}
+{"text":"where are the maps?","color":"gold"}
+{"text":"THAT'S THE POWER OF THE KEYBLADE!","color":"gold"}
+{"text":"Bring me Ray Cokes!","color":"gold"}
+{"text":"All that you know will fade...","color":"dark_red"}
+{"text":"Walking is temporarily disbaled due to an exploit","color":"gold"}
+{"text":"Problems are not stop signs, they are guidelines.","color":"gold"}
+{"text":"You have nowhere else to go!","color":"gold"}
+{"text":"Now hiring! Jews in sombreros","color":"gold"}
+{"text":"I'm just wandering around my base aimlessly, like a middle-aged man visiting his childhood town.","color":"gold"}
+{"text":"Join our digital lego club today!","color":"gold"}
+{"text":"UNDEAD","color":"gold"}
+{"text":"Fishing is temporarily disabled due to an exploit","color":"gold"}
+{"text":"also i'd just like to thank you for","color":"gold"}
+{"text":"dont join this is virused","color":"gold"}
+{"text":"Death is only a temporary inconvenience.","color":"gold"}
+{"text":"an everlasting war between order and chaos","color":"gold"}
+{"text":"Did You Bring the Cheese","color":"gold"}
+{"text":"Everyone on here is a bot except you","color":"gold"}
+{"text":"NO GO AWAY DONT COME HERE YOU CANT LEAVE","color":"gold"}
+{"text":"DRINK PEPSI EVERYDAY","color":"gold"}
+{"text":"buy more coke right now","color":"gold"}
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Bake a cake","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Buy you a nice seafood dinner","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Have an existential crisis","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Microbrew some local kombucha","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Record a new mixtape.","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Optimizijng the people.","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Satisfying the constraints","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Commense Monosaturated Goodening","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Abstracting The Rummage Data","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Upsorbing the contents","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Additive parsing the load","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
