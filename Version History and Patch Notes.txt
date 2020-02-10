@@ -1,4 +1,7 @@
 
+     Version 5.7:
+Fixed rfxON/OFF Functionality.     
+     
      Version 5.6:
 Added 80 new Messages, Added 1 New effect.
 
