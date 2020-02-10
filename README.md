@@ -5,7 +5,7 @@ Truly Random Message of the Day
      which sends a random message to the player when they log in.
      (Compatible with 1.14+ - 1.15+)
 
-     Version 5.6 or higher Recommended.
+     Version 5.7 or higher Recommended.
      (4.4-4.5 for classic/lightweight experience)
      (Version 3.3-3.5 for original experience)
      
