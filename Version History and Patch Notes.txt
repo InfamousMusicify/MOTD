@@ -1,3 +1,23 @@
+#
+     Version 5.8:  COVID-19 Update
+Added 109 New messages, 
+Added 16 Static Health/Safety Messages related to the current COVID-19 Pandemic.
+Stay Safe!
+Wash your hands!
+Use hand sanitizer!
+Shop for your elders!
+Save the world – stay inside!
+Support local businesses!
+Stay home and play games!
+Stay strong!
+Cough or sneeze into your elbow!
+Don’t touch your face!
+Support elderly relatives and friends!
+Prepare, but don’t hoard!
+Gamers unite – separately in your own homes!
+Save the world – stay inside!
+Hang out with your friends online!
+Soap and water!
 
      Version 5.7:
 Fixed rfxON/OFF Functionality.     
