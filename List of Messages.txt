@@ -1578,3 +1578,112 @@
 ["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Abstracting The Rummage Data","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
 ["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Upsorbing the contents","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
 ["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Additive parsing the load","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+{"text":"Our horses have dicks!","color":"gold"}
+{"text":">HEY LOOK GUYS I FIGURED OUT HOW TO MAKE GREEN TEXT XD","color":"gold"}
+{"text":"this is not a factions server","color":"gold"}
+{"text":"gamer time","color":"gold"}
+{"text":"already a map of north korea","color":"gold"}
+{"text":"you still play minecraft?","color":"gold"}
+{"text":"They told me I could write anything for message of the day.","color":"gold"}
+{"text":"actually, yes i did have a bite","color":"gold"}
+{"text":"who turned out the lights","color":"gold"}
+{"text":"Do not state your intended destination until you arrive…","color":"dark_purple"}
+{"text":"Count the shadows.","color":"dark_gray"}
+{"text":"Stay out of the shadows.","color":"dark_gray"}
+{"text":"What I want you to remember is this—and I know it’s hard—the real world is a lie, and your nightmares are real.","color":"gold"}
+{"text":"Sorry, where am I? Excuse me?","color":"gold"}
+{"text":"Don't tell the others, they'll only laugh.","color":"gold"}
+{"text":"I can't think. I don't know, I, I, I, I scream. Ice cream. Ice cream. Ice cream. Ice cream.","color":"gold"}
+{"text":"All servers are located in a hut in cuba with tupac","color":"gold"}
+{"text":"HACKEDBYTEAMRUSHER","color":"gold"}
+{"text":"It's more of a hell than the nether","color":"gold"}
+{"text":"praise Shrek","color":"gold"}
+{"text":"Remember to be friendly!","color":"gold"}
+{"text":"Burst some Pepsi out!","color":"gold"}
+{"text":"62031/66/-202890","color":"gold"}
+{"text":"SMIB SMIB SMIB SMIB","color":"gold"}
+{"text":"Oh Shoot","color":"gold"}
+{"text":"also i'd like to thank you for","color":"gold"}
+{"text":"Back up your .bin!","color":"gold"}
+{"text":"Daily reminder that AgentGB won the war","color":"gold"}
+{"text":"As seen on /co/","color":"gold"}
+{"text":"This is grounded in theory!","color":"gold"}
+{"text":"Riano Keeves - The Destroyer of Worlds","color":"gold"}
+{"text":"Hod Toward - Our Lord and Saviour","color":"gold"}
+{"text":"Server shutting down in 5 seconds.","color":"gold"}
+{"text":"they remind me i still have some sanity left to lose","color":"gold"}
+{"text":"BEHOLD","color":"gold"}
+{"text":"Switchy Citches","color":"gold"}
+{"text":"What's a little cumming between brothers? -Realms","color":"gold"}
+{"text":"soon a map of north korea","color":"gold"}
+{"text":"Made in North Korea","color":"gold"}
+{"text":"fun fact this server is played by mimes","color":"gold"}
+{"text":"i dont come here for the game i come here for the fame","color":"gold"}
+{"text":"smh tbh fam","color":"gold"}
+{"text":"Birds are disabled due to an exploit","color":"gold"}
+{"text":"You hear my name, you will know who Iam.  Everyone knows who I am. My name on the server.","color":"gold"}
+{"text":"removed cactus dupe","color":"gold"}
+{"text":"how do i leave spawn?","color":"gold"}
+{"text":"We need a new dupe.","color":"gold"}
+{"text":"This again...","color":"gold"}
+{"text":"78940 154340","color":"gold"}
+{"text":"BIGGEST VILLAGE IN MINECRAFT","color":"gold"}
+["",{"selector":"@p}]","color":"gold"},{"text":" looks at game screen for the first time today. ''Oh hey, that sword looks cool.''","color":"gold"}]
+{"text":"silentpedro.mp4","color":"gold"}
+{"text":"I dig you like Curiosity digs Mars.","color":"gold"}
+{"text":"I'll maintain that shaft. - Realms","color":"gold"}
+{"text":"why am I suffocating","color":"gold"}
+{"text":"Getting Time Started","color":"gold"}
+{"text":"Get out of my chair!","color":"gold"}
+{"text":"sample text","color":"gold"}
+{"text":"Chunk borders: Hidden","color":"gold"}
+{"text":"Debug","color":"gold"}
+{"text":"Yea, food is also a priority here.","color":"gold"}
+{"text":"Position in queue: 1835","color":"gold"}
+{"text":"you find all types of people, some are smart and others are autistic","color":"gold"}
+{"text":"It is crying.","color":"dark_red"}
+{"text":"git gud","color":"gold"}
+{"text":"GitHub is amazing.","color":"gold"}
+{"text":"Sponsor GitHub!","color":"gold"}
+{"text":"1 was the original number","color":"gold"}
+{"text":"Pretend its 2013 everyday!","color":"gold"}
+{"text":"What the Covenant","color":"gold"}
+{"text":"1 BEST DATING SERVER","color":"gold"}
+{"text":"Semper inops quicumque cupit.","color":"gold"}
+{"text":"Crystal PvP is the only PvP","color":"gold"}
+{"text":"You die when you are killed.","color":"gold"}
+{"text":"More than just a block game.","color":"gold"}
+{"text":"No Step On Snek","color":"gold"}
+{"text":"Either Hoot...","color":"gold"}
+{"text":"Crisis Averted","color":"gold"}
+{"text":"Tetris but with E-Mail.","color":"gold"}
+{"text":"Robot dolphins on drugs, WITH MOTHERFUCKING LASER BEAMS.","color":"gold"}
+{"text":"Go Ahead, Ski Naked. -Ski Balm","color":"dark_green"}
+{"text":"We have detected a presence.","color":"gold"}
+{"text":"Now with 100% more end!","color":"gold"}
+{"text":"Home is where the deception happens","color":"gold"}
+{"text":"> Has Voted","color":"gold"}
+{"text":"OOMPALOOMPA.avi","color":"gold"}
+{"text":"Maintain a positive attitude!","color":"gold"}
+{"text":"<insert name here>","color":"gold"}
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":"Bastening the game turkey","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":"Proclaigerizing the Network","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":"Undecerializing the process","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+{"text":"Akatsuki","color":"gold"}
+{"text":"Stay Safe!","color":"gold"}
+{"text":"Stay Safe! -covid-19 era","color":"gold"}
+{"text":"Wash your hands!","color":"gold"}
+{"text":"Use hand sanitizer!","color":"gold"}
+{"text":"Shop for your elders!","color":"gold"}
+{"text":"Save the world – stay inside!","color":"gold"}
+{"text":"Support local businesses!","color":"gold"}
+{"text":"Stay home and play games!","color":"gold"}
+{"text":"Stay strong!","color":"gold"}
+{"text":"Cough or sneeze into your elbow!","color":"gold"}
+{"text":"Don’t touch your face!","color":"gold"}
+{"text":"Support elderly relatives and friends!","color":"gold"}
+{"text":"Prepare, but don’t hoard!","color":"gold"}
+{"text":"Gamers unite – separately in your own homes!","color":"gold"}
+{"text":"Save the world – stay inside!","color":"gold"}
+{"text":"Hang out with your friends online!","color":"gold"}
+{"text":"Soap and water!","color":"gold"}
