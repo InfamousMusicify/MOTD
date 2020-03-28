@@ -1,5 +1,5 @@
 #
-Planner/Future Updates:
+Planned/Future Updates:
 5.9: Add More messages/ remove Sounds/RFX on Login
 6.0: Add More messages/ Add Mini Add-on Integration for "old" mechanics.
 #
