@@ -9,6 +9,8 @@ Truly Random Message of the Day
      (4.4-4.5 for classic/lightweight experience)
      (Version 3.3-3.5 for original experience)
      
+     Apologies for the Cluttered Downloads section, I am to lazy to learn desktop github and console commands.
+     
      Motd Sources: All the Minecraft Splashes as of Dec 2019, an evergrowing # of 2b2t Motds, 
      Ubuntu 2007 Forums Motds, Discord Loading Lines, Google Translate Resource Pack, 
      Minecraft Advancements, Random Ideas, And a fair amount of custom Motds,
