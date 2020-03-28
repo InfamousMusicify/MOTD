@@ -5,7 +5,7 @@ Truly Random Message of the Day
      which sends a random message to the player when they log in.
      (Compatible with 1.14+ - 1.15+)
 
-     Version 5.7 or higher Recommended.
+     Version 6.1 or higher Recommended.
      (4.4-4.5 for classic/lightweight experience)
      (Version 3.3-3.5 for original experience)
      
@@ -13,6 +13,10 @@ Truly Random Message of the Day
      Ubuntu 2007 Forums Motds, Discord Loading Lines, Google Translate Resource Pack, 
      Minecraft Advancements, Random Ideas, And a fair amount of custom Motds,
      All Realms's Twitch Quotes as of 3-27-20, All Futurama Motd's.
+     
+     Since 6.1, The datapack has been split into 2 parts, the normal MOTD part and the visual/musical Effects portion.
+     the visual/musical portion is completely optional, but adds some nice atmosphere.
+     RFX and Music is no longer enabled by default, it has to be manually enabled by the player.
 
      You can use the command "scoreboard players set @p Logout 1" to trigger a message for the closest player,
      or "scoreboard players set @a[distance=..50] Logout 1" for an area of effect message.
