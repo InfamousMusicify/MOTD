@@ -1,4 +1,9 @@
 #
+Planner/Future Updates:
+5.9: Add More messages/ remove Sounds/RFX on Login
+6.0: Add More messages/ Add Mini Add-on Integration for "old" mechanics.
+#
+
      Version 5.8:  COVID-19 Update
 Added 109 New messages, 
 Added 16 Static Health/Safety Messages related to the current COVID-19 Pandemic.
