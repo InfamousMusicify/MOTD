@@ -25,11 +25,11 @@ Line 1500 - tellraw @a[tag=RandMsg,scores={CurrentMsg=1500}] {"text":"144p GAMEP
 Line 1501 - 
 Line 1502 - tag @a remove RandMsg
 
-     # Add messages by copy and pasting the command on line 1500 and editing the numbers to count up, 
-     change the mcprng #maxrand to your new last messages #+1 in mcprng:load.mcf.
+     # Add messages by copy and pasting the command on line 1500 and editing the numbers to count up. 
+     (change the mcprng #maxrand to your new last messages #+1 in mcprng:load.mcf.)
      
      2: Now head over to data/mcprng/functions/load.mcfunction, 
      and edit the number at the end of this command to you last message #+1
      ----- scoreboard players set #maxrand mcprng 1501 -----
      
-Protip for editing vertical columns of text:  Notepad++, hold alt, click and drag you mouse down to select vertically.
+Protip for editing vertical columns of text:  Notepad++, hold alt, click and drag your mouse down to select vertically.
