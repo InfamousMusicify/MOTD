@@ -15,7 +15,7 @@ If you are under the age of consent please ask your parents for permission befor
      (Version 3.3-3.5 for original experience)
      
      Since 6.1, The datapack has been split into 2 parts, the normal MOTD part and the visual/musical Effects portion.
-     the visual/musical portion is completely optional, but adds some nice atmosphere.
+     the visual/musical portion is completely optional, but adds some nice atmosphere. (you have to download/install it seperately)
      RFX and Music is no longer enabled by default, it has to be manually enabled by the player.
      
      Apologies for the Cluttered Downloads section, I am to lazy to learn desktop github and console commands.
