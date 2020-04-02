@@ -4,6 +4,11 @@ Truly Random Message of the Day
      A Datapack for Minecraft Java Edition
      which sends a random message to the player when they log in.
      (Compatible with 1.14+ - 1.15+)
+     
+This Datapack Contain Explicit Content such as cussing and vulgarity.  If you do not wish to see such things,
+Check out the PG/Lite Edition.  It has 1000 Family Friendly Messages.
+
+If you are under the age of consent please ask your parents for permission before using the regular pack!
 
      Version 6.1 or higher Recommended.
      (4.4-4.5 for classic/lightweight experience)
