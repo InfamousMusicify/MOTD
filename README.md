@@ -46,6 +46,8 @@ If you are under the age of consent please ask your parents for permission befor
      ToggleRecord: Toggle wether Music plays on login
      ToggleRFX: Toggle Whether Effects play at login.
 
+How to Install a Datapack:
+https://www.youtube.com/watch?v=4Dxzw12TQcg
 
      I spent an inordinate amount of time making this so, I really hope your enjoy. :)
      Special Thanks to M.R. Programs for helping me create this.
