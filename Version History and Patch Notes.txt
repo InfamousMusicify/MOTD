@@ -1,5 +1,9 @@
 #
 
+     Version 6.2 - Lite:
+Has /trigger motd
+Contains 1000 Family Friendly Messages.  No Music or Effects Functionality.
+
      Version 6.1:  Performance and Functionality Update.
 Added 263 Messages.
 Stripped Music and Effects into a seperate pack.  Set RFX and Music to be off by default.
