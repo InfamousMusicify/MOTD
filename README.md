@@ -10,7 +10,7 @@ Check out the PG/Lite Edition.  It has 1000 Family Friendly Messages.
 
 If you are under the age of consent please ask your parents for permission before using the regular pack!
 
-     Version 6.1 or higher Recommended.
+     Version 6.3 or higher Recommended.
      (4.4-4.5 for classic/lightweight experience)
      (Version 3.3-3.5 for original experience)
      
@@ -37,11 +37,10 @@ If you are under the age of consent please ask your parents for permission befor
      
      There are notes in the datapack .mcf files on how to add more messages
 
-     6 Commands, /trigger <motd-stoprecord-rfxON-rfxOFF-ToggleRecord-ToggleRFX>
+     5 Commands, /trigger <motd-stoprecord-RFX-ToggleRecord-ToggleRFX>
      motd: sends the player a random message
      stoprecord: stops the music that plays.
-     rfxON: Turn on Effects for yourself.
-     rfxOFF: Turn off Effects for yourself.
+     RFX: Turn on Infinte Effects for yourself.
      ToggleRecord: Toggle wether Music plays on login
      ToggleRFX: Toggle Whether Effects play at login.
 
