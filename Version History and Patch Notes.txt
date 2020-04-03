@@ -1,15 +1,20 @@
 #
 
-     Version 6.3 COVID:
+
+     Version 6.3 COVID (Full):
 Added 49 Messages.  Total now: 2000  (2002 technically, but the 2 arent ever seen.)
 Cleaned up the code, Fixed some small bugs and some new bugs and some weird bugs.
-Moved more code from the main datapack to the Add-on to save on performance in the case its not intalled.
+Moved Code from add-on back over to main pack because the pack is split into 3 parts now.
 Bugs (fixed): 
 Server crash would cause people online during crash to get a welcome message on return
 /trigger rfxON/OFF has been replaced with /trigger RFX due to some weird interference and to save on performace.
 /trigger motd will no longer play music when used to prevent annoyance.
 /trigger motd cleaned up code
 Other smaller bugs which slip the developers mind currently.
+
+     Version 6.3 COVID (split):
+Same as above but this pack was split for the add-on below and only uploaded for a little while.
+Moved more code from the main datapack to the Add-on to save on performance in the case its not intalled.
 
      MOTDRecord v1.3:
 Updated Score Functions.  
