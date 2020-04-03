@@ -1998,3 +1998,7 @@
 {"text":"'No one will ever see us alive again.''","color":"gold"}
 {"text":"'WE SHARE THE HOUSEWORK.''","color":"gold"}
 {"text":"'I make the messes, she cleans them up.''","color":"gold"}
+
+# Easter Eggs:
+Message Zero: {"text":"Tepache","color":"gold"}
+New Player Message: ["",{"text":"Welcome ","color":"gold"},{"selector":"@a[scores={Login=0}]","color":"yellow"},{"text":" to The FamousBros Server!","color":"gold"}]
