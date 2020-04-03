@@ -1950,3 +1950,51 @@
 ["",{"text":"*SMOKE BOMB*","color":"dark_red"},{"text":"\n"},{"selector":"@a[tag=RandMsg,scores={CurrentMsg=1950}]","color":"dark_green"},{"text":" vanishes into the shadows.\nSee you later, ","color":"gold"},{"selector":"@a[tag=RandMsg,scores={CurrentMsg=1950}]","color":"dark_green"},{"text":"!","color":"gold"}]
 ["",{"text":"Hoi ","color":"gold"},{"selector":"@a[tag=RandMsg,scores={CurrentMsg=1951}]","color":"yellow"},{"text":" have you checked the fireplace?","color":"gold"}]
 ["",{"selector":"@a[tag=RandMsg,scores={CurrentMsg=1952}]","color":"yellow"},{"text":" Hey Listen!","color":"gold"}]
+{"text":"How is it called when you reach a black hole?","color":"gold"}
+{"text":"Goes well with Sake.","color":"gold"}
+{"text":"You were due to an exploit.","color":"gold"}
+{"text":"I remember that air block, I'm coming.","color":"gold"}
+{"text":"Nether is temporarily disabled due to an exploit.","color":"gold"}
+{"text":"End is temporarily disabled due to an exploit.","color":"gold"}
+{"text":"Trash Sligger","color":"gold"}
+{"text":"What was that yellow flash?","color":"gold"}
+{"text":"/trigger","color":"gold"}
+{"text":"Sometimes once is better than a lifetime","color":"gold"}
+{"text":"Absolutely nothing, It's a conditioned response.","color":"gold"}
+{"text":"An adventure begins!","color":"gold"}
+{"text":"'I'M GOING FISHING''","color":"gold"}
+{"text":"'I'm going to drink myself dangerously stupid, and stand by a stream with a stick in my hand, while the fish swim by in complete safety.''","color":"gold"}
+{"text":"'IT'S A GUY THING''","color":"gold"}
+{"text":"'There is no rational thought pattern connected with it, and you have no chance at all of making it logical.''","color":"gold"}
+{"text":"'CAN I HELP WITH DINNER?''","color":"gold"}
+{"text":"'Why isn't it already on the table?''","color":"gold"}
+{"text":"'UH HUH,'' ''SURE, HONEY,'' OR ''YES, DEAR...''","color":"gold"}
+{"text":"'IT WOULD TAKE TOO LONG TO EXPLAIN''","color":"gold"}
+{"text":"'I have no idea how it works.''","color":"gold"}
+{"text":"'I WAS LISTENING TO YOUIT'S JUST THAT I HAVE THINGS ON MY MIND.''","color":"gold"}
+{"text":"'I was wondering if that redhead over there is wearing a bra.''","color":"gold"}
+{"text":"'TAKE A BREAK HONEY, YOU'RE WORKING TOO HARD.''","color":"gold"}
+{"text":"'I can't hear the game over the vacuum cleaner.''","color":"gold"}
+{"text":"'THAT'S INTERESTING, DEAR.''","color":"gold"}
+{"text":"'Are you still talking?''","color":"gold"}
+{"text":"'YOU KNOW HOW BAD MY MEMORY IS.''","color":"gold"}
+{"text":"'I remember the theme song to 'F Troop', the address of the first girl I ever kissed, and the vehicle identification numbers of every car I've ever owned, but I forgot your birthday.''","color":"gold"}
+{"text":"'I WAS JUST THINKING ABOUT YOU, AND GOT YOU THESE ROSES.''","color":"gold"}
+{"text":"'The girl selling them on the corner was a real babe.''","color":"gold"}
+{"text":"'OH, DON'T FUSS, I JUST CUT MYSELF, IT'S NO BIG DEAL.''","color":"gold"}
+{"text":"'I have actually severed a limb, but will bleed to death before I admit that I'm hurt.''","color":"gold"}
+{"text":"'HEY, I'VE GOT MY REASONS FOR WHAT I'M DOING.''","color":"gold"}
+{"text":"'I CAN'T FIND IT.''","color":"gold"}
+{"text":"'It didn't fall into my outstretched hands, so I'm completely clueless.''","color":"gold"}
+{"text":"'WHAT DID I DO THIS TIME?''","color":"gold"}
+{"text":"'What did you catch me at?''","color":"gold"}
+{"text":"'I HEARD YOU.''","color":"gold"}
+{"text":"'I haven't the foggiest clue what you just said, and am hoping desperately that I can fake it well enough so that you don't spend the next 3 days yelling at me.''","color":"gold"}
+{"text":"'YOU KNOW I COULD NEVER LOVE ANYONE ELSE.''","color":"gold"}
+{"text":"'I am used to the way you yell at me, and realize it could be worse.''","color":"gold"}
+{"text":"'YOU LOOK TERRIFIC.''","color":"gold"}
+{"text":"'Please don't try on one more outfit, I'm starving.''","color":"gold"}
+{"text":"'I'M NOT LOST. I KNOW EXACTLY WHERE WE ARE.''","color":"gold"}
+{"text":"'No one will ever see us alive again.''","color":"gold"}
+{"text":"'WE SHARE THE HOUSEWORK.''","color":"gold"}
+{"text":"'I make the messes, she cleans them up.''","color":"gold"}
