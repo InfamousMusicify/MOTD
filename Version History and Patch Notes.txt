@@ -1,13 +1,40 @@
 #
 
-     Version 6.2 - Lite:
+     Version 6.3 COVID:
+Added 49 Messages.  Total now: 2000  (2002 technically, but the 2 arent ever seen.)
+Cleaned up the code, Fixed some small bugs and some new bugs and some weird bugs.
+Moved more code from the main datapack to the Add-on to save on performance in the case its not intalled.
+Bugs (fixed): 
+Server crash would cause people online during crash to get a welcome message on return
+/trigger rfxON/OFF has been replaced with /trigger RFX due to some weird interference and to save on performace.
+/trigger motd will no longer play music when used to prevent annoyance.
+/trigger motd cleaned up code
+Other smaller bugs which slip the developers mind currently.
+
+     MOTDRecord v1.3:
+Updated Score Functions.  
+If you update from Motd v6.1 to v6.3 you must also update this if you use the Add-On.
+Cleaned up Code.
+
+     Version 6.3 Lite:
+Stripped Music/Effects/stoprecord.
+Still has classic 2000 Messages, much more Performance Friendly.
+
+     Version 6.3 PG:
+Contains 1000 Family Friendly Messages.
+Stripped Music/Effects/stoprecord Functions.  Very Very Preformance Friendly.
+
+     Version 6.2 - Lite(PG):
 Has /trigger motd
-Contains 1000 Family Friendly Messages.  No Music or Effects Functionality.
+Contains 998 Family Friendly Messages.(and 2 unfriendly.)  No Music or Effects Functionality.
 
      Version 6.1:  Performance and Functionality Update.
-Added 263 Messages.
+Added 263 Messages.  Total is now: 1952
 Stripped Music and Effects into a seperate pack.  Set RFX and Music to be off by default.
 Added all Futurama MOTD's, Added all of Realms's Twitch Quotes as of 3-27-20, 2b2t motds.
+
+     MOTDRecord v1.1:
+Add-on for music andd effects.
 
      Version 5.8:  COVID-19 Update
 Added 109 New messages, 
