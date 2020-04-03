@@ -14,11 +14,6 @@ If you are under the age of consent please ask your parents for permission befor
      (4.4-4.5 for classic/lightweight experience)
      (Version 3.3-3.5 for original experience)
      
-     Since 6.1, The datapack has been split into 2 parts, the normal MOTD part and the visual/musical Effects portion.
-     the visual/musical portion is completely optional, 
-     but adds some nice atmosphere. (you have to download/install it seperately)
-     RFX and Music is no longer enabled by default, it has to be manually enabled by the player.
-     
      Apologies for the Cluttered Downloads section, I am to lazy to learn desktop github and console commands.
      
      Motd Sources: All the Minecraft Splashes as of Dec 2019, an evergrowing # of 2b2t Motds, 
@@ -44,6 +39,8 @@ If you are under the age of consent please ask your parents for permission befor
      RFX: Turn on Infinte Effects for yourself.
      ToggleRecord: Toggle wether Music plays on login
      ToggleRFX: Toggle Whether Effects play at login.
+     
+     RFX and Music is no longer enabled by default, it has to be manually enabled by the player.
 
 How to Install a Datapack:
 https://www.youtube.com/watch?v=4Dxzw12TQcg
