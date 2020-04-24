@@ -45,14 +45,16 @@ If you are under the age of consent please ask your parents for permission befor
 How to Install a Datapack:
 https://www.youtube.com/watch?v=4Dxzw12TQcg
 
-     I spent an inordinate amount of time making this so, I really hope your enjoy. :)
-     Special Thanks to M.R. Programs for helping me create this.
-     and to mcskware for his prng datapack for 1.13 and willingness to share his code.
 
      TRMotd (aka RMotd, Random Motd datapack)
      
      Check out the Beta-Testing Server!
      https://bit.ly/2TizsgS
+
+     I spent an inordinate amount of time making this so, I really hope your enjoy. :)
+     
+     Special Thanks to M.R. Programs for helping me create this.
+          and to mcskware for his prng datapack for 1.13 and willingness to share his code.
 
      Cheers 
      -Infamous 
