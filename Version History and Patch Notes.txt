@@ -1,10 +1,11 @@
 #
 
-     Version 6.5: NOVID-r1 (Full) #Future Update#
-Adding More Messages!
+     Version 6.5: NOVID (Full)
+Added 53 New Messages!  Updated Effects for 2500 Messages for the future.
+Tweaked Code/Mechanics to work better per player.
 
-     Version 6.4.5: NOVID-Pre1 (Full/Lite/PG) #Near Future Update#
-Putting COVID messages into the normal flow of messages.  Removing Static Messages.
+     Version 6.4: NOVID (Lite/PG)
+Removed Static Messages.
 
      Version 6.3 COVID (Full):
 Added 49 Messages.  Total now: 2000  (2002 technically, but the 2 arent ever seen.)
