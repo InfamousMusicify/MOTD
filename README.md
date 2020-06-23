@@ -46,13 +46,12 @@ If you are under the age of consent please ask your parents for permission befor
      RFX and Music is no longer enabled by default, it has to be manually enabled by the player.
 
 How to Install a Datapack:
-https://www.youtube.com/watch?v=4Dxzw12TQcg
+     https://www.youtube.com/watch?v=4Dxzw12TQcg
 
+Check out the Beta-Testing Server!
+     https://bit.ly/2TizsgS
 
      TRMotd (aka RMotd, Random Motd datapack)
-     
-     Check out the Beta-Testing Server!
-     https://bit.ly/2TizsgS
 
      I spent an inordinate amount of time making this so, I really hope your enjoy. :)
      
