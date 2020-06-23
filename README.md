@@ -14,6 +14,9 @@ If you are under the age of consent please ask your parents for permission befor
      (4.4-4.5 for classic/lightweight experience)
      (Version 3.3-3.5 for original experience)
      
+           Click TRMotdVx.x and then click download.
+      Paste the datapack into your .minecraft/saves/world/datapacks folder.
+     
      Apologies for the Cluttered Downloads section, I am to lazy to learn desktop github and console commands.
      
      Motd Sources: All the Minecraft Splashes as of Dec 2019, an evergrowing # of 2b2t Motds, 
