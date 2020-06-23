@@ -10,7 +10,7 @@ Check out the PG Edition.  It has 1000 Family Friendly Messages.
 
 If you are under the age of consent please ask your parents for permission before using the regular pack!
 
-     Version 6.3 or higher Recommended.
+     Version 6.4 or higher Recommended.
      (4.4-4.5 for classic/lightweight experience)
      (Version 3.3-3.5 for original experience)
 
