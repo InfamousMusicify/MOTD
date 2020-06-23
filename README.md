@@ -51,14 +51,6 @@ https://www.youtube.com/watch?v=4Dxzw12TQcg
 
      TRMotd (aka RMotd, Random Motd datapack)
      
-     PG/Lite Commands: (Soon to be Phased out.)
-     /trigger <motd-stoprecord-RFX-ToggleRecord-ToggleRFX>
-     motd: sends the player a random message
-     stoprecord: stops the music that plays.
-     RFX: Turn on Infinte Effects for yourself.  (login effects must be on.)
-     ToggleRecord: Toggle wether Music plays on login
-     ToggleRFX: Toggle Whether Effects play at login.
-     
      Check out the Beta-Testing Server!
      https://bit.ly/2TizsgS
 
