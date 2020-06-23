@@ -1,7 +1,8 @@
 #
 
-     Version 6.5: NOVID (PG/Lite) #Future Version#
+     Version 6.5: NOVID (PG/Lite)
 Added COVID messages to main lists.     
+(Updated Lite messages with newer list.)
 
      Version 6.5: NOVID (Full)
 Added 53 New Messages!  Updated Effects for 2500 Messages for the future.
