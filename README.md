@@ -13,7 +13,7 @@ If you are under the age of consent please ask your parents for permission befor
      Version 6.3 or higher Recommended.
      (4.4-4.5 for classic/lightweight experience)
      (Version 3.3-3.5 for original experience)
-     
+
            Click TRMotdVx.x and then click download.
       Paste the datapack into your .minecraft/saves/world/datapacks folder.
      
