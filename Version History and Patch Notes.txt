@@ -3,6 +3,13 @@
      Version 6.5: NOVID (Full)
 Added 53 New Messages!  Updated Effects for 2500 Messages for the future.
 Tweaked Code/Mechanics to work better per player.
+Updated Commands:
+/trigger <motd-stopmusic-rfx-loginmusic-loginrfx>
+ motd: sends the player a random message
+ stopmusic: stops the music that plays.
+ rfx: Turn on Infinte Effects for yourself.  (login effects must be on.)
+ loginmusic: Toggle wether Music plays on login
+ loginrfx: Toggle Whether Effects play at login.
 
      Version 6.4: NOVID (Lite/PG)
 Removed Static Messages.
