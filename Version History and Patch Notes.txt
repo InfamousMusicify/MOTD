@@ -1,7 +1,8 @@
 #
 
      Version 6.5: NOVID (PG/Lite)
-Added COVID messages to main lists.     
+Added COVID messages to main lists.
+Tweaked Lite Version to great new players with a special Message.
 (Updated Lite messages with newer list.)
 
      Version 6.5: NOVID (Full)
