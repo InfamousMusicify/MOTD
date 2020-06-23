@@ -36,12 +36,12 @@ If you are under the age of consent please ask your parents for permission befor
      
      There are notes in the datapack .mcf files on how to add more messages
 
-     5 Commands, /trigger <motd-stoprecord-RFX-ToggleRecord-ToggleRFX>
+     5 Commands, /trigger <motd-stopmusic-rfx-loginmusic-loginrfx>
      motd: sends the player a random message
-     stoprecord: stops the music that plays.
-     RFX: Turn on Infinte Effects for yourself.
-     ToggleRecord: Toggle wether Music plays on login
-     ToggleRFX: Toggle Whether Effects play at login.
+     stopmusic: stops the music that plays.
+     rfx: Turn on Infinte Effects for yourself.  (login effects must be on.)
+     loginmusic: Toggle wether Music plays on login
+     loginrfx: Toggle Whether Effects play at login.
      
      RFX and Music is no longer enabled by default, it has to be manually enabled by the player.
 
