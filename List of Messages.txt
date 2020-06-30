@@ -1998,6 +1998,135 @@
 {"text":"'No one will ever see us alive again.''","color":"gold"}
 {"text":"'WE SHARE THE HOUSEWORK.''","color":"gold"}
 {"text":"'I make the messes, she cleans them up.''","color":"gold"}
+{"text":"***Feverishly Typing***","color":"dark_green"}
+{"text":"Nipple accomplished","color":"gold"}
+{"text":"Nucking Funt","color":"gold"}
+{"text":"'My right ear reads lips.''","color":"gold"}
+{"text":"Poking Smot","color":"gold"}
+{"text":"'We'll teach you how Servers operate.''","color":"gold"}
+{"text":"'We'll teach you how Minecraft Servers operate.''","color":"gold"}
+{"text":"'We'll teach you how radio stations operate.''","color":"gold"}
+{"text":"Sloom dayer","color":"gold"}
+{"text":"It's baron time","color":"gold"}
+{"text":"Doom Slayer","color":"gold"}
+{"text":"Sloom dayer in: Baron time","color":"gold"}
+{"text":"Sloom Dayer: BaronTime","color":"gold"}
+{"text":"Bring home the toilet paper.","color":"gold"}
+{"text":"Ripitorium","color":"gold"}
+{"text":"The Bruh Keg","color":"gold"}
+{"text":"Teararium","color":"gold"}
+{"text":"Welcome to the Que Server!","color":"gold"}
+{"text":"Postion in Que: 2034","color":"gold"}
+{"text":"ARE YOU NOT MOTIVATED???","color":"gold"}
+{"text":"ARE YOU NOT ENTERTAINED?","color":"gold"}
+{"text":"Time to Play!","color":"gold"}
+{"text":"Swift Fluid","color":"gold"}
+{"text":"Still bringing home the toilet paper","color":"gold"}
+{"text":"It's a dragon car.","color":"gold"}
+{"text":"You shouldn't count chickens with a shotgun.","color":"gold"}
+{"text":"You shouldn't count your chickens with a shotgun.","color":"gold"}
+{"text":"Integrity Check","color":"gold"}
+{"text":"'I am inevitable'' - Spike Pit","color":"gold"}
+{"text":"Log Me In Hamachi","color":"gold"}
+{"text":"Log Me In, Hamachi","color":"gold"}
+{"text":"'Ready a little, do you want to fly up in a padless dress?'' - google translate","color":"gold"}
+{"text":"'Wait, it's a terrific number of the west region, and it's amazing.'' - google translate","color":"gold"}
+{"text":"'I want to see the root rate of 3 rain drops'' - google translate","color":"gold"}
+{"text":"'Once i get older, I just fly away'' - google translate","color":"gold"}
+{"text":"'thunder is pointed to and shipped'' - google translate","color":"gold"}
+{"text":"'It's a little dificult to swim'' - google translate","color":"gold"}
+{"text":"'Isn't it a woman yet?'' - google translate","color":"gold"}
+{"text":"'Iwant you to stop and stop using this technology.'' - google translate","color":"gold"}
+{"text":"Vampire Blood - Premium Vampire Extract","color":"gold"}
+{"text":"Vampire Blood - Premium Vampire Extract - Incense","color":"gold"}
+{"text":"Vampire Blood","color":"gold"}
+{"text":"Vampire Blood - Incense","color":"gold"}
+{"text":"The Devils Garden","color":"dark_red"}
+{"text":"**Feverishly Typing**","color":"dark_red"}
+{"text":"Infamous - **Feverishly Typing**","color":"red"}
+{"text":"Collective Conciousness Activate!","color":"gold"}
+{"text":"For now...","color":"gold"}
+{"text":"You first.","color":"gold"}
+{"text":"Dynamic Individual","color":"gold"}
+{"text":"You can land on my spike.","color":"gold"}
+{"text":"Removed Ducks.","color":"gold"}
+{"text":"Hardcore Survival:World Nein! (The Way of the Zombie: Episode 11) Galaxy of the Guardian","color":"gold"}
+{"text":"Galaxy of the Guardian","color":"gold"}
+{"text":"Brain Fever","color":"gold"}
+{"text":"Put the cookie down now!","color":"gold"}
+{"text":"Danto's Inferné","color":"gold"}
+{"text":"Make an Excremental!","color":"gold"}
+{"text":"The Body - ''I Feel All''","color":"gold"}
+{"text":"I still want my dick sucked. -Itchy","color":"gold"}
+{"text":"'Cursed Item''","color":"gold"}
+{"text":"'Cursed Item 1''","color":"gold"}
+{"text":"Amodeo for emperor 2028!","color":"gold"}
+{"text":"I love you my darling.","color":"gold"}
+{"text":"Hitler intends to invade Czechoslovakia.","color":"gold"}
+{"text":"'People will die'' -Frank Amodeo","color":"gold"}
+{"text":"'I will anthrax your entire village.'' -Frank Amodeo","color":"gold"}
+{"text":"Am I There?","color":"gold"}
+{"text":"Drew Blagon","color":"gold"}
+{"text":"Drack Blagon","color":"gold"}
+{"text":"Drack Hole Blagon","color":"gold"}
+["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Recalculating Emoji Splines","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+{"text":"Vampire Blood is harvested through an advanced process in which vampires are slowly bled.  The unearthly qualities of the blood are isolated and extracted into a premium product.","color":"red"}
+{"text":"Some vampires were harmed during this process but none met true death.  This is a rare premium extract of Vampire Blood that is sure to heighten the senses and create inner sensations of nirvana.  Enjoy.","color":"red"}
+{"text":"Vampire Blood is harvested through an advanced process in which vampires are slowly bled.  The unearthly qualities of the blood are isolated and extracted into a premium product.  Some vampires were harmed during this process but none met true death.  This is a rare premium extract of Vampire Blood that is sure to heighten the senses and create inner sensations of nirvana.  Enjoy.","color":"red"}
+{"text":"Rip and Tear","color":"red"}
+{"text":"Have an existential crisis!","color":"gold"}
+{"text":"Run for Mayor!","color":"gold"}
+{"text":"Run for Mayor Once a Day!","color":"gold"}
+{"text":"Your shipment of fail has arrived. ¯\\_(\u30c4)_/¯","color":"gold"}
+{"text":"Eutopia for Realists","color":"gold"}
+{"text":"Cluing for Looks","color":"gold"}
+{"text":"Find Muckery","color":"gold"}
+{"text":"Drink the Boots, Kick the Beer, Brush the Screen.","color":"gold"}
+{"text":"WadIJusStumblOn","color":"gold"}
+{"text":"How many polygons is reality made of?","color":"gold"}
+{"text":"How you know you've been 3d modeling to long: How many polygons is reality made of?","color":"gold"}
+{"text":"Belcome Wack!","color":"gold"}
+{"text":"Reach the Rave!","color":"gold"}
+{"text":"Rave Reacher!","color":"gold"}
+{"text":"Kynesmiraft Dungeoun","color":"gold"}
+{"text":"cinesmraft","color":"gold"}
+{"text":"CinesMraft","color":"gold"}
+{"text":"Subscrub","color":"gold"}
+{"text":"Army of Me","color":"gold"}
+{"text":"If you complain once more, you'll meet an army of me.","color":"gold"}
+{"text":"Brain Generated","color":"gold"}
+{"text":"Brain Germinated","color":"gold"}
+{"text":"Big Allele Energy","color":"gold"}
+{"text":"Chaos is a Ladder.","color":"gold"}
+{"text":"Hungry for life... Thirsty for existence...","color":"gold"}
+{"text":"Option paralysis","color":"gold"}
+{"text":"Soilent Green is people!","color":"gold"}
+{"text":"Parents are a myth. Yeah their made up by the govt.","color":"gold"}
+{"text":"I'll touch your products...","color":"gold"}
+{"text":"We must power the D!","color":"gold"}
+{"text":"Another day another nap.","color":"gold"}
+{"text":"I looooove them balls\n.............","color":"gold"}
+{"text":"Be an ass and leave.","color":"gold"}
+{"text":"Exhume-a-zoom-zoom!","color":"gold"}
+{"text":"This parrot is no more! It has ceased to be!","color":"gold"}
+{"text":"Honey, I grew the bees!","color":"gold"}
+{"text":"Find your claw!","color":"gold"}
+{"text":"Everybody do the Leif!","color":"gold"}
+{"text":"<3 Max & 99 & Ducky!","color":"gold"}
+{"text":"Bushy eyebrows!","color":"gold"}
+{"text":"Edit is a name!","color":"gold"}
+{"text":"From free range developers!","color":"gold"}
+{"text":"Music by Lena Raine!","color":"gold"}
+{"text":"Aww man!","color":"gold"}
+{"text":"#minecraftfarms","color":"gold"}
+{"text":"And my pickaxe!","color":"gold"}
+{"text":"Envision! Create! Share!","color":"gold"}
+{"text":"Fabulous graphics!","color":"gold"}
+{"text":"Also try Minecraft Dungeons!","color":"gold"}
+{"text":"Vanilla!","color":"gold"}
+{"text":"May contain traces of citrus!","color":"gold"}
+{"text":"Zoglin!?","color":"gold"}
+execute if entity @a[tag=RandMsg,scores={CurrentMsg=2129}] run tellraw @a ["",{"selector":"@a[tag=RandMsg,scores={CurrentMsg=2129}]","color":"yellow"},{"text":" Returns from the void of lurkage!","color":"gold"}]
 
 # Easter Eggs:
 Message Zero: {"text":"Tepache","color":"gold"}
