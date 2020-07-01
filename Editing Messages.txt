@@ -1,4 +1,5 @@
      # Editing
+Extract the datapack using winrar or 7-zip.
 If you want to Edit the content of the messages navigate to data/rmt/functions/join.mcfunction
 To Edit the content of the New Player message navigate to data/rmt/functions/new.mcfunction
 
@@ -10,16 +11,18 @@ Death, Famous, FamousBros, Server.  (also edit the new.mcf in rmt to change the 
 
      # Changing the Amount of Messages
 If you want to increase or decrease the number of Messages there are 2 steps involved.
-# Importatnt To Know, *Never edit the #randval in lod.mcf, it should always be at 0.
-# Second, Maxrand should always be set 1 number above your last messages number, Example:
+# Importatnt To Know, *Never edit the #randval value in load.mcf, it should always be at 0.
+# Second, #maxrand should always be set 1 number above your last messages number, Example:
 # Your last message = 130 than #maxrand = 131
 
      1a: Edit the join.Mcf File in the folder above, if you're removing messages your task is simple,
      delete from the bottom up the number of lines you wish to remove to get your desired number of messages.
      make sure you do not delete lines with lower numbers.
      1b: If you're adding messages its a little more time consuming but still relatively simple.
-     head to the bottom of the Join.mcf from the file listed above, line 2001 is where you should add new messages, 
+     head to the bottom of the Join.mcf from the file listed above, 
+     in this example line 2001 is where you should add new messages, after the last line in the message sequence.
      move line 2002 down a bit so you dont break the anything when pasting. 
+     (There is a line below the last line with a message in it keep this below as well as line 2002, feel free to edit the message)
      
 Line 2000 - tellraw @a[tag=RandMsg,scores={CurrentMsg=2000}] {"text":"144p GAMEPLAY!","color":"gold"}
 Line 2001 - 
