@@ -1,5 +1,11 @@
 #
 
+     Version 6.5.x: (Future Version(s))
+Adding /trigger motd_help - for in game help with commands.
+adding more messages.
+rebalancing effects and music
+updating lite edition.
+
      Version 6.5.1: (Full)
 Added Advancements for Info/Credit in Adv's Menu.
 
