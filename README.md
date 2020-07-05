@@ -5,7 +5,8 @@ TRMotd / MOTD / RMOTD / Vanilla Minecraft RMotd
      which sends a random message to the player when they log in.
      (Compatible with 1.14+ - 1.15+)
      
-This Datapack Contains Explicit Content such as cussing and vulgarity.  If you do not wish to see such things,
+This Datapack Contains Explicit Content such as cussing and vulgarity.  
+If you do not wish to see such things,
 Check out the PG Edition.  It has 1000 Family Friendly Messages.
 
 If you are under the age of consent please ask your parents for permission before using the Full/Lite Edition packs!
