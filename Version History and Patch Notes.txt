@@ -6,6 +6,10 @@ adding more messages.
 rebalancing effects and music
 updating lite edition.
 
+     Version 6.5.2: (Full)
+Cleaned Code up, Performance Boosted!
+fixed a few minor bugs.
+
      Version 6.5.1: (Full)
 Added Advancements for Info/Credit in Adv's Menu.
 
