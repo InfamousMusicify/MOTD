@@ -1,10 +1,20 @@
-#
+# Version History and Notes
+
 
      Version 6.5.x: (Future Version(s))
 Adding /trigger motd_help - for in game help with commands.
 adding more messages.
 rebalancing effects and music
 updating lite edition.
+
+
+# Miencraft 1.16.2
+
+     Version 6.5.3: (Full/PG/Lite)
+Updated UI for 1.16.2!  Added Pack Icon!
+
+
+# Minecraft 1.16.1 and Below
 
      Version 6.5.2: (Full)
 Cleaned Code up, Performance Boosted!
