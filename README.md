@@ -3,7 +3,7 @@ TRMotd / MOTD / RMOTD / Vanilla Minecraft RMotd
 
      A Datapack for Minecraft Java Edition
      which sends a random message to the player when they log in.
-     (Compatible with 1.14+ - 1.15+)
+     (Compatible with 1.14+ - 1.16.2+)
      
 This Datapack Contains Explicit Content such as cussing and vulgarity.  
 If you do not wish to see such things,
