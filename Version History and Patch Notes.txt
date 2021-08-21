@@ -1,12 +1,13 @@
 # Version History and Notes
 
+# Miencraft 1.17
 
-     Version 6.5.x: (Future Version(s))
-Adding /trigger motd_help - for in game help with commands.
-adding more messages.
-rebalancing effects and music
-updating lite edition.
-
+     Version 6.7: (Full/PG)
+Stripped pack back to basic motd pack.  true to form.
+Server performance enhanced!
+added something like 330 messages.  now 2500 messages.
+removed extra functions for effects and music and stuff.
+Message of the day.
 
 # Miencraft 1.16.2
 
