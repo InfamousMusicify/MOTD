@@ -1,79 +1,79 @@
-# Version History and Notes
+# Version History and Notes  
 
-# Miencraft 1.17
+# Miencraft 1.17  
 
      Version 6.7: (Full/PG)
-Stripped pack back to basic motd pack.  true to form.
-Server performance enhanced!
-added something like 330 messages.  now 2500 messages.
-removed extra functions for effects and music and stuff.
-Message of the day.
+Stripped pack back to basic motd pack.  true to form.  
+Server performance enhanced!  
+added something like 330 messages.  now 2500 messages.  
+removed extra functions for effects and music and stuff.  
+Message of the day.  
 
-# Miencraft 1.16.2
+# Miencraft 1.16.2  
 
-     Version 6.5.3: (Full/PG/Lite)
-Updated UI for 1.16.2!  Added Pack Icon!
+     Version 6.5.3: (Full/PG/Lite)  
+Updated UI for 1.16.2!  Added Pack Icon!  
 
 
-# Minecraft 1.16.1 and Below
+# Minecraft 1.16.1 and Below  
 
-     Version 6.5.2: (Full)
-Cleaned Code up, Performance Boosted!
-fixed a few minor bugs.
+     Version 6.5.2: (Full)  
+Cleaned Code up, Performance Boosted!  
+fixed a few minor bugs.  
 
-     Version 6.5.1: (Full)
-Added Advancements for Info/Credit in Adv's Menu.
+     Version 6.5.1: (Full)  
+Added Advancements for Info/Credit in Adv's Menu.  
 
-     Version 6.5: NOVID (PG/Lite)
-Added COVID messages to main lists.
-Tweaked Lite Version to great new players with a special Message.
-(Updated Lite messages with newer list.)
+     Version 6.5: NOVID (PG/Lite)  
+Added COVID messages to main lists.  
+Tweaked Lite Version to great new players with a special Message.  
+(Updated Lite messages with newer list.)  
 
-     Version 6.5: NOVID (Full)
-Added 53 New Messages!  Updated Effects for 2500 Messages for the future.
-Tweaked Code/Mechanics to work better per player.
-Updated Commands:
-/trigger <motd-stopmusic-rfx-loginmusic-loginrfx>
- motd: sends the player a random message
- stopmusic: stops the music that plays.
- rfx: Turn on Infinte Effects for yourself.  (login effects must be on.)
- loginmusic: Toggle wether Music plays on login
- loginrfx: Toggle Whether Effects play at login.
+     Version 6.5: NOVID (Full)  
+Added 53 New Messages!  Updated Effects for 2500 Messages for the future.  
+Tweaked Code/Mechanics to work better per player.  
+Updated Commands:   
+/trigger <motd-stopmusic-rfx-loginmusic-loginrfx>   
+ motd: sends the player a random message   
+ stopmusic: stops the music that plays.   
+ rfx: Turn on Infinte Effects for yourself.  (login effects must be on.)   
+ loginmusic: Toggle wether Music plays on login   
+ loginrfx: Toggle Whether Effects play at login.   
 
-     Version 6.4: NOVID (Lite/PG)
-Removed Static Messages.
+     Version 6.4: NOVID (Lite/PG)   
+Removed Static Messages.   
 
-     Version 6.3 COVID (Full):
-Added 49 Messages.  Total now: 2000  (2002 technically, but the 2 arent ever seen.)
-Cleaned up the code, Fixed some small bugs and some new bugs and some weird bugs.
-Moved Code from add-on back over to main pack because the pack is split into 3 parts now.
-Bugs (fixed): 
-Server crash would cause people online during crash to get a welcome message on return
-/trigger rfxON/OFF has been replaced with /trigger RFX due to some weird interference and to save on performace.
-/trigger motd will no longer play music when used to prevent annoyance.
-/trigger motd cleaned up code
-Other smaller bugs which slip the developers mind currently.
+     Version 6.3 COVID (Full):   
+Added 49 Messages.  Total now: 2000  (2002 technically, but the 2 arent ever seen.)   
+Cleaned up the code, Fixed some small bugs and some new bugs and some weird bugs.   
+Moved Code from add-on back over to main pack because the pack is split into 3 parts now.   
+Bugs (fixed):    
+Server crash would cause people online during crash to get a welcome message on return   
+/trigger rfxON/OFF has been replaced with /trigger RFX due to some weird interference and to save on performace.   
+/trigger motd will no longer play music when used to prevent annoyance.   
+/trigger motd cleaned up code   
+Other smaller bugs which slip the developers mind currently.   
 
-     Version 6.3 COVID (split):
-Same as above but this pack was split for the add-on below and only uploaded for a little while.
-Moved more code from the main datapack to the Add-on to save on performance in the case its not intalled.
+     Version 6.3 COVID (split):   
+Same as above but this pack was split for the add-on below and only uploaded for a little while.   
+Moved more code from the main datapack to the Add-on to save on performance in the case its not intalled.   
 
-     MOTDRecord v1.3:
-Updated Score Functions.  
-If you update from Motd v6.1 to v6.3 you must also update this if you use the Add-On.
-Cleaned up Code.
+     MOTDRecord v1.3:   
+Updated Score Functions.     
+If you update from Motd v6.1 to v6.3 you must also update this if you use the Add-On.   
+Cleaned up Code.   
 
-     Version 6.3 Lite:
-Stripped Music/Effects/stoprecord.
-Still has classic 2000 Messages, much more Performance Friendly.
+     Version 6.3 Lite:   
+Stripped Music/Effects/stoprecord.   
+Still has classic 2000 Messages, much more Performance Friendly.   
 
-     Version 6.3 PG:
-Contains 1000 Family Friendly Messages.
-Stripped Music/Effects/stoprecord Functions.  Very Very Preformance Friendly.
+     Version 6.3 PG:   
+Contains 1000 Family Friendly Messages.   
+Stripped Music/Effects/stoprecord Functions.  Very Very Preformance Friendly.   
 
-     Version 6.2 - Lite(PG):
-Has /trigger motd
-Contains 998 Family Friendly Messages.(and 2 unfriendly.)  No Music or Effects Functionality.
+     Version 6.2 - Lite(PG):   
+Has /trigger motd   
+Contains 998 Family Friendly Messages.(and 2 unfriendly.)  No Music or Effects Functionality.   
 
      Version 6.1:  Performance and Functionality Update.
 Added 263 Messages.  Total is now: 1952
