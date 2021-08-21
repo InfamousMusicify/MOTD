@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "Infamous",
+        "description": "InHaus Dev",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'DeathtoMicrosoft'}"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "main:main/roo",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

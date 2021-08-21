@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "login": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "rmt:new"
+    }
+}

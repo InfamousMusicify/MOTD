@@ -311,7 +311,7 @@ tellraw @a[scores={CurrentMsg=809}] {"text":"42/42","color":"gold"}
 tellraw @a[scores={CurrentMsg=810}] {"text":"Time of adventure!  42/42","color":"gold"}
 tellraw @a[scores={CurrentMsg=811}] {"text":"Change changes","color":"gold"}
 tellraw @a[scores={CurrentMsg=812}] {"text":"Sweet Dreams","color":"yellow"}
-tellraw @a[scores={CurrentMsg=813}] {"text":"Use after Death.","color":"dark_red"}
+tellraw @a[scores={CurrentMsg=813}] {"text":"Use After Death.","color":"dark_red"}
 tellraw @a[scores={CurrentMsg=814}] {"text":"Monster","color":"gold"}
 tellraw @a[scores={CurrentMsg=815}] {"text":"No one","color":"gold"}
 tellraw @a[scores={CurrentMsg=816}] {"text":"He hunts animals","color":"gold"}

@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "login": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "rmt:joining"
+    }
+}
