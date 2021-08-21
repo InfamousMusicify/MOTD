@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "M.R. Programs",
+        "description": "God of Code",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'MALLADAxD'}"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "main:main/roo",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

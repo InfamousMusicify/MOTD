@@ -1,0 +1,14 @@
+Idea/ Main Author: Infamous
+Co-Author: M.R. Programs
+
+____________________________________________________________________________________________________________________________
+
+
+
+Thanks to this guy for the Random Number Generation Source Code: 
+	mcskware
+	https://github.com/mcskware/prng
+
+had to update some syntax but the math and some code is his, free use copyright though :)
+
+____________________________________________________________________________________________________________________________
