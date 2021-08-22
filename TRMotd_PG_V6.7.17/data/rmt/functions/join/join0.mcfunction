@@ -1,4 +1,3 @@
-tellraw @a[tag=RandMsg,scores={CurrentMsg=500}] {"text":"Whoa, dude! ","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=501}] {"text":"Woah. ","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=502}] {"text":"Woo, /v/!","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=503}] {"text":"Woo, facepunch!","color":"gold"}
@@ -59,12 +58,12 @@ tellraw @a[tag=RandMsg,scores={CurrentMsg=557}] {"text":"Don't ask me - I just w
 tellraw @a[tag=RandMsg,scores={CurrentMsg=558}] {"text":"Don't ask me--I'm making this up as I go along","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=559}] {"text":"Do unto others before they do unto you","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=560}] {"text":"All I want is a warm bed, a kind word, and *unlimited power*...","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=561}] {"text":"Love thy neighbour, but be sure her husband is out of town.","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=561}] {"text":"Why are there so many of these?","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=562}] {"text":"Never put off until tomorrow what you can avoid all together.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=563}] {"text":"Smile -- It makes people wonder what you're thinking.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=564}] {"text":"A Smith & Wesson beats four aces.","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=565}] {"text":"Two's company, three's the result.","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=566}] {"text":"A person forgives only when she is in the wrong.","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=565}] {"text":"Panic","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=566}] {"text":"A person","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=567}] {"text":"And Man said: ''Let there be God,'' and there was God!","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=568}] {"text":"Any club that would accept me as a member, I wouldn't want to join.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=569}] {"text":"All of life's answers are on the wrong side of progress.","color":"gold"}
@@ -74,7 +73,7 @@ tellraw @a[tag=RandMsg,scores={CurrentMsg=572}] {"text":"Anything is possible if
 tellraw @a[tag=RandMsg,scores={CurrentMsg=573}] {"text":"Any system which depends on human reliability is unreliable.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=574}] {"text":"An honest politician is one who, when bought, stays bought.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=575}] {"text":"Ambition destroys its possessor.","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=576}] {"text":"A husband is a man who gave up privileges he never knew he had.","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=576}] {"text":"Also try Skyrim!","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=577}] {"text":"Anything you say can and will be misquoted and used against you.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=578}] {"text":"Anyone who willingly runs Windows deserves what he gets","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=579}] {"text":"Always make stupid moves. It confuses your opponent.","color":"gold"}
@@ -119,7 +118,7 @@ tellraw @a[tag=RandMsg,scores={CurrentMsg=617}] {"text":"It is far more impressi
 tellraw @a[tag=RandMsg,scores={CurrentMsg=618}] {"text":"If you think nobody cares if you're alive, try missing a couple of car payments.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=619}] {"text":"Before you criticize someone, you should walk a mile in their shoes. That way, when you criticize them, you're a mile away and you have their shoes.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=620}] {"text":"If at first you don't succeed, skydiving is not for you.","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=621}] {"text":"Give a man a fish and he will eat for a day. Teach him how to fish, and he will sit in a boat & drink beer all day.","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=621}] {"text":"Give a man a fish and he will eat for a day. Teach him how to fish, and he will become a racketeering tycoon.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=622}] {"text":"If you lend someone $20, and never see that person again, it was probably worth it.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=623}] {"text":"Cough or sneeze into your elbow!","color":"dark_green"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=624}] {"text":"If you tell the truth, you don't have to remember anything.","color":"gold"}
@@ -136,25 +135,25 @@ tellraw @a[tag=RandMsg,scores={CurrentMsg=634}] {"text":"Generally speaking, you
 tellraw @a[tag=RandMsg,scores={CurrentMsg=635}] {"text":"Experience is something you don't get until just after you need it.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=636}] {"text":"Never miss a good chance to shut up.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=637}] {"text":"''I'M GOING FISHING''","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=638}] {"text":"''I'm going to drink myself dangerously stupid, and stand by a stream with a stick in my hand, while the fish swim by in complete safety.''","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=638}] {"text":"''Check your CPU, its on fire.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=639}] {"text":"Support elderly relatives and friends!","color":"dark_green"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=640}] {"text":"''There is no rational thought pattern connected with it, and you have no chance at all of making it logical.''","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=641}] {"text":"''CAN I HELP WITH DINNER?''","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=642}] {"text":"''Why isn't it already on the table?''","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=641}] {"text":"''DINNER?''","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=642}] {"text":"''Watch Anime''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=643}] {"text":"Gamers unite – separately in your own homes!","color":"dark_green"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=644}] {"text":"Absolutely nothing, It's a conditioned response.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=645}] {"text":"''IT WOULD TAKE TOO LONG TO EXPLAIN''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=646}] {"text":"''I have no idea how it works.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=647}] {"text":"''I WAS LISTENING TO YOUIT'S JUST THAT I HAVE THINGS ON MY MIND.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=648}] {"text":"Prepare, but don’t hoard!","color":"dark_green"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=649}] {"text":"''TAKE A BREAK HONEY, YOU'RE WORKING TOO HARD.''","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=650}] {"text":"''I can't hear the game over the vacuum cleaner.''","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=649}] {"text":"''Cheshire Grin''","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=650}] {"text":"''Ask alice, I bet she'll know.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=651}] {"text":"''THAT'S INTERESTING, DEAR.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=652}] {"text":"''Are you still talking?''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=653}] {"text":"''YOU KNOW HOW BAD MY MEMORY IS.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=654}] {"text":"''I remember the theme song to 'F Troop', the address of the first girl I ever kissed, and the vehicle identification numbers of every car I've ever owned, but I forgot your birthday.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=655}] {"text":"''I WAS JUST THINKING ABOUT YOU, AND GOT YOU THESE ROSES.''","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=656}] {"text":"''The girl selling them on the corner was a real babe.''","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=656}] {"text":"''An Amry of Me''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=657}] {"text":"''OH, DON'T FUSS, I JUST CUT MYSELF, IT'S NO BIG DEAL.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=658}] {"text":"''I have actually severed a limb, but will bleed to death before I admit that I'm hurt.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=659}] {"text":"''HEY, I'VE GOT MY REASONS FOR WHAT I'M DOING.''","color":"gold"}
@@ -162,13 +161,13 @@ tellraw @a[tag=RandMsg,scores={CurrentMsg=660}] {"text":"''And I sure hope I thi
 tellraw @a[tag=RandMsg,scores={CurrentMsg=661}] {"text":"''I CAN'T FIND IT.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=662}] {"text":"''It didn't fall into my outstretched hands, so I'm completely clueless.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=663}] {"text":"''WHAT DID I DO THIS TIME?''","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=664}] {"text":"Save the world – stay inside!","color":"dark_green"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=664}] {"text":"CAKE","color":"dark_green"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=665}] {"text":"''I HEARD YOU.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=666}] {"text":"''I haven't the foggiest clue what you just said, and am hoping desperately that I can fake it well enough so that you don't spend the next 3 days yelling at me.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=667}] {"text":"''YOU KNOW I COULD NEVER LOVE ANYONE ELSE.''","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=668}] {"text":"''I am used to the way you yell at me, and realize it could be worse.''","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=668}] {"text":"''1 sec, my internal monologue is to loud..''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=669}] {"text":"''YOU LOOK TERRIFIC.''","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=670}] {"text":"''Please don't try on one more outfit, I'm starving.''","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=670}] {"text":"''I'm starving.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=671}] {"text":"''I'M NOT LOST. I KNOW EXACTLY WHERE WE ARE.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=672}] {"text":"''No one will ever see us alive again.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=673}] {"text":"''WE SHARE THE HOUSEWORK.''","color":"gold"}
@@ -269,10 +268,10 @@ tellraw @a[tag=RandMsg,scores={CurrentMsg=767}] {"text":"Stay strong!","color":"
 tellraw @a[tag=RandMsg,scores={CurrentMsg=768}] {"text":"Cough or sneeze into your elbow!","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=769}] {"text":"Hello yes, welcome to Jesus Fried Christ, would you like our body of the lord, baked with 11 secret anointed herbs and spices?","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=770}] {"text":"'Why is he wearing eggs?''","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=771}] {"text":"'What kind of penis does a goose have?''","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=771}] {"text":"'Ergonomic!''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=772}] {"text":"'I guess we'll try this out- Oh nope, it's dead.''","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=773}] {"text":"'We are not talking about animal genitalia again.''","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=774}] {"text":"'May I axe a question?''y","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=773}] {"text":"'We are not talking about animals again...''","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=774}] {"text":"'May I axe a question?''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=775}] {"text":"'That fish was like ||𝙹⚍ ᔑꖎꖎ ᔑ∷ᒷ ᓭᒷ ̇/|| ᔑリ↸ ꖎ𝙹⍊ᒷꖎ||.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=776}] {"text":"'I appreciate the heck outta that.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=777}] {"text":"'Shout out to my boy Satan!''","color":"gold"}
@@ -290,7 +289,7 @@ tellraw @a[tag=RandMsg,scores={CurrentMsg=788}] {"text":"'He got Snucked Up''","
 tellraw @a[tag=RandMsg,scores={CurrentMsg=789}] {"text":"'Sin is always an option''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=790}] {"text":"'Use After Death''","color":"dark_red"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=791}] {"text":"'Ellen Degenerlich!''","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=792}] {"text":"'What's a little cumming between brothers.''","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=792}] {"text":"'Oreo cookie cow''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=793}] {"text":"'I love the sac.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=794}] {"text":"'It came at me!''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=795}] {"text":"'My tool found a man shaped quantum fart.''","color":"gold"}
@@ -499,6 +498,12 @@ tellraw @a[tag=RandMsg,scores={CurrentMsg=997}] {"text":"Made by Infamous","colo
 tellraw @a[tag=RandMsg,scores={CurrentMsg=998}] {"text":"Made by DeathToMicrosoft","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=999}] {"text":"Made by Death","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=1000}] {"text":"Thank you for downloading TRMotd!","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=1001}] ["",{"selector":"@s","color":"green"},{"text":" IS YOU","color":"gold"}]
+execute if entity @a[scores={CurrentMsg=1002}] run tellraw @a ["",{"text":"*SMOKE BOMB*","color":"dark_red"},{"text":"\n"},{"selector":"@s","color":"dark_green"},{"text":" vanishes into the shadows.\nSee you later, ","color":"gold"},{"selector":"@s}]","color":"dark_green"},{"text":"!","color":"gold"}]
+execute if entity @a[scores={CurrentMsg=1003}] run tellraw @a ["",{"selector":"@s"}]","color":"yellow"},{"text":" Returns from the void of lurkage!","color":"gold"}]
+execute as @s[tag=RandMsg,scores={CurrentMsg=1004}] run tellraw @a ["",{"selector":"@s","color":"gold"},{"text":" enters a pocket dimension of lurkage.","color":"gold"}]
+execute as @s[tag=RandMsg,scores={CurrentMsg=1005}] run tellraw @a ["",{"selector":"@s","color":"gold"},{"text":" got mugged.","color":"gold"}]
+
 # # #
 give @s[scores={CurrentMsg=790}] minecraft:totem_of_undying 1
 #

@@ -497,6 +497,7 @@ tellraw @a[tag=RandMsg,scores={CurrentMsg=496}] {"text":"What’s the question?"
 tellraw @a[tag=RandMsg,scores={CurrentMsg=497}] {"text":"What's up, Doc?","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=498}] {"text":"Where there is not light, there can spider!","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=499}] {"text":"Who put it there?","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=500}] {"text":"Whoa, dude! ","color":"gold"}
 # # #
 tellraw @a[scores={CurrentMsg=0}] {"text":"Tepache","color":"gold"}
 # Add messages by copy and pasting the command above and editing the numbers to count up, change the mcprng #maxrand to your new last messages #+1 in mcprng:load.mcf.

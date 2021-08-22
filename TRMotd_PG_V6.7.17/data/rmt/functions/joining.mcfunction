@@ -8,6 +8,6 @@ tag @s[scores={rmt_logout=1..}] add RandMsg
 scoreboard players set @s[scores={rmt_logout=1..}] rmt_logout 0
 # calls any functions that should be ran 1 time as the player joins
 # function rmt:join/join
-execute as @s[tag=RandMsg,scores={CurrentMsg=0..499}] run function rmt:join/join
-execute as @s[tag=RandMsg,scores={CurrentMsg=500..1000}] run function rmt:join/join0
+execute as @s[tag=RandMsg,scores={CurrentMsg=0..500}] run function rmt:join/join
+execute as @s[tag=RandMsg,scores={CurrentMsg=501..1500}] run function rmt:join/join0
 
