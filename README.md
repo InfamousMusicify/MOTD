@@ -9,8 +9,8 @@ If you do not wish to see such things, Check out the ___PG Edition___.  It has 1
 
 __If you are under the age of consent please ask your parents for permission before using the Full Edition pack!__    
 ~~~
-5 Commands:   
-     /trigger <motd-stopmusic-rfx-loginmusic-loginrfx>  
+Commands:   
+     /trigger <motd>  
    motd: sends the player a random message  
 You can use the command:  
      /scoreboard players set @p Logout 1 ,to trigger a message for the closest player, or 
