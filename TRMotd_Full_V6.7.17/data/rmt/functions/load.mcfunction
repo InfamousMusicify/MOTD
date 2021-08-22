@@ -12,7 +12,7 @@ scoreboard players set #value mcprng 0
 #OLD - scoreboard players set #maxrand 0
 
 #this line includes your max msgs value (Set 1 above cuurent last message) Last msg +1
-scoreboard players set #maxrand mcprng 2501
+scoreboard players set #maxrand mcprng 2502
 # # # # # # # # # # # # # # # # # # # # # #
 scoreboard players set #randval mcprng 0
 # seed the generator, or just keep the last value in #random if already seeded
