@@ -2,9 +2,9 @@ tellraw @a[tag=RandMsg,scores={CurrentMsg=1}] {"text":"In color","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=2}] {"text":"In Hypno-Vision","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=3}] {"text":"As seen on TV[1]","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=4}] {"text":"Presented in BC [Brain Control] Where Available","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=5}] {"text":"Featuring gratuitous alien nudity","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=6}] {"text":"Loading...","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=7}] {"text":"Presented in double vision (where drunk)","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=5}] {"text":"Featuring RNG!","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=6}] {"text":"Loading...","color":"red"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=7}] {"text":"Presented in HD!","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=8}] {"text":"Mr. Bender's Wardrobe By Robotany 500","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=9}] {"text":"Condemned by the Space Pope[1]","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=10}] {"text":"Filmed On Location","color":"gold"}
@@ -54,10 +54,10 @@ tellraw @a[tag=RandMsg,scores={CurrentMsg=53}] {"text":"Love it or shove it","co
 tellraw @a[tag=RandMsg,scores={CurrentMsg=54}] {"text":"If accidentally watched, induce vomiting.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=55}] {"text":"Bigfoot's choice","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=56}] {"text":"It's like ''HEE HAW''' with lasers","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=57}] {"text":"When you see the robot, drink!","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=57}] {"text":"When you see the robot, dance!","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=58}] {"text":"Soon to be a major religion","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=59}] {"text":"Or is it?","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=60}] {"text":"Controlling you through a chip in your butt since 1999","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=60}] {"text":"Controlling you through a chip in your head since 1999","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=61}] {"text":"Not affilliated with Futurama Brass Knuckle Co.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=62}] {"text":"Known to cause insanity in laboratory mice","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=63}] {"text":"Now interactive! Joystick controls Fry's left ear","color":"gold"}
@@ -85,8 +85,8 @@ tellraw @a[tag=RandMsg,scores={CurrentMsg=84}] {"text":"Collect all fifty billio
 tellraw @a[tag=RandMsg,scores={CurrentMsg=85}] {"text":"If you can read this, thank us!","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=86}] {"text":"Now available without a prescription","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=87}] {"text":"Bender's Big ScoreIt just won't stay dead!","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=88}] {"text":"The Beast with a Billion BacksThe Proud Result of Prison Labor","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=89}] {"text":"Bender's GameThe flames in your TV are not part of the show","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=88}] {"text":"The Beast with a Billion Backs","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=89}] {"text":"Bender's Game","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=90}] {"text":"Stay Safe!","color":"dark_green"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=91}] {"text":"Apply directly to the eyes","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=92}] {"text":"There will be a test","color":"gold"}

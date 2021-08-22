@@ -21,15 +21,15 @@ tellraw @a[tag=RandMsg,scores={CurrentMsg=519}] {"text":"한국 안녕하세요!
 tellraw @a[tag=RandMsg,scores={CurrentMsg=520}] {"text":"你好中国!","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=521}] {"text":"§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=522}] {"text":"An error doesn't become a mistake until you refuse to cor","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=523}] {"text":"After God created women, beer was the bug fix.","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=524}] {"text":"A woman's speed limit is 68, at 69 she blows a rod.","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=525}] {"text":"A PC takes the guesswork out of it. So does a bikini.","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=526}] {"text":"A dress makes no sense unless it inspires men to remove it","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=527}] {"text":"4 types of miniskirts: mini, micro, don't bend over, and ''nice view!''","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=523}] {"text":"bug fix","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=524}] {"text":"placeholder","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=525}] {"text":"PC Master Race Pled Race -2021","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=526}] {"text":"Shoot a skeleton!","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=527}] {"text":"Mangos are Ill","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=528}] {"text":"A life? Where can I download that?","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=529}] {"text":"Could you continue your petty bickering? I find it most intriguing.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=530}] {"text":"A mind is a terrible thing to ugh... I forgot...","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=531}] {"text":"For proper viewing, take red pill now","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=531}] {"text":"To avoid viewing, take blue pill now","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=532}] {"text":"A mind is a terrible thing to... OOOOH, DOOM 2 is here!","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=533}] {"text":"And that is how we know the Earth is banana-shaped.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=534}] {"text":"An optimist is a guy without much experience...","color":"gold"}
@@ -37,7 +37,7 @@ tellraw @a[tag=RandMsg,scores={CurrentMsg=535}] {"text":"A product with 'ZERO DE
 tellraw @a[tag=RandMsg,scores={CurrentMsg=536}] {"text":"And God said: ''E = /mv2 - Ze2/r'' ...and there was light!","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=537}] {"text":"And God said, ''Let there be light, but make it quick.''","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=538}] {"text":"64,999,964 firearm owners killed no one yesterday..","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=539}] {"text":"Love thy neighbour, but make sure her husband is away first!","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=539}] {"text":"Love thy neighbour","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=540}] {"text":"Say nothing & they think your stupid..talk & they know for sure","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=541}] {"text":"Any bank will give you a loan as soon as you prove you don't need it","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=542}] {"text":"Health is merely the slowest possible rate at which one can die.","color":"gold"}
@@ -49,7 +49,7 @@ tellraw @a[tag=RandMsg,scores={CurrentMsg=547}] {"text":"It is morally wrong to 
 tellraw @a[tag=RandMsg,scores={CurrentMsg=548}] {"text":"If you wish to succeed, consult three old people.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=549}] {"text":"A closed mouth gathers no foot.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=550}] {"text":"Let him who takes the plunge remember to return it by Tuesday.","color":"gold"}
-tellraw @a[tag=RandMsg,scores={CurrentMsg=551}] {"text":"Women....You can't live WITH them, and you can't live WITH them.","color":"gold"}
+tellraw @a[tag=RandMsg,scores={CurrentMsg=551}] {"text":"Whisky costs money.","color":"red"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=552}] {"text":"It works better if you plug it in.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=553}] {"text":"Don`t force it, get a larger hammer.","color":"gold"}
 tellraw @a[tag=RandMsg,scores={CurrentMsg=554}] {"text":"When in doubt, down a few.","color":"gold"}
