@@ -13,7 +13,7 @@ execute as @a[tag=rmt_join,scores={rmt_logout=2}] run function rmt:joining
 
 # this does not fire when the player logs out it fires the next time they log in.  bugged for 2nd login.
 # reset player login score at logout
-execute as @a[scores={rmt_logout=4..}] run function rmt:logout
+execute as @a[scores={rmt_logout=4..}] run function rmt:logfix
 
 
 
