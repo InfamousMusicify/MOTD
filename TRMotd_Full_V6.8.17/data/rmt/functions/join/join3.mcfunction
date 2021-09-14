@@ -1,132 +1,132 @@
-tellraw @a[scores={CurrentMsg=2000}] {"text":"''I make the messes, she cleans them up.''","color":"gold"}
-tellraw @a[scores={CurrentMsg=2001}] {"text":"***Feverishly Typing***","color":"dark_green"}
-tellraw @a[scores={CurrentMsg=2002}] {"text":"Nipple accomplished","color":"gold"}
-tellraw @a[scores={CurrentMsg=2003}] {"text":"Nucking Funt","color":"gold"}
-tellraw @a[scores={CurrentMsg=2004}] {"text":"''My right ear reads lips.''","color":"gold"}
-tellraw @a[scores={CurrentMsg=2005}] {"text":"Poking Smot","color":"gold"}
-tellraw @a[scores={CurrentMsg=2006}] {"text":"''We'll teach you how Servers operate.''","color":"gold"}
-tellraw @a[scores={CurrentMsg=2007}] {"text":"''We'll teach you how Minecraft Servers operate.''","color":"gold"}
-tellraw @a[scores={CurrentMsg=2008}] {"text":"''We'll teach you how radio stations operate.''","color":"gold"}
-tellraw @a[scores={CurrentMsg=2009}] {"text":"Sloom dayer","color":"gold"}
-tellraw @a[scores={CurrentMsg=2010}] {"text":"It's baron time","color":"gold"}
-tellraw @a[scores={CurrentMsg=2011}] {"text":"Doom Slayer","color":"gold"}
-tellraw @a[scores={CurrentMsg=2012}] {"text":"Sloom dayer in: Baron time","color":"gold"}
-tellraw @a[scores={CurrentMsg=2013}] {"text":"Sloom Dayer: BaronTime","color":"gold"}
-tellraw @a[scores={CurrentMsg=2014}] {"text":"Bring home the toilet paper.","color":"gold"}
-tellraw @a[scores={CurrentMsg=2015}] {"text":"Ripitorium","color":"gold"}
-tellraw @a[scores={CurrentMsg=2016}] {"text":"The Bruh Keg","color":"gold"}
-tellraw @a[scores={CurrentMsg=2017}] {"text":"Teararium","color":"gold"}
-tellraw @a[scores={CurrentMsg=2018}] {"text":"Welcome to the Que Server!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2019}] {"text":"Postion in Que: 2034","color":"gold"}
-tellraw @a[scores={CurrentMsg=2020}] {"text":"ARE YOU NOT MOTIVATED???","color":"gold"}
-tellraw @a[scores={CurrentMsg=2021}] {"text":"ARE YOU NOT ENTERTAINED?","color":"gold"}
-tellraw @a[scores={CurrentMsg=2022}] {"text":"Time to Play!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2023}] {"text":"Swift Fluid","color":"gold"}
-tellraw @a[scores={CurrentMsg=2024}] {"text":"Still bringing home the toilet paper","color":"gold"}
-tellraw @a[scores={CurrentMsg=2025}] {"text":"It's a dragon car.","color":"gold"}
-tellraw @a[scores={CurrentMsg=2026}] {"text":"You shouldn't count chickens with a shotgun.","color":"gold"}
-tellraw @a[scores={CurrentMsg=2027}] {"text":"You shouldn't count your chickens with a shotgun.","color":"gold"}
-tellraw @a[scores={CurrentMsg=2028}] {"text":"Integrity Check","color":"gold"}
-tellraw @a[scores={CurrentMsg=2029}] {"text":"''I am inevitable'' - Spike Pit","color":"gold"}
-tellraw @a[scores={CurrentMsg=2030}] {"text":"Log Me In Hamachi","color":"gold"}
-tellraw @a[scores={CurrentMsg=2031}] {"text":"Log Me In, Hamachi","color":"gold"}
-tellraw @a[scores={CurrentMsg=2032}] {"text":"''Ready a little, do you want to fly up in a padless dress?'' - google translate","color":"gold"}
-tellraw @a[scores={CurrentMsg=2033}] {"text":"''Wait, it's a terrific number of the west region, and it's amazing.'' - google translate","color":"gold"}
-tellraw @a[scores={CurrentMsg=2034}] {"text":"''I want to see the root rate of 3 rain drops'' - google translate","color":"gold"}
-tellraw @a[scores={CurrentMsg=2035}] {"text":"''Once i get older, I just fly away'' - google translate","color":"gold"}
-tellraw @a[scores={CurrentMsg=2036}] {"text":"''thunder is pointed to and shipped'' - google translate","color":"gold"}
-tellraw @a[scores={CurrentMsg=2037}] {"text":"''It's a little dificult to swim'' - google translate","color":"gold"}
-tellraw @a[scores={CurrentMsg=2038}] {"text":"''Isn't it a woman yet?'' - google translate","color":"gold"}
-tellraw @a[scores={CurrentMsg=2039}] {"text":"''Iwant you to stop and stop using this technology.'' - google translate","color":"gold"}
-tellraw @a[scores={CurrentMsg=2040}] {"text":"Vampire Blood - Premium Vampire Extract","color":"gold"}
-tellraw @a[scores={CurrentMsg=2041}] {"text":"Vampire Blood - Premium Vampire Extract - Incense","color":"gold"}
-tellraw @a[scores={CurrentMsg=2042}] {"text":"Vampire Blood","color":"gold"}
-tellraw @a[scores={CurrentMsg=2043}] {"text":"Vampire Blood - Incense","color":"gold"}
-tellraw @a[scores={CurrentMsg=2044}] {"text":"The Devils Garden","color":"dark_red"}
-tellraw @a[scores={CurrentMsg=2045}] {"text":"**Feverishly Typing**","color":"dark_red"}
-tellraw @a[scores={CurrentMsg=2046}] {"text":"Infamous - **Feverishly Typing**","color":"red"}
-tellraw @a[scores={CurrentMsg=2047}] {"text":"Collective Conciousness Activate!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2048}] {"text":"For now...","color":"gold"}
-tellraw @a[scores={CurrentMsg=2049}] {"text":"You first.","color":"gold"}
-tellraw @a[scores={CurrentMsg=2050}] {"text":"Dynamic Individual","color":"gold"}
-tellraw @a[scores={CurrentMsg=2051}] {"text":"You can land on my spike.","color":"gold"}
-tellraw @a[scores={CurrentMsg=2052}] {"text":"Removed Ducks.","color":"gold"}
-tellraw @a[scores={CurrentMsg=2053}] {"text":"Hardcore Survival:World Nein! (The Way of the Zombie: Episode 11) Galaxy of the Guardian","color":"gold"}
-tellraw @a[scores={CurrentMsg=2054}] {"text":"Galaxy of the Guardian","color":"gold"}
-tellraw @a[scores={CurrentMsg=2055}] {"text":"Brain Fever","color":"gold"}
-tellraw @a[scores={CurrentMsg=2056}] {"text":"Put the cookie down now!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2057}] {"text":"Danto's Inferné","color":"gold"}
-tellraw @a[scores={CurrentMsg=2058}] {"text":"Make an Excremental!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2059}] {"text":"The Body - ''I Feel All''","color":"gold"}
-tellraw @a[scores={CurrentMsg=2060}] {"text":"I still want my dick sucked. -Itchy","color":"gold"}
-tellraw @a[scores={CurrentMsg=2061}] {"text":"''Cursed Item''","color":"gold"}
-tellraw @a[scores={CurrentMsg=2062}] {"text":"''Cursed Item 1''","color":"gold"}
-tellraw @a[scores={CurrentMsg=2063}] {"text":"Amodeo for emperor 2028!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2064}] {"text":"I love you my darling.","color":"gold"}
-tellraw @a[scores={CurrentMsg=2065}] {"text":"Hitler intends to invade Czechoslovakia.","color":"gold"}
-tellraw @a[scores={CurrentMsg=2066}] {"text":"''People will die'' -Frank Amodeo","color":"gold"}
-tellraw @a[scores={CurrentMsg=2067}] {"text":"''I will anthrax your entire village.'' -Frank Amodeo","color":"gold"}
-tellraw @a[scores={CurrentMsg=2068}] {"text":"Am I There?","color":"gold"}
-tellraw @a[scores={CurrentMsg=2069}] {"text":"Drew Blagon","color":"gold"}
-tellraw @a[scores={CurrentMsg=2070}] {"text":"Drack Blagon","color":"gold"}
-tellraw @a[scores={CurrentMsg=2071}] {"text":"Drack Hole Blagon","color":"gold"}
-tellraw @a[scores={CurrentMsg=2072}] ["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Recalculating Emoji Splines","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
-tellraw @a[scores={CurrentMsg=2073}] {"text":"Vampire Blood is harvested through an advanced process in which vampires are slowly bled.  The unearthly qualities of the blood are isolated and extracted into a premium product.","color":"red"}
-tellraw @a[scores={CurrentMsg=2074}] {"text":"Some vampires were harmed during this process but none met true death.  This is a rare premium extract of Vampire Blood that is sure to heighten the senses and create inner sensations of nirvana.  Enjoy.","color":"red"}
-tellraw @a[scores={CurrentMsg=2075}] {"text":"Vampire Blood is harvested through an advanced process in which vampires are slowly bled.  The unearthly qualities of the blood are isolated and extracted into a premium product.  Some vampires were harmed during this process but none met true death.  This is a rare premium extract of Vampire Blood that is sure to heighten the senses and create inner sensations of nirvana.  Enjoy.","color":"red"}
-tellraw @a[scores={CurrentMsg=2076}] {"text":"Rip and Tear","color":"red"}
-tellraw @a[scores={CurrentMsg=2077}] {"text":"Have an existential crisis!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2078}] {"text":"Run for Mayor!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2079}] {"text":"Run for Mayor Once a Day!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2080}] {"text":"Your shipment of fail has arrived. ¯\\_(\u30c4)_/¯","color":"gold"}
-tellraw @a[scores={CurrentMsg=2081}] {"text":"Eutopia for Realists","color":"gold"}
-tellraw @a[scores={CurrentMsg=2082}] {"text":"Cluing for Looks","color":"gold"}
-tellraw @a[scores={CurrentMsg=2083}] {"text":"Find Muckery","color":"gold"}
-tellraw @a[scores={CurrentMsg=2084}] {"text":"Drink the Boots, Kick the Beer, Brush the Screen.","color":"gold"}
-tellraw @a[scores={CurrentMsg=2085}] {"text":"WadIJusStumblOn","color":"gold"}
-tellraw @a[scores={CurrentMsg=2086}] {"text":"How many polygons is reality made of?","color":"gold"}
-tellraw @a[scores={CurrentMsg=2087}] {"text":"How you know you've been 3d modeling to long: How many polygons is reality made of?","color":"gold"}
-tellraw @a[scores={CurrentMsg=2088}] {"text":"Belcome Wack!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2089}] {"text":"Reach the Rave!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2090}] {"text":"Rave Reacher!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2091}] {"text":"Kynesmiraft Dungeoun","color":"gold"}
-tellraw @a[scores={CurrentMsg=2092}] {"text":"cinesmraft","color":"gold"}
-tellraw @a[scores={CurrentMsg=2093}] {"text":"CinesMraft","color":"gold"}
-tellraw @a[scores={CurrentMsg=2094}] {"text":"Subscrub","color":"gold"}
-tellraw @a[scores={CurrentMsg=2095}] {"text":"Army of Me","color":"gold"}
-tellraw @a[scores={CurrentMsg=2096}] {"text":"If you complain once more, you'll meet an army of me.","color":"gold"}
-tellraw @a[scores={CurrentMsg=2097}] {"text":"Brain Generated","color":"gold"}
-tellraw @a[scores={CurrentMsg=2098}] {"text":"Brain Germinated","color":"gold"}
-tellraw @a[scores={CurrentMsg=2099}] {"text":"Big Allele Energy","color":"gold"}
-tellraw @a[scores={CurrentMsg=2100}] {"text":"Chaos is a Ladder.","color":"gold"}
-tellraw @a[scores={CurrentMsg=2101}] {"text":"Hungry for life... Thirsty for existence...","color":"gold"}
-tellraw @a[scores={CurrentMsg=2102}] {"text":"Option paralysis","color":"gold"}
-tellraw @a[scores={CurrentMsg=2103}] {"text":"Soilent Green is people!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2104}] {"text":"Parents are a myth. Yeah their made up by the govt.","color":"gold"}
-tellraw @a[scores={CurrentMsg=2105}] {"text":"I'll touch your products...","color":"gold"}
-tellraw @a[scores={CurrentMsg=2106}] {"text":"We must power the D!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2107}] {"text":"Another day another nap.","color":"gold"}
-tellraw @a[scores={CurrentMsg=2108}] {"text":"I looooove them balls\n.............","color":"gold"}
-tellraw @a[scores={CurrentMsg=2109}] {"text":"Be an ass and leave.","color":"gold"}
-tellraw @a[scores={CurrentMsg=2110}] {"text":"Exhume-a-zoom-zoom!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2111}] {"text":"This parrot is no more! It has ceased to be!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2112}] {"text":"Honey, I grew the bees!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2113}] {"text":"Find your claw!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2114}] {"text":"Everybody do the Leif!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2115}] {"text":"<3 Max & 99 & Ducky!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2116}] {"text":"Bushy eyebrows!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2117}] {"text":"Edit is a name!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2118}] {"text":"From free range developers!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2119}] {"text":"Music by Lena Raine!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2120}] {"text":"Aww man!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2121}] {"text":"#minecraftfarms","color":"gold"}
-tellraw @a[scores={CurrentMsg=2122}] {"text":"And my pickaxe!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2123}] {"text":"Envision! Create! Share!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2124}] {"text":"Fabulous graphics!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2125}] {"text":"Also try Minecraft Dungeons!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2126}] {"text":"Vanilla!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2127}] {"text":"May contain traces of citrus!","color":"gold"}
-tellraw @a[scores={CurrentMsg=2128}] {"text":"Zoglin!?","color":"gold"}
+tellraw @s[scores={CurrentMsg=2000}] {"text":"''I make the messes, she cleans them up.''","color":"gold"}
+tellraw @s[scores={CurrentMsg=2001}] {"text":"***Feverishly Typing***","color":"dark_green"}
+tellraw @s[scores={CurrentMsg=2002}] {"text":"Nipple accomplished","color":"gold"}
+tellraw @s[scores={CurrentMsg=2003}] {"text":"Nucking Funt","color":"gold"}
+tellraw @s[scores={CurrentMsg=2004}] {"text":"''My right ear reads lips.''","color":"gold"}
+tellraw @s[scores={CurrentMsg=2005}] {"text":"Poking Smot","color":"gold"}
+tellraw @s[scores={CurrentMsg=2006}] {"text":"''We'll teach you how Servers operate.''","color":"gold"}
+tellraw @s[scores={CurrentMsg=2007}] {"text":"''We'll teach you how Minecraft Servers operate.''","color":"gold"}
+tellraw @s[scores={CurrentMsg=2008}] {"text":"''We'll teach you how radio stations operate.''","color":"gold"}
+tellraw @s[scores={CurrentMsg=2009}] {"text":"Sloom dayer","color":"gold"}
+tellraw @s[scores={CurrentMsg=2010}] {"text":"It's baron time","color":"gold"}
+tellraw @s[scores={CurrentMsg=2011}] {"text":"Doom Slayer","color":"gold"}
+tellraw @s[scores={CurrentMsg=2012}] {"text":"Sloom dayer in: Baron time","color":"gold"}
+tellraw @s[scores={CurrentMsg=2013}] {"text":"Sloom Dayer: BaronTime","color":"gold"}
+tellraw @s[scores={CurrentMsg=2014}] {"text":"Bring home the toilet paper.","color":"gold"}
+tellraw @s[scores={CurrentMsg=2015}] {"text":"Ripitorium","color":"gold"}
+tellraw @s[scores={CurrentMsg=2016}] {"text":"The Bruh Keg","color":"gold"}
+tellraw @s[scores={CurrentMsg=2017}] {"text":"Teararium","color":"gold"}
+tellraw @s[scores={CurrentMsg=2018}] {"text":"Welcome to the Que Server!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2019}] {"text":"Postion in Que: 2034","color":"gold"}
+tellraw @s[scores={CurrentMsg=2020}] {"text":"ARE YOU NOT MOTIVATED???","color":"gold"}
+tellraw @s[scores={CurrentMsg=2021}] {"text":"ARE YOU NOT ENTERTAINED?","color":"gold"}
+tellraw @s[scores={CurrentMsg=2022}] {"text":"Time to Play!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2023}] {"text":"Swift Fluid","color":"gold"}
+tellraw @s[scores={CurrentMsg=2024}] {"text":"Still bringing home the toilet paper","color":"gold"}
+tellraw @s[scores={CurrentMsg=2025}] {"text":"It's a dragon car.","color":"gold"}
+tellraw @s[scores={CurrentMsg=2026}] {"text":"You shouldn't count chickens with a shotgun.","color":"gold"}
+tellraw @s[scores={CurrentMsg=2027}] {"text":"You shouldn't count your chickens with a shotgun.","color":"gold"}
+tellraw @s[scores={CurrentMsg=2028}] {"text":"Integrity Check","color":"gold"}
+tellraw @s[scores={CurrentMsg=2029}] {"text":"''I am inevitable'' - Spike Pit","color":"gold"}
+tellraw @s[scores={CurrentMsg=2030}] {"text":"Log Me In Hamachi","color":"gold"}
+tellraw @s[scores={CurrentMsg=2031}] {"text":"Log Me In, Hamachi","color":"gold"}
+tellraw @s[scores={CurrentMsg=2032}] {"text":"''Ready a little, do you want to fly up in a padless dress?'' - google translate","color":"gold"}
+tellraw @s[scores={CurrentMsg=2033}] {"text":"''Wait, it's a terrific number of the west region, and it's amazing.'' - google translate","color":"gold"}
+tellraw @s[scores={CurrentMsg=2034}] {"text":"''I want to see the root rate of 3 rain drops'' - google translate","color":"gold"}
+tellraw @s[scores={CurrentMsg=2035}] {"text":"''Once i get older, I just fly away'' - google translate","color":"gold"}
+tellraw @s[scores={CurrentMsg=2036}] {"text":"''thunder is pointed to and shipped'' - google translate","color":"gold"}
+tellraw @s[scores={CurrentMsg=2037}] {"text":"''It's a little dificult to swim'' - google translate","color":"gold"}
+tellraw @s[scores={CurrentMsg=2038}] {"text":"''Isn't it a woman yet?'' - google translate","color":"gold"}
+tellraw @s[scores={CurrentMsg=2039}] {"text":"''Iwant you to stop and stop using this technology.'' - google translate","color":"gold"}
+tellraw @s[scores={CurrentMsg=2040}] {"text":"Vampire Blood - Premium Vampire Extract","color":"gold"}
+tellraw @s[scores={CurrentMsg=2041}] {"text":"Vampire Blood - Premium Vampire Extract - Incense","color":"gold"}
+tellraw @s[scores={CurrentMsg=2042}] {"text":"Vampire Blood","color":"gold"}
+tellraw @s[scores={CurrentMsg=2043}] {"text":"Vampire Blood - Incense","color":"gold"}
+tellraw @s[scores={CurrentMsg=2044}] {"text":"The Devils Garden","color":"dark_red"}
+tellraw @s[scores={CurrentMsg=2045}] {"text":"**Feverishly Typing**","color":"dark_red"}
+tellraw @s[scores={CurrentMsg=2046}] {"text":"Infamous - **Feverishly Typing**","color":"red"}
+tellraw @s[scores={CurrentMsg=2047}] {"text":"Collective Conciousness Activate!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2048}] {"text":"For now...","color":"gold"}
+tellraw @s[scores={CurrentMsg=2049}] {"text":"You first.","color":"gold"}
+tellraw @s[scores={CurrentMsg=2050}] {"text":"Dynamic Individual","color":"gold"}
+tellraw @s[scores={CurrentMsg=2051}] {"text":"You can land on my spike.","color":"gold"}
+tellraw @s[scores={CurrentMsg=2052}] {"text":"Removed Ducks.","color":"gold"}
+tellraw @s[scores={CurrentMsg=2053}] {"text":"Hardcore Survival:World Nein! (The Way of the Zombie: Episode 11) Galaxy of the Guardian","color":"gold"}
+tellraw @s[scores={CurrentMsg=2054}] {"text":"Galaxy of the Guardian","color":"gold"}
+tellraw @s[scores={CurrentMsg=2055}] {"text":"Brain Fever","color":"gold"}
+tellraw @s[scores={CurrentMsg=2056}] {"text":"Put the cookie down now!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2057}] {"text":"Danto's Inferné","color":"gold"}
+tellraw @s[scores={CurrentMsg=2058}] {"text":"Make an Excremental!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2059}] {"text":"The Body - ''I Feel All''","color":"gold"}
+tellraw @s[scores={CurrentMsg=2060}] {"text":"I still want my dick sucked. -Itchy","color":"gold"}
+tellraw @s[scores={CurrentMsg=2061}] {"text":"''Cursed Item''","color":"gold"}
+tellraw @s[scores={CurrentMsg=2062}] {"text":"''Cursed Item 1''","color":"gold"}
+tellraw @s[scores={CurrentMsg=2063}] {"text":"Amodeo for emperor 2028!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2064}] {"text":"I love you my darling.","color":"gold"}
+tellraw @s[scores={CurrentMsg=2065}] {"text":"Hitler intends to invade Czechoslovakia.","color":"gold"}
+tellraw @s[scores={CurrentMsg=2066}] {"text":"''People will die'' -Frank Amodeo","color":"gold"}
+tellraw @s[scores={CurrentMsg=2067}] {"text":"''I will anthrax your entire village.'' -Frank Amodeo","color":"gold"}
+tellraw @s[scores={CurrentMsg=2068}] {"text":"Am I There?","color":"gold"}
+tellraw @s[scores={CurrentMsg=2069}] {"text":"Drew Blagon","color":"gold"}
+tellraw @s[scores={CurrentMsg=2070}] {"text":"Drack Blagon","color":"gold"}
+tellraw @s[scores={CurrentMsg=2071}] {"text":"Drack Hole Blagon","color":"gold"}
+tellraw @s[scores={CurrentMsg=2072}] ["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Recalculating Emoji Splines","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+tellraw @s[scores={CurrentMsg=2073}] {"text":"Vampire Blood is harvested through an advanced process in which vampires are slowly bled.  The unearthly qualities of the blood are isolated and extracted into a premium product.","color":"red"}
+tellraw @s[scores={CurrentMsg=2074}] {"text":"Some vampires were harmed during this process but none met true death.  This is a rare premium extract of Vampire Blood that is sure to heighten the senses and create inner sensations of nirvana.  Enjoy.","color":"red"}
+tellraw @s[scores={CurrentMsg=2075}] {"text":"Vampire Blood is harvested through an advanced process in which vampires are slowly bled.  The unearthly qualities of the blood are isolated and extracted into a premium product.  Some vampires were harmed during this process but none met true death.  This is a rare premium extract of Vampire Blood that is sure to heighten the senses and create inner sensations of nirvana.  Enjoy.","color":"red"}
+tellraw @s[scores={CurrentMsg=2076}] {"text":"Rip and Tear","color":"red"}
+tellraw @s[scores={CurrentMsg=2077}] {"text":"Have an existential crisis!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2078}] {"text":"Run for Mayor!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2079}] {"text":"Run for Mayor Once a Day!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2080}] {"text":"Your shipment of fail has arrived. ¯\\_(\u30c4)_/¯","color":"gold"}
+tellraw @s[scores={CurrentMsg=2081}] {"text":"Eutopia for Realists","color":"gold"}
+tellraw @s[scores={CurrentMsg=2082}] {"text":"Cluing for Looks","color":"gold"}
+tellraw @s[scores={CurrentMsg=2083}] {"text":"Find Muckery","color":"gold"}
+tellraw @s[scores={CurrentMsg=2084}] {"text":"Drink the Boots, Kick the Beer, Brush the Screen.","color":"gold"}
+tellraw @s[scores={CurrentMsg=2085}] {"text":"WadIJusStumblOn","color":"gold"}
+tellraw @s[scores={CurrentMsg=2086}] {"text":"How many polygons is reality made of?","color":"gold"}
+tellraw @s[scores={CurrentMsg=2087}] {"text":"How you know you've been 3d modeling to long: How many polygons is reality made of?","color":"gold"}
+tellraw @s[scores={CurrentMsg=2088}] {"text":"Belcome Wack!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2089}] {"text":"Reach the Rave!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2090}] {"text":"Rave Reacher!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2091}] {"text":"Kynesmiraft Dungeoun","color":"gold"}
+tellraw @s[scores={CurrentMsg=2092}] {"text":"cinesmraft","color":"gold"}
+tellraw @s[scores={CurrentMsg=2093}] {"text":"CinesMraft","color":"gold"}
+tellraw @s[scores={CurrentMsg=2094}] {"text":"Subscrub","color":"gold"}
+tellraw @s[scores={CurrentMsg=2095}] {"text":"Army of Me","color":"gold"}
+tellraw @s[scores={CurrentMsg=2096}] {"text":"If you complain once more, you'll meet an army of me.","color":"gold"}
+tellraw @s[scores={CurrentMsg=2097}] {"text":"Brain Generated","color":"gold"}
+tellraw @s[scores={CurrentMsg=2098}] {"text":"Brain Germinated","color":"gold"}
+tellraw @s[scores={CurrentMsg=2099}] {"text":"Big Allele Energy","color":"gold"}
+tellraw @s[scores={CurrentMsg=2100}] {"text":"Chaos is a Ladder.","color":"gold"}
+tellraw @s[scores={CurrentMsg=2101}] {"text":"Hungry for life... Thirsty for existence...","color":"gold"}
+tellraw @s[scores={CurrentMsg=2102}] {"text":"Option paralysis","color":"gold"}
+tellraw @s[scores={CurrentMsg=2103}] {"text":"Soilent Green is people!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2104}] {"text":"Parents are a myth. Yeah their made up by the govt.","color":"gold"}
+tellraw @s[scores={CurrentMsg=2105}] {"text":"I'll touch your products...","color":"gold"}
+tellraw @s[scores={CurrentMsg=2106}] {"text":"We must power the D!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2107}] {"text":"Another day another nap.","color":"gold"}
+tellraw @s[scores={CurrentMsg=2108}] {"text":"I looooove them balls\n.............","color":"gold"}
+tellraw @s[scores={CurrentMsg=2109}] {"text":"Be an ass and leave.","color":"gold"}
+tellraw @s[scores={CurrentMsg=2110}] {"text":"Exhume-a-zoom-zoom!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2111}] {"text":"This parrot is no more! It has ceased to be!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2112}] {"text":"Honey, I grew the bees!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2113}] {"text":"Find your claw!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2114}] {"text":"Everybody do the Leif!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2115}] {"text":"<3 Max & 99 & Ducky!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2116}] {"text":"Bushy eyebrows!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2117}] {"text":"Edit is a name!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2118}] {"text":"From free range developers!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2119}] {"text":"Music by Lena Raine!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2120}] {"text":"Aww man!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2121}] {"text":"#minecraftfarms","color":"gold"}
+tellraw @s[scores={CurrentMsg=2122}] {"text":"And my pickaxe!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2123}] {"text":"Envision! Create! Share!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2124}] {"text":"Fabulous graphics!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2125}] {"text":"Also try Minecraft Dungeons!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2126}] {"text":"Vanilla!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2127}] {"text":"May contain traces of citrus!","color":"gold"}
+tellraw @s[scores={CurrentMsg=2128}] {"text":"Zoglin!?","color":"gold"}
 execute if entity @a[scores={CurrentMsg=2129}] run tellraw @a ["",{"selector":"@a[scores={CurrentMsg=2129}]","color":"yellow"},{"text":" Returns from the void of lurkage!","color":"gold"}]
 tellraw @s[scores={CurrentMsg=2130}] {"text":"Obnoxious but Consistent.","color":"gold"}
 tellraw @s[scores={CurrentMsg=2131}] {"text":"Heping flick it!","color":"gold"}

@@ -500,7 +500,7 @@ tellraw @s[scores={CurrentMsg=999}] {"text":"Made by Death","color":"gold"}
 tellraw @s[scores={CurrentMsg=1000}] {"text":"Thank you for downloading TRMotd!","color":"gold"}
 tellraw @s[scores={CurrentMsg=1001}] ["",{"selector":"@s","color":"green"},{"text":" IS YOU","color":"gold"}]
 execute if entity @s[scores={CurrentMsg=1002}] run tellraw @a ["",{"text":"*SMOKE BOMB*","color":"dark_red"},{"text":"\n"},{"selector":"@s","color":"dark_green"},{"text":" vanishes into the shadows.\nSee you later, ","color":"gold"},{"selector":"@s}]","color":"dark_green"},{"text":"!","color":"gold"}]
-execute if entity @a[scores={CurrentMsg=1003}] run tellraw @a ["",{"selector":"@s","color":"yellow"},{"text":" Returns from the void of lurkage!","color":"gold"}]
+execute if entity @s[scores={CurrentMsg=1003}] run tellraw @a ["",{"selector":"@s","color":"yellow"},{"text":" Returns from the void of lurkage!","color":"gold"}]
 execute as @s[scores={CurrentMsg=1004}] run tellraw @a ["",{"selector":"@s","color":"gold"},{"text":" enters a pocket dimension of lurkage.","color":"gold"}]
 execute as @s[scores={CurrentMsg=1005}] run tellraw @a ["",{"selector":"@s","color":"gold"},{"text":" got mugged.","color":"gold"}]
 

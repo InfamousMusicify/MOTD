@@ -448,9 +448,9 @@ tellraw @s[scores={CurrentMsg=1946}] {"text":"<ESP> Closed-captioned for the ESP
 tellraw @s[scores={CurrentMsg=1947}] {"text":"Thanks for watching, Futurama slave army!","color":"gold"}
 tellraw @s[scores={CurrentMsg=1948}] {"text":"Thanks for playing, block game addicts!","color":"gold"}
 tellraw @s[scores={CurrentMsg=1949}] {"text":"0100100001101001 [which translates to ''Hi'' in ASCII]","color":"gold"}
-execute if entity @a[scores={CurrentMsg=1950}] run tellraw @a ["",{"text":"*SMOKE BOMB*","color":"dark_red"},{"text":"\n"},{"selector":"@a[scores={CurrentMsg=1950}]","color":"dark_green"},{"text":" vanishes into the shadows.\nSee you later, ","color":"gold"},{"selector":"@a[scores={CurrentMsg=1950}]","color":"dark_green"},{"text":"!","color":"gold"}]
+execute if entity @s[scores={CurrentMsg=1950}] run tellraw @a ["",{"text":"*SMOKE BOMB*","color":"dark_red"},{"text":"\n"},{"selector":"@s[scores={CurrentMsg=1950}]","color":"dark_green"},{"text":" vanishes into the shadows.\nSee you later, ","color":"gold"},{"selector":"@a[scores={CurrentMsg=1950}]","color":"dark_green"},{"text":"!","color":"gold"}]
 tellraw @s[scores={CurrentMsg=1951}] ["",{"text":"Hoi ","color":"gold"},{"selector":"@a[scores={CurrentMsg=1951}]","color":"yellow"},{"text":" have you checked the fireplace?","color":"gold"}]
-tellraw @s[scores={CurrentMsg=1952}] ["",{"selector":"@a[scores={CurrentMsg=1952}]","color":"yellow"},{"text":" Hey Listen!","color":"gold"}]
+tellraw @s[scores={CurrentMsg=1952}] ["",{"selector":"@s[scores={CurrentMsg=1952}]","color":"yellow"},{"text":" Hey Listen!","color":"gold"}]
 tellraw @s[scores={CurrentMsg=1953}] {"text":"How is it called when you reach a black hole?","color":"gold"}
 tellraw @s[scores={CurrentMsg=1954}] {"text":"Goes well with Sake.","color":"gold"}
 tellraw @s[scores={CurrentMsg=1955}] {"text":"You were due to an exploit.","color":"gold"}
