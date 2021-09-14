@@ -1,5 +1,5 @@
 # rmt:new
-tag @s add rmt_join
+# tag @s add rmt_join
 # the message thats sent the first time a player joins
 tellraw @a ["",{"text":"Welcome ","color":"gold"},{"selector":"@s","color":"yellow"},{"text":" to the server!","color":"gold"}]
 # some nice music. only plays on first login.
