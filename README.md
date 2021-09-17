@@ -21,6 +21,8 @@ You can use the command:
 
 TRMotd (aka RMotd, Random Motd datapack)  
 
+     Back-ports to older versions of minecraft coming late in september.  The oldest versions of the pack were riddled with bugs and have been removed.
+
 If your going to use this on a public or busy server I recommend using the PG edition. or edit some of the messages.   
 
      There are notes in the datapack .mcf files on how to add more messages  
