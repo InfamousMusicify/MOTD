@@ -280,7 +280,7 @@ tellraw @s[scores={CurrentMsg=779}] {"text":"' Better. It's not the sound of a d
 tellraw @s[scores={CurrentMsg=780}] {"text":"' I love it. I love it so much!! They are drowning in snot!''","color":"gold"}
 tellraw @s[scores={CurrentMsg=781}] {"text":"'You can tell when Realms has been drinking because he gets even sweeter.''","color":"gold"}
 tellraw @s[scores={CurrentMsg=782}] {"text":"'Imagine entering a dragon's lair, and instead of trying to eat you it turns around and just twerks its dummy thicc dragon butt in your face''","color":"gold"}
-tellraw @s[scores={CurrentMsg=783}] {"text":"'NEXT TIME ON SANTA.....CLAUS...P!!!!!!'' ''You'll never destroy me Rudolph, Ho Ho Ho!''","color":"gold"}
+tellraw @s[scores={CurrentMsg=783}] {"text":"'NEXT TIME ON SANTA.....CLAUS...'' ''You'll never destroy me Rudolph, Ho Ho Ho!''","color":"gold"}
 tellraw @s[scores={CurrentMsg=784}] {"text":"'god of wars only downside is that the gameplay is very much a carboncopy of sonic adventure 2''","color":"gold"}
 tellraw @s[scores={CurrentMsg=785}] {"text":"'My feet look like they've been simmering in like...Fried oil. They look like they've been transformed into funnel cakes.''","color":"gold"}
 tellraw @s[scores={CurrentMsg=786}] {"text":"'Samic the Hodgehegg. I must accelerate!''","color":"gold"}
