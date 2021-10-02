@@ -1,4 +1,4 @@
-# Truly Random Message of the Day  
+# Truly Random Message of The Day  
 TRMotd / MOTD / RMOTD / Vanilla Minecraft RMotd  
 
      A Datapack for Minecraft Java Edition  
@@ -21,7 +21,8 @@ You can use the command:
 
 TRMotd (aka RMotd, Random Motd datapack)  
 
-     Back-ports to older versions of minecraft coming late in september.  The oldest versions of the pack were riddled with bugs and have been removed.
+     Back-ports to older versions of minecraft coming soon.  The oldest versions of the pack were riddled with bugs and have been removed.
+               (There will also be a depreceated pack of RFX soon if anyone wants the login music or visuals back.)
 
 If your going to use this on a public or busy server I recommend using the PG edition. or edit some of the messages.   
 
