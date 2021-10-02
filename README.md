@@ -1,8 +1,7 @@
-# Truly Random Message of The Day  
-TRMotd / MOTD / RMOTD / Vanilla Minecraft RMotd  
+# [Truly Random Message of The Day]()    
+### Minecraft: Java Edition - Data Pack
 
-     A Datapack for Minecraft Java Edition  
-     which sends a random message to the player when they log in.  
+#### *Send a random message to the player when they log in.*  
      
 __This Datapack Contains Explicit Content such as cussing and vulgarity.__    
 If you do not wish to see such things, Check out the ___PG Edition___.  It has 1000 Family Friendly Messages.  
@@ -18,8 +17,6 @@ You can use the command:
 ~~~
 [How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)   
 [Check out the Beta-Testing Server!](https://bit.ly/2TizsgS)   
-
-TRMotd (aka RMotd, Random Motd datapack)  
 
      Back-ports to older versions of minecraft coming soon.  The oldest versions of the pack were riddled with bugs and have been removed.
                (There will also be a depreceated pack of RFX soon if anyone wants the login music or visuals back.)
@@ -38,6 +35,8 @@ Motd Sources:
      Minecraft Advancements, Random Ideas, And a fair amount of custom Motds,   
      All Realms's Twitch Quotes as of 3-27-20, All Futurama Motd's.  
 ~~~
+     TRMotd / MOTD / RMOTD / Vanilla Minecraft MOTD / Vanilla Minecraft RMotd / Truly Random Message of The Day / Random Message of The Day / Message of The Day
+
 I spent an inordinate amount of time making this so, I really hope your enjoy. :)   
 Special Thanks to M.R. Programs for helping me create this.  
 and to mcskware for his prng datapack for 1.13 and willingness to share his code.  
