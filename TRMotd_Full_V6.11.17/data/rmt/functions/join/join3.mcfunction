@@ -497,6 +497,7 @@ tellraw @s[scores={CurrentMsg=2495}] {"text":"1.20 when?","color":"gold"}
 tellraw @s[scores={CurrentMsg=2496}] {"text":"1.21 when?","color":"gold"}
 tellraw @s[scores={CurrentMsg=2497}] {"text":"1.22 when?","color":"gold"}
 tellraw @s[scores={CurrentMsg=2498}] {"text":"1.23 when?","color":"gold"}
+tellraw @s[scores={CurrentMsg=2499}] {"text":"1.24 when?","color":"gold"}
 # # # 
 function rmt:join/join_end
 #

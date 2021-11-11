@@ -12,5 +12,6 @@ execute as @s[tag=RandMsg,scores={CurrentMsg=0..499}] run function rmt:join/join
 execute as @s[tag=RandMsg,scores={CurrentMsg=500..999}] run function rmt:join/join0
 execute as @s[tag=RandMsg,scores={CurrentMsg=1000..1499}] run function rmt:join/join1
 execute as @s[tag=RandMsg,scores={CurrentMsg=1500..1999}] run function rmt:join/join2
-execute as @s[tag=RandMsg,scores={CurrentMsg=2000..2498}] run function rmt:join/join3
-execute as @s[tag=RandMsg,scores={CurrentMsg=2499..2998}] run function rmt:join/join4
+execute as @s[tag=RandMsg,scores={CurrentMsg=2000..2499}] run function rmt:join/join3
+execute as @s[tag=RandMsg,scores={CurrentMsg=2500..2999}] run function rmt:join/join4
+execute as @s[tag=RandMsg,scores={CurrentMsg=3000..3499}] run function rmt:join/join5
