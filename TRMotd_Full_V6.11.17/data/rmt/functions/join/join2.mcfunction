@@ -274,7 +274,7 @@ tellraw @s[scores={CurrentMsg=1772}] {"text":"Current eBay bid: $8.51","color":"
 tellraw @s[scores={CurrentMsg=1773}] {"text":"Collect all fifty billion!","color":"gold"}
 tellraw @s[scores={CurrentMsg=1774}] {"text":"If you can read this, thank us!","color":"gold"}
 tellraw @s[scores={CurrentMsg=1775}] {"text":"Now available without a prescription","color":"gold"}
-tellraw @s[scores={CurrentMsg=1776}] {"text":"Bender's Big ScoreIt just won't stay dead!","color":"gold"}
+tellraw @s[scores={CurrentMsg=1776}] {"text":"Bender's Big Score","color":"gold"}
 tellraw @s[scores={CurrentMsg=1777}] {"text":"The Beast with a Billion BacksThe Proud Result of Prison Labor","color":"gold"}
 tellraw @s[scores={CurrentMsg=1778}] {"text":"Bender's GameThe flames in your TV are not part of the show","color":"gold"}
 tellraw @s[scores={CurrentMsg=1779}] {"text":"Rebirth","color":"gold"}
