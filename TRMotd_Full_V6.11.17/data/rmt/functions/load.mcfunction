@@ -31,3 +31,4 @@ scoreboard objectives add motd trigger "Random Message"
 schedule function rmt:tick 1s
 
 # # #
+#
