@@ -20,7 +20,7 @@ You can use the command:
 
 If your going to use this on a public or busy server I recommend using the PG edition. or edit some of the messages.   
 
-     You can customize the messages once downloaded, there are(will be) notes in the function files explaing how to change or add messages.
+     You can customize the messages once downloaded, there are notes in the function files explaing how to change or add messages.
                (There will be a depreceated pack of RFX soon if anyone wants the login music or visuals back.)  
 
 ### [Suggest Motd's for this pack here!](https://www.reddit.com/user/InfamousMusicify/comments/pznw9e/trmotd_suggestions/)
