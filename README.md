@@ -22,7 +22,7 @@ You can customize the messages once downloaded, there are notes in the function 
 
 ## [🔗Download🔗](https://github.com/InfamousMusicify/TRMotd/archive/refs/heads/master.zip)
 
-[How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)     
+[How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)     
 __[Suggest Motd's for this pack here!](https://www.reddit.com/user/InfamousMusicify/comments/pznw9e/trmotd_suggestions/)__
 
 Motd Sources:   
