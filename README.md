@@ -16,9 +16,7 @@ You can use the command:
      /scoreboard players set @a[distance=..50] Logout 1 ,for an area of effect message.  
 ~~~
 If your going to use this on a public or busy server I recommend using the PG edition. or edit some of the messages.   
-You can customize the messages once downloaded, there are notes in the function files explaing how to change or add messages.
-
-     (There will be a depreceated pack of RFX soon if anyone wants the login music or visuals back.)  
+You can customize the messages once downloaded, there are notes in the function files explaing how to change or add messages. 
 
 ## [🔗Download🔗](https://github.com/InfamousMusicify/TRMotd/archive/refs/heads/master.zip)
 
