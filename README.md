@@ -18,7 +18,7 @@ You can use the command:
 If your going to use this on a public or busy server I recommend using the PG edition. or edit some of the messages.   
 You can customize the messages once downloaded, there are notes in the function files explaing how to change or add messages. 
 
-## [🔗Download🔗](https://github.com/InfamousMusicify/TRMotd/archive/refs/heads/master.zip)
+## [🔗Download🔗](https://github.com/InfamousMusicify/MOTD/archive/refs/heads/master.zip)
 
 [How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)     
 __[Suggest Motd's for this pack here!](https://www.reddit.com/user/InfamousMusicify/comments/pznw9e/trmotd_suggestions/)__
