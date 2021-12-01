@@ -1,14 +1,14 @@
 {
     "display": {
-        "title": "TRMotd                                  ",
-        "description": "Truly Random Message of The Day\nSend Random a Message to Players when they log in!!!",
+        "title": "MOTD Info:                                  ",
+        "description": "/trigger motd - for a random message!\nPack By Infamous, Updated on occasion,\nCreated with the help of M.R. Programs <3",
         "icon": {
-            "item": "minecraft:writable_book"
+            "item": "minecraft:name_tag"
         },
         "announce_to_chat": false,
         "show_toast": false
     },
-    "parent": "main:main/zxin",
+    "parent": "main:main/motd_pack",
     "criteria": {
         "trigger": {
             "trigger": "minecraft:tick"

@@ -1,6 +1,6 @@
 {
     "display": {
-        "title": "TRMotd Info:                                  ",
+        "title": "MOTD Info:                                  ",
         "description": "/trigger motd - for a random message!\nPack By Infamous, Updated on occasion,\nCreated with the help of M.R. Programs <3",
         "icon": {
             "item": "minecraft:name_tag"
