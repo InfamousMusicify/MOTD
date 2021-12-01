@@ -1,5 +1,5 @@
-# [Truly Random Message of The Day]()    
-### Minecraft: Java Edition - Data Pack
+# [Message of The Day]()    
+### Truly Random Message of The Day - Minecraft: Java Edition - Data Pack
 
 ### *Send a random message to the player when they log in.*  
      
@@ -29,7 +29,7 @@ Motd Sources:
      Minecraft Advancements, Random Ideas, And a fair amount of custom Motds,   
      All Realms's Twitch Quotes as of 3-27-20, All Futurama Motd's.  
 
-     TRMotd / MOTD / RMOTD / Vanilla Minecraft MOTD / Vanilla Minecraft RMotd / Truly Random Message of The Day / Random Message of The Day / Message of The Day
+     MOTD / TRMOTD / RMOTD / Vanilla Minecraft MOTD / Vanilla Minecraft RMotd / Truly Random Message of The Day / Random Message of The Day / Message of The Day
 
 I spent an inordinate amount of time making this so, I really hope your enjoy. :)   
 Special Thanks to M.R. Programs for helping me create this.  
