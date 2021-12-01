@@ -1,5 +1,6 @@
 # [Message of The Day]()    
-### Truly Random Message of The Day - Minecraft: Java Edition - Data Pack
+### Truly Random Message of The Day
+#### Minecraft: Java Edition - Data Pack
 
 ### *Send a random message to the player when they log in.*  
      
@@ -31,7 +32,7 @@ Motd Sources:
 
      MOTD / TRMOTD / RMOTD / Vanilla Minecraft MOTD / Vanilla Minecraft RMotd / Truly Random Message of The Day / Random Message of The Day / Message of The Day
 
-I spent an inordinate amount of time making this so, I really hope your enjoy. :)   
+I spent an inordinate amount of time making this so, I really hope you enjoy. :)   
 Special Thanks to M.R. Programs for helping me create this.  
 and to mcskware for his prng datapack for 1.13 and willingness to share his code.  
 
