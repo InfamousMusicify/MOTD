@@ -253,6 +253,89 @@ tellraw @s[scores={CurrentMsg=3251}] {"text":"you still play minecraft?","color"
 tellraw @s[scores={CurrentMsg=3252}] {"text":"you'll be back, you'll always be back","color":"gold"}
 tellraw @s[scores={CurrentMsg=3253}] {"text":"your boat looks terrible,","color":"gold"}
 tellraw @s[scores={CurrentMsg=3253}] {"text":"It just won't stay dead!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3254}] {"text":"More placeholder text","color":"gold"}
+tellraw @s[scores={CurrentMsg=3255}] {"text":"The true meaning of covfefe!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3256}] {"text":"Cheeky Banter","color":"gold"}
+tellraw @s[scores={CurrentMsg=3257}] {"text":"Fuck it Friday","color":"gold"}
+tellraw @s[scores={CurrentMsg=3258}] {"text":"F it Friday","color":"gold"}
+tellraw @s[scores={CurrentMsg=3259}] {"text":"Can we just do it anyway?","color":"gold"}
+tellraw @s[scores={CurrentMsg=3260}] {"text":"Death by stupidity","color":"gold"}
+tellraw @s[scores={CurrentMsg=3261}] {"text":"Rest in peace, love and plants","color":"gold"}
+tellraw @s[scores={CurrentMsg=3262}] {"text":"Twentyfief","color":"gold"}
+tellraw @s[scores={CurrentMsg=3263}] {"text":"Better Bring Bacon Bruh","color":"gold"}
+tellraw @s[scores={CurrentMsg=3264}] {"text":"...She did not have an axe to grind, but many of them lined up in a row.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3265}] {"text":"You should get over your shyness so you can fuck me right...","color":"gold"}
+tellraw @s[scores={CurrentMsg=3266}] {"text":"You don't look defeated.. more like, icly determined to overcome anything thrown at you...","color":"gold"}
+tellraw @s[scores={CurrentMsg=3267}] {"text":"Can I ask where you're goin' sir? You can ask all you want Berny, just make sure you keep a vigilant eye on those cards.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3268}] {"text":"Cantankerous Elderberry","color":"gold"}
+tellraw @s[scores={CurrentMsg=3269}] {"text":"I don't make arrays, I brake arrays.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3270}] {"text":"Ameicanitis","color":"gold"}
+tellraw @s[scores={CurrentMsg=3271}] {"text":"What a mistake!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3272}] {"text":"GutHub","color":"gold"}
+tellraw @s[scores={CurrentMsg=3273}] {"text":"Raijinified","color":"gold"}
+tellraw @s[scores={CurrentMsg=3274}] {"text":"Im angry at minecraft","color":"gold"}
+tellraw @s[scores={CurrentMsg=3275}] {"text":"Block Game Drama","color":"gold"}
+tellraw @s[scores={CurrentMsg=3276}] {"text":"Please call Microsoft to unlock your computer.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3277}] {"text":"Blood for the Blood God","color":"gold"}
+tellraw @s[scores={CurrentMsg=3278}] {"text":"OnlyBans","color":"gold"}
+tellraw @s[scores={CurrentMsg=3279}] {"text":"Sea of Weebs","color":"gold"}
+tellraw @s[scores={CurrentMsg=3280}] {"text":"I don't think you handled this very well... Well you didn't handle it at all.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3281}] {"text":"Hey there, when I wake up in the middle of the night screaming... this is a song my mom sings to calm me down...","color":"gold"}
+tellraw @s[scores={CurrentMsg=3282}] {"text":"Now, The ULTIMATE CANCER.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3283}] {"text":"Speak your mind, in clear deeply offensive language.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3284}] {"text":"Enunciate","color":"gold"}
+tellraw @s[scores={CurrentMsg=3285}] {"text":"What you expected high quality streams? No. We only do scuff here.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3286}] {"text":"Density","color":"gold"}
+tellraw @s[scores={CurrentMsg=3287}] {"text":"We're in a rocket ride tonite my love! Plunge us into the whirlpool of moonbeam divine!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3288}] {"text":"You're a wizard","color":"gold"}
+tellraw @s[scores={CurrentMsg=3289}] {"text":"Kore datte wa?","color":"gold"}
+tellraw @s[scores={CurrentMsg=3290}] {"text":"Around my neck, A Friendly Machine","color":"gold"}
+tellraw @s[scores={CurrentMsg=3291}] {"text":"Egondobie","color":"gold"}
+tellraw @s[scores={CurrentMsg=3292}] {"text":"Everybody gonna die.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3293}] {"text":"Laws are illegal","color":"gold"}
+tellraw @s[scores={CurrentMsg=3294}] {"text":"GIRLS WITH GUNS ON LSD","color":"gold"}
+tellraw @s[scores={CurrentMsg=3295}] {"text":"If it rains you have to cry out to the clouds ''MAKE ME WET SKY DADDY''","color":"gold"}
+tellraw @s[scores={CurrentMsg=3296}] {"text":"MAKE ME WET SKY DADDY!!!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3297}] {"text":"Cover Me in Debris","color":"gold"}
+tellraw @s[scores={CurrentMsg=3298}] {"text":"Serious Dedication","color":"gold"}
+tellraw @s[scores={CurrentMsg=3299}] {"text":".","color":"gold"}
+tellraw @s[scores={CurrentMsg=3300}] {"text":"Harvest the souls of skeletons for arrows.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3301}] {"text":"Until you think about it, you havent thought about it.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3302}] {"text":"Look, a $1k paper weight.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3303}] {"text":"Booty frolick","color":"gold"}
+tellraw @s[scores={CurrentMsg=3304}] {"text":"Actualutly","color":"gold"}
+tellraw @s[scores={CurrentMsg=3305}] {"text":"Panenis","color":"gold"}
+tellraw @s[scores={CurrentMsg=3306}] {"text":"Truck cunt","color":"gold"}
+tellraw @s[scores={CurrentMsg=3307}] {"text":"Ranomd","color":"gold"}
+tellraw @s[scores={CurrentMsg=3308}] {"text":"Just embrace the jank.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3309}] {"text":"A new iphone? Look a thousand dollar paper weight.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3310}] {"text":"You're a wizard Harry..","color":"gold"}
+tellraw @s[scores={CurrentMsg=3311}] {"text":"Booty frolickin'","color":"gold"}
+tellraw @s[scores={CurrentMsg=3312}] {"text":"Booty frolick yeah!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3313}] {"text":"You're not bad at this game, you're just sucking right now...","color":"gold"}
+tellraw @s[scores={CurrentMsg=3314}] {"text":"Everything can suck...","color":"gold"}
+tellraw @s[scores={CurrentMsg=3315}] {"text":"Ugly in all the right ways.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3316}] {"text":"Explosive Mexican Hammer Polo","color":"gold"}
+tellraw @s[scores={CurrentMsg=3317}] {"text":"Primal Ugly","color":"gold"}
+tellraw @s[scores={CurrentMsg=3318}] {"text":"Mental Navigation","color":"gold"}
+tellraw @s[scores={CurrentMsg=3319}] {"text":"M-Nav","color":"gold"}
+tellraw @s[scores={CurrentMsg=3320}] {"text":"All creative people worry that their stuff sucks. Its an artist thing.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3321}] {"text":"Mango flavored pineapple","color":"gold"}
+tellraw @s[scores={CurrentMsg=3322}] {"text":"I need a bigger..","color":"gold"}
+tellraw @s[scores={CurrentMsg=3323}] {"text":"Scarcered","color":"gold"}
+tellraw @s[scores={CurrentMsg=3324}] {"text":"Licentiousness","color":"gold"}
+tellraw @s[scores={CurrentMsg=3325}] {"text":"Licentious","color":"gold"}
+tellraw @s[scores={CurrentMsg=3326}] {"text":"Lewd and Licentious formations...","color":"gold"}
+tellraw @s[scores={CurrentMsg=3327}] {"text":"Paddle Bitch.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3328}] {"text":"This book touches on topics such as: How to continue drinking if you're an alcoholic whos destroyed his liver...","color":"gold"}
+tellraw @s[scores={CurrentMsg=3329}] {"text":"How to continue drinking if you're an alcoholic whos destroyed his liver.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3330}] {"text":"Drive it like you stole it.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3331}] {"text":"My super power is being upset.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3332}] {"text":"Ya know, your like an interlude.. short, sweet, and cool.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3333}] {"text":"Ya know da mama like a intalude...","color":"gold"}
+tellraw @s[scores={CurrentMsg=3334}] {"selector":"@s"}
+tellraw @s[scores={CurrentMsg=3335}] {"selector":"@r"}
+tellraw @s[scores={CurrentMsg=3336}] {"selector":"@p"}
 
 
 # oh yeah... ...theres more coming...

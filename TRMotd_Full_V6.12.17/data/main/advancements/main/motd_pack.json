@@ -1,7 +1,7 @@
 {
     "display": {
-        "title": "Message of The Day                                          ",
-        "description": "Send Random a Message to Players when they log in!!!\nAKA: Truly Random Message of The Day!",
+        "title": "TRMotd                                  ",
+        "description": "Truly Random Message of The Day\nSend Random a Message to Players when they log in!!!",
         "icon": {
             "item": "minecraft:writable_book"
         },
