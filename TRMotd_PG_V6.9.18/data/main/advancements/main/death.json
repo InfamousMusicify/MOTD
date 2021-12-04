@@ -4,7 +4,7 @@
         "description": "InHaus Dev",
         "icon": {
             "item": "minecraft:player_head",
-            "nbt": "{SkullOwner: 'DeathtoMicrosoft'}"
+            "nbt": "{SkullOwner:DeathtoMicrosoft}"
         },
         "announce_to_chat": false,
         "show_toast": false

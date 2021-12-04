@@ -4,7 +4,7 @@
         "description": "God of Code",
         "icon": {
             "item": "minecraft:player_head",
-            "nbt": "{SkullOwner: 'MALLADAxD'}"
+            "nbt": "{SkullOwner:MALLADAxD}"
         },
         "announce_to_chat": false,
         "show_toast": false
