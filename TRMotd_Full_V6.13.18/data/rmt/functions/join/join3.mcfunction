@@ -127,7 +127,7 @@ tellraw @s[scores={CurrentMsg=2125}] {"text":"Also try Minecraft Dungeons!","col
 tellraw @s[scores={CurrentMsg=2126}] {"text":"Vanilla!","color":"gold"}
 tellraw @s[scores={CurrentMsg=2127}] {"text":"May contain traces of citrus!","color":"gold"}
 tellraw @s[scores={CurrentMsg=2128}] {"text":"Zoglin!?","color":"gold"}
-execute if entity @a[scores={CurrentMsg=2129}] run tellraw @a ["",{"selector":"@a[scores={CurrentMsg=2129}]","color":"yellow"},{"text":" Returns from the void of lurkage!","color":"gold"}]
+execute as @s[scores={CurrentMsg=2129}] run tellraw @a ["",{"selector":"@s","color":"yellow"},{"text":" Returns from the void of lurkage!","color":"gold"}]
 tellraw @s[scores={CurrentMsg=2130}] {"text":"Obnoxious but Consistent.","color":"gold"}
 tellraw @s[scores={CurrentMsg=2131}] {"text":"Heping flick it!","color":"gold"}
 tellraw @s[scores={CurrentMsg=2132}] {"text":"Sneak past some Chungi..","color":"gold"}
