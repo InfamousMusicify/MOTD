@@ -7,6 +7,8 @@
 __This Datapack Contains Explicit Content such as cussing and vulgarity.__    
 If you do not wish to see such things, Check out the ___PG Edition___.  It has 1000 Family Friendly Messages.  
 
+*"This idea is not intended for use by small children."*
+
 __If you are under the age of consent please ask your parents for permission before using the Full Edition pack!__    
 ~~~
 Commands:   
@@ -25,7 +27,7 @@ You can customize the messages once downloaded, there are notes in the function 
 __[Suggest Motd's for this pack here!](https://www.reddit.com/user/InfamousMusicify/comments/pznw9e/trmotd_suggestions/)__
 
 Motd Sources:   
-     All the Minecraft Splashes as of Dec 2019, an evergrowing # of 2b2t Motds,   
+     All the Minecraft Splashes as of Dec 2019, all of 2b2t Motds as of Feb 2021,   
      Ubuntu 2007 Forums Motds, Discord Loading Lines, Google Translate Resource Pack,  
      Minecraft Advancements, Random Ideas, And a fair amount of custom Motds,   
      All Realms's Twitch Quotes as of 3-27-20, All Futurama Motd's.  
