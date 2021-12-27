@@ -1,14 +1,17 @@
 {
     "display": {
-        "title": "MOTD                                  ",
-        "description": "Message of The Day\nSend Random a Message to Players when they log in!!!\nAka; Truly Random Message of The Day",
+        "title": "MOTD                       ",
+        "description": ["",
+		{"text":"Message of The Day","color":"green"},{"text":"\n"},
+        {"text":"Sends a random message to players when they log in!","color":"gold"}
+		],
         "icon": {
             "item": "minecraft:writable_book"
         },
         "announce_to_chat": false,
         "show_toast": false
     },
-    "parent": "main:main/zxin",
+    "parent": "inhauspacks:zxin",
     "criteria": {
         "trigger": {
             "trigger": "minecraft:tick"

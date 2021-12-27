@@ -1,14 +1,16 @@
 {
     "display": {
-        "title": "MOTD Info:                                  ",
-        "description": "/trigger motd - for a random message!\nPack By Infamous, Updated on occasion,\nCreated with the help of M.R. Programs <3",
+        "title": "MOTD Info                                  ",
+        "description": ["",
+		{"text":"/trigger motd - get random message!","color":"green"}
+		],
         "icon": {
             "item": "minecraft:name_tag"
         },
         "announce_to_chat": false,
         "show_toast": false
     },
-    "parent": "main:main/motd_pack",
+    "parent": "inhauspacks:motd_pack",
     "criteria": {
         "trigger": {
             "trigger": "minecraft:tick"

@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:conduit"
+		},
+		"title": "InHaus Packs",
+		"frame": "challenge",
+		"description": ["",
+            {"text":"All loaded InHaus data packs","color":"gold","italic":"true"},{"text":"\n"},
+            {"text":"https://github.com/InfamousMusicify/","color":"yellow"}],
+        "background": "minecraft:textures/block/gray_concrete.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
