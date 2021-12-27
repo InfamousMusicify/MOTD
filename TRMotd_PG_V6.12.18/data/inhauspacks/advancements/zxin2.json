@@ -1,14 +1,14 @@
 {
     "display": {
         "title": "M.R. Programs",
-        "description": "Created the outline for the Raijin/Motd packs, helped Infamous get started.",
+        "description": ["",{"text":"Created the outline for the Raijin/Motd packs, helped Infamous get started.","color":"red"}],
         "icon": {
             "item": "minecraft:anvil"
         },
         "announce_to_chat": false,
         "show_toast": false
     },
-    "parent": "main:main/zxin",
+    "parent": "inhauspacks:zxin",
     "criteria": {
         "trigger": {
             "trigger": "minecraft:tick"

@@ -1,0 +1,20 @@
+{
+    "display": {
+        "title": "Credit                                       ",
+        "description": ["",
+        {"text":"By: Infamous","color":"dark_aqua"},{"text":"\n"},
+        {"text":"Created with the help of\nM.R. Programs <3","color":"red"}
+		],
+        "icon": {
+            "item": "minecraft:map"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "inhauspacks:zxin2",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

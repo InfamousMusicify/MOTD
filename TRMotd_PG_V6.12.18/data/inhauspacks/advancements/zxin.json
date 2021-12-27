@@ -1,7 +1,7 @@
 {
     "display": {
         "title": "M.R. Programs",
-        "description": "God of Code",
+        "description": ["",{"text":"God of Code","color":"light_purple"}],
         "icon": {
             "item": "minecraft:player_head",
             "nbt": "{SkullOwner:{Id:[I;2,0,2,0],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODE1MDQ4OTQ5NGNlMDQyYjk4OWYwZGVhOWUwOTBjM2M4YmQ2NzM5YTQxZWE0MzM0MzlhMTdlMTMwMjhhMDA2NSJ9fX0='}]}}}"
@@ -9,7 +9,7 @@
         "announce_to_chat": false,
         "show_toast": false
     },
-    "parent": "main:main/roo",
+    "parent": "inhauspacks:root",
     "criteria": {
         "trigger": {
             "trigger": "minecraft:tick"
