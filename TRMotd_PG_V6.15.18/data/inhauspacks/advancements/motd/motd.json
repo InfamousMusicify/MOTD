@@ -2,7 +2,8 @@
     "display": {
         "title": "MOTD Info                                  ",
         "description": ["",
-		{"text":"/trigger motd - get random message!","color":"green"}
+		{"text":"/trigger motd - get random message!","color":"green"},{"text":"\n"},
+        {"text":"/trigger tglmotd - toggle login MOTD","color":"green"}
 		],
         "icon": {
             "item": "minecraft:name_tag"
