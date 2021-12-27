@@ -7,6 +7,6 @@ tag @s remove rmt_join
 # tag player for message
 tag @s[scores={rmt_logout=1..}] add RandMsg
 # calls any functions that should be ran 1 time as the player joins
-# function rmt:join/join
-execute as @s[tag=RandMsg,scores={CurrentMsg=0..500}] run function rmt:join/join
-execute as @s[tag=RandMsg,scores={CurrentMsg=501..1005}] run function rmt:join/join0
+# function motd:join/join
+execute as @s[tag=RandMsg,scores={CurrentMsg=0..500}] run function motd:join/join
+execute as @s[tag=RandMsg,scores={CurrentMsg=501..1005}] run function motd:join/join0

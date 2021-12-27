@@ -507,5 +507,5 @@ execute as @s[scores={CurrentMsg=1005}] run tellraw @a ["",{"selector":"@s","col
 # # #
 give @s[scores={CurrentMsg=1000}] minecraft:totem_of_undying 1
 #
-function rmt:join/join_end
+function motd:join/join_end
 #
