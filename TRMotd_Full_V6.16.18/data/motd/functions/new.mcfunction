@@ -8,3 +8,4 @@ execute unless entity @s[tag=rmt_new] run playsound minecraft:music_disc.far mus
 execute unless entity @s[tag=rmt_new] run function mcprng:nextrand
 execute unless entity @s[tag=rmt_new] run execute store result score @s CurrentMsg run scoreboard players get #randval mcprng
 execute unless entity @s[tag=rmt_new] run tag @s add rmt_new
+tag @s add motd_on
