@@ -501,5 +501,5 @@ tellraw @s[scores={CurrentMsg=999}] ["",{"text":"&k","obfuscated":true,"color":"
 # # #
 give @s[scores={CurrentMsg=813}] minecraft:totem_of_undying 1
 #
-function rmt:join/join_end
+function motd:join/join_end
 #

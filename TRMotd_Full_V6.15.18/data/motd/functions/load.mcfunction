@@ -28,7 +28,7 @@ scoreboard objectives add rmt_logout minecraft.custom:minecraft.leave_game
 #   scoreboard dummies for cmds
 scoreboard objectives add motd trigger "Random Message"
 ### ### ### ### ### ###
-schedule function rmt:tick 1s
+schedule function motd:tick 1s
 
 # # #
 #

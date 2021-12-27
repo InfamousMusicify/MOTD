@@ -342,5 +342,5 @@ tellraw @s[scores={CurrentMsg=3336}] {"selector":"@p"}
 # (There are 490 Dupleicate messages so far.)
 
 # # # 
-function rmt:join/join_end
+function motd:join/join_end
 #

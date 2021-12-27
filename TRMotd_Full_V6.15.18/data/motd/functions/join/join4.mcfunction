@@ -499,5 +499,5 @@ tellraw @s[scores={CurrentMsg=2997}] {"text":"Sleep deprivation is a drug.","col
 tellraw @s[scores={CurrentMsg=2998}] {"text":"So hard to die.","color":"gold"}
 tellraw @s[scores={CurrentMsg=2999}] {"text":"Something new disabled weekly!","color":"gold"}
 # # # 
-function rmt:join/join_end
+function motd:join/join_end
 #

@@ -498,5 +498,5 @@ tellraw @s[scores={CurrentMsg=1996}] {"text":"''Please don't try on one more out
 tellraw @s[scores={CurrentMsg=1997}] {"text":"''I'M NOT LOST. I KNOW EXACTLY WHERE WE ARE.''","color":"gold"}
 tellraw @s[scores={CurrentMsg=1998}] {"text":"''No one will ever see us alive again.''","color":"gold"}
 tellraw @s[scores={CurrentMsg=1999}] {"text":"''WE SHARE THE HOUSEWORK.''","color":"gold"}
-function rmt:join/join_end
+function motd:join/join_end
 #
