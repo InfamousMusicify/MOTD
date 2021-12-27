@@ -501,5 +501,5 @@ tellraw @s[scores={CurrentMsg=500}] {"text":"Who put it there?","color":"gold"}
 # # #
 tellraw @s[scores={CurrentMsg=0}] {"text":"Tepache","color":"gold"}
 # Add messages by copy and pasting the command above and editing the numbers to count up, change the mcprng #maxrand to your new last messages #+1 in mcprng:load.mcf.
-function motd:join/join_end
+# execute as @s run function motd:join/join_end
 #

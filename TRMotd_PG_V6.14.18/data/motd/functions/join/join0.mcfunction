@@ -497,7 +497,7 @@ tellraw @s[scores={CurrentMsg=996}] {"text":"The second time you fail to complet
 tellraw @s[scores={CurrentMsg=997}] {"text":"The test will begin on the word start. On your mark, get ready, start.","color":"gold"}
 tellraw @s[scores={CurrentMsg=998}] {"text":"''I hear it in my sleep sometimes''","color":"gold"}
 tellraw @s[scores={CurrentMsg=999}] {"text":"Ill tear you apart the way I tear boxes at work apart, in all the wrong ways...","color":"gold"}
-tellraw @s[scores={CurrentMsg=1000}] {"text":"''Use After Death''","color":"dark_red"}
+tellraw @s[scores={CurrentMsg=1000}] {"text":"Use After Death","color":"dark_red"}
 tellraw @s[scores={CurrentMsg=1001}] ["",{"selector":"@s","color":"green"},{"text":" IS YOU","color":"gold"}]
 execute if entity @s[scores={CurrentMsg=1002}] run tellraw @a ["",{"text":"*SMOKE BOMB*","color":"dark_red"},{"text":"\n"},{"selector":"@s","color":"dark_green"},{"text":" vanishes into the shadows.\nSee you later, ","color":"gold"},{"selector":"@s}]","color":"dark_green"},{"text":"!","color":"gold"}]
 execute if entity @s[scores={CurrentMsg=1003}] run tellraw @a ["",{"selector":"@s","color":"yellow"},{"text":" Returns from the void of lurkage!","color":"gold"}]
@@ -507,5 +507,5 @@ execute as @s[scores={CurrentMsg=1005}] run tellraw @a ["",{"selector":"@s","col
 # # #
 give @s[scores={CurrentMsg=1000}] minecraft:totem_of_undying 1
 #
-function motd:join/join_end
+# execute as @s run function motd:join/join_end
 #
