@@ -1,7 +1,7 @@
 {
     "display": {
-        "title": "M.R. Programs",
-        "description": ["",{"text":"Created the outline for the Raijin/Motd packs, helped Infamous get started.","color":"red"}],
+        "title": "M.R. Programs                       ",
+        "description": ["",{"text":"Created outline for Raijin/Motd packs,\nhelped Infamous get started.","color":"red"}],
         "icon": {
             "item": "minecraft:anvil"
         },
