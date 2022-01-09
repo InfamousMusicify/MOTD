@@ -17,6 +17,8 @@ Commands:
 You can use the command:  
      /scoreboard players set @p rmt_logout 1 ,to trigger a message for the closest player, or 
      /scoreboard players set @a[distance=..50] rmt_logout 1 ,for an area of effect message.  
+     /execute as @p run trigger motd  ,bypass closest login toggled player
+     /execute as @a[distance=..50] run trigger motd  ,area of effect that bypasses login toggle
 ~~~
 If your going to use this on a public or busy server I recommend using the PG edition. or edit some of the messages.   
 You can customize the messages once downloaded, there are notes in the function files explaing how to change or add messages. 
