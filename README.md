@@ -13,7 +13,9 @@ __If you are under the age of consent please ask your parents for permission bef
 ~~~
 Commands:   
      /trigger <motd>  
+     /trigger <tglmotd>  
    motd: sends the player a random message  
+   tglmotd: toggle login motd (per player)
 You can use the command:  
      /scoreboard players set @p rmt_logout 1 ,to trigger a message for the closest player, or 
      /scoreboard players set @a[distance=..50] rmt_logout 1 ,for an area of effect message.  
