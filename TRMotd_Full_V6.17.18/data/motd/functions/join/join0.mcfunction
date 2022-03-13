@@ -1,4 +1,3 @@
-tellraw @s[scores={CurrentMsg=500}] {"text":"Plz reply to my tweet!","color":"gold"}
 tellraw @s[scores={CurrentMsg=501}] {"text":"Pneumatic!","color":"gold"}
 tellraw @s[scores={CurrentMsg=502}] {"text":"Polynomial!","color":"gold"}
 tellraw @s[scores={CurrentMsg=503}] {"text":"Popping tags!","color":"gold"}
@@ -498,6 +497,7 @@ tellraw @s[scores={CurrentMsg=996}] {"text":"Save Leh Ghast, Only to kill Leh Gh
 tellraw @s[scores={CurrentMsg=997}] {"text":"Find your summer clothes","color":"gold"}
 tellraw @s[scores={CurrentMsg=998}] {"text":"A little union","color":"gold"}
 tellraw @s[scores={CurrentMsg=999}] ["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Adventure Time!","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
+tellraw @s[scores={CurrentMsg=1000}] {"text":"Change your stage.","color":"gold"}
 # # #
 give @s[scores={CurrentMsg=813}] minecraft:totem_of_undying 1
 #

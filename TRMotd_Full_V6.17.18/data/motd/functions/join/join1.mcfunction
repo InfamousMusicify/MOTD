@@ -1,4 +1,3 @@
-tellraw @s[scores={CurrentMsg=1000}] {"text":"Change your stage.","color":"gold"}
 tellraw @s[scores={CurrentMsg=1001}] {"text":"Arbalistiku","color":"gold"}
 tellraw @s[scores={CurrentMsg=1002}] {"text":"Who is the Pirate?","color":"gold"}
 tellraw @s[scores={CurrentMsg=1003}] {"text":"more","color":"gold"}
@@ -498,5 +497,6 @@ tellraw @s[scores={CurrentMsg=1496}] {"text":"You're already dead","color":"gold
 tellraw @s[scores={CurrentMsg=1497}] {"text":"Your inbox has (13) new messages","color":"dark_green"}
 tellraw @s[scores={CurrentMsg=1498}] {"text":"You thought it was over,","color":"gold"}
 tellraw @s[scores={CurrentMsg=1499}] {"text":"You will be alone in the end...","color":"gold"}
+tellraw @s[scores={CurrentMsg=1500}] {"text":"You won't last long here","color":"gold"}
 # function motd:join/join_end
 #

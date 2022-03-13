@@ -4,10 +4,8 @@
 function mcprng:nextrand
 execute store result score @s CurrentMsg run scoreboard players get #randval mcprng
 ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### ##### #####
-#                        tag @s remove rmt_join
-# tag player for message
-# tag @s add RandMsg
-# calls any functions that should be ran 1 time as the player joins
+# schedule function motd:hide_command_feedback 1t
+# function motd:hide_command_feedback
 # function motd:join/join
 execute as @s[scores={CurrentMsg=0..499}] run function motd:join/join
 execute as @s[scores={CurrentMsg=500..999}] run function motd:join/join0

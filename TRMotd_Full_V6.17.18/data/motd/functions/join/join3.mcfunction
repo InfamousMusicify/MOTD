@@ -1,4 +1,3 @@
-tellraw @s[scores={CurrentMsg=2000}] {"text":"''I make the messes, she cleans them up.''","color":"gold"}
 tellraw @s[scores={CurrentMsg=2001}] {"text":"***Feverishly Typing***","color":"dark_green"}
 tellraw @s[scores={CurrentMsg=2002}] {"text":"Nipple accomplished","color":"gold"}
 tellraw @s[scores={CurrentMsg=2003}] {"text":"Nucking Funt","color":"gold"}
@@ -498,6 +497,7 @@ tellraw @s[scores={CurrentMsg=2496}] {"text":"1.21 when?","color":"gold"}
 tellraw @s[scores={CurrentMsg=2497}] {"text":"1.22 when?","color":"gold"}
 tellraw @s[scores={CurrentMsg=2498}] {"text":"1.23 when?","color":"gold"}
 tellraw @s[scores={CurrentMsg=2499}] {"text":"1.24 when?","color":"gold"}
+tellraw @s[scores={CurrentMsg=2500}] {"text":"1.25 when?","color":"gold"}
 # # # 
 # function motd:join/join_end
 #

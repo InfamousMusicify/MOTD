@@ -497,6 +497,7 @@ tellraw @s[scores={CurrentMsg=496}] {"text":"Phobos anomaly!","color":"gold"}
 tellraw @s[scores={CurrentMsg=497}] {"text":"Play him off, keyboard cat!","color":"gold"}
 tellraw @s[scores={CurrentMsg=498}] {"text":"Played by cowboys!","color":"gold"}
 tellraw @s[scores={CurrentMsg=499}] {"text":"pls rt","color":"gold"}
+tellraw @s[scores={CurrentMsg=500}] {"text":"Plz reply to my tweet!","color":"gold"}
 # # #
 tellraw @s[scores={CurrentMsg=0}] {"text":"Tepache","color":"gold"}
 # Add messages by copy and pasting the command above and editing the numbers to count up, change the mcprng #maxrand to your new last messages #+1 in mcprng:load.mcf.

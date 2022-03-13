@@ -1,4 +1,3 @@
-tellraw @s[scores={CurrentMsg=3000}] {"text":"Sooner or later,","color":"gold"}
 tellraw @s[scores={CurrentMsg=3001}] {"text":"Sound disabled due to an exploit","color":"gold"}
 tellraw @s[scores={CurrentMsg=3002}] {"text":"Spawn is disabled due to an exploit","color":"gold"}
 tellraw @s[scores={CurrentMsg=3003}] {"text":"Sponsored by the Trump Administration.","color":"gold"}
@@ -252,7 +251,6 @@ tellraw @s[scores={CurrentMsg=3250}] {"text":"you never know, it may just make i
 tellraw @s[scores={CurrentMsg=3251}] {"text":"you still play minecraft?","color":"gold"}
 tellraw @s[scores={CurrentMsg=3252}] {"text":"you'll be back, you'll always be back","color":"gold"}
 tellraw @s[scores={CurrentMsg=3253}] {"text":"your boat looks terrible,","color":"gold"}
-tellraw @s[scores={CurrentMsg=3253}] {"text":"It just won't stay dead!","color":"gold"}
 tellraw @s[scores={CurrentMsg=3254}] {"text":"More placeholder text","color":"gold"}
 tellraw @s[scores={CurrentMsg=3255}] {"text":"The true meaning of covfefe!","color":"gold"}
 tellraw @s[scores={CurrentMsg=3256}] {"text":"Cheeky Banter","color":"gold"}
@@ -336,7 +334,170 @@ tellraw @s[scores={CurrentMsg=3333}] {"text":"Ya know da mama like a intalude...
 tellraw @s[scores={CurrentMsg=3334}] {"selector":"@s"}
 tellraw @s[scores={CurrentMsg=3335}] {"selector":"@r"}
 tellraw @s[scores={CurrentMsg=3336}] {"selector":"@p"}
-
+tellraw @s[scores={CurrentMsg=3337}] {"text":"Shut up and drive correctly...","color":"gold"}
+tellraw @s[scores={CurrentMsg=3338}] {"text":"Finished every fuckin thing","color":"gold"}
+tellraw @s[scores={CurrentMsg=3339}] {"text":"What blarny are yuh spewin?","color":"gold"}
+tellraw @s[scores={CurrentMsg=3340}] {"text":"Penis error","color":"gold"}
+tellraw @s[scores={CurrentMsg=3341}] {"text":"Post-Horse beating therapy","color":"gold"}
+tellraw @s[scores={CurrentMsg=3342}] {"text":"Weaponized horniness","color":"gold"}
+tellraw @s[scores={CurrentMsg=3343}] {"text":"Digital Liquid","color":"gold"}
+tellraw @s[scores={CurrentMsg=3344}] {"text":"Run it dumb.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3345}] {"text":"Dicey moment","color":"gold"}
+tellraw @s[scores={CurrentMsg=3346}] {"text":"Shut up and drive.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3347}] {"text":"Cumanda","color":"gold"}
+tellraw @s[scores={CurrentMsg=3348}] {"text":"I want a girlfriend I can nickname ''Cumanda''.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3349}] {"text":"My Balls!!!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3350}] {"text":"High Ninja","color":"gold"}
+tellraw @s[scores={CurrentMsg=3351}] {"text":"School of Cock","color":"gold"}
+tellraw @s[scores={CurrentMsg=3352}] {"text":"...not since last night.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3353}] {"text":"Half Realm","color":"gold"}
+tellraw @s[scores={CurrentMsg=3354}] {"text":"Mr.Business","color":"gold"}
+tellraw @s[scores={CurrentMsg=3355}] {"text":"The path of the psycho","color":"gold"}
+tellraw @s[scores={CurrentMsg=3356}] {"text":"Who tf is jhonny?","color":"gold"}
+tellraw @s[scores={CurrentMsg=3357}] {"text":"P.S.S.R.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3358}] {"text":"Boneitis","color":"gold"}
+tellraw @s[scores={CurrentMsg=3359}] {"text":"Chicken Flavor Throw Pillows","color":"gold"}
+tellraw @s[scores={CurrentMsg=3360}] {"text":"Smoker Fuckin' Smokes","color":"gold"}
+tellraw @s[scores={CurrentMsg=3361}] {"text":"Leave me alone, everybody else does.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3362}] {"text":"Let the hate flow through you.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3363}] {"text":"I am the senate.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3364}] {"text":"Reign","color":"gold"}
+tellraw @s[scores={CurrentMsg=3365}] {"text":"Sharpened sex","color":"gold"}
+tellraw @s[scores={CurrentMsg=3366}] {"text":"Human Bouillon Cubes","color":"gold"}
+tellraw @s[scores={CurrentMsg=3367}] {"text":"Femailman","color":"gold"}
+tellraw @s[scores={CurrentMsg=3368}] {"text":"Suck dick die maneuver","color":"gold"}
+tellraw @s[scores={CurrentMsg=3369}] {"text":"Some strange form of furry has entered the chat.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3370}] {"text":"1 Hunge","color":"gold"}
+tellraw @s[scores={CurrentMsg=3371}] {"text":"The blue ball mic","color":"gold"}
+tellraw @s[scores={CurrentMsg=3372}] {"text":"The balder the better.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3373}] {"text":"Dragon Cum","color":"gold"}
+tellraw @s[scores={CurrentMsg=3374}] {"text":"Yeetus deletus","color":"gold"}
+tellraw @s[scores={CurrentMsg=3375}] {"text":"Salvage slut","color":"gold"}
+tellraw @s[scores={CurrentMsg=3376}] {"text":"Gunboat Diplomacy","color":"gold"}
+tellraw @s[scores={CurrentMsg=3377}] {"text":"The Supreme Vicar","color":"gold"}
+tellraw @s[scores={CurrentMsg=3378}] {"text":"Ill show you that we're inferior!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3379}] {"text":"Talk less, shoot more!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3380}] {"text":"You are unworthy of this machine!!!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3381}] {"text":"Give me your balls!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3382}] {"text":"Face me!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3383}] {"text":"You have miscalculated!!!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3384}] {"text":"Bow to me!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3385}] {"text":"Do not do that again!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3386}] {"text":"Cultist simulator","color":"gold"}
+tellraw @s[scores={CurrentMsg=3387}] {"text":"You have no passion!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3388}] {"text":"The Neo-Illuminati","color":"gold"}
+tellraw @s[scores={CurrentMsg=3389}] {"text":"What are you playing? 'Cultist simulator...' Why dont you just play magic the gathering?","color":"gold"}
+tellraw @s[scores={CurrentMsg=3390}] {"text":"You are but a conduit of the word.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3391}] {"text":"Your body is dead.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3392}] {"text":"Maybe if I search the halls for fortitude and fornication, I'll find something greater than myself.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3393}] {"text":"Life was one of anguish and pain, suffocated beneath the unumbered falsehoods of this world.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3394}] {"text":"I hear the music with such clarity now, it is the only truth I require.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3395}] {"text":"Wonderous Dread","color":"gold"}
+tellraw @s[scores={CurrentMsg=3396}] {"text":"Familiar Inconceivability","color":"gold"}
+tellraw @s[scores={CurrentMsg=3397}] {"text":"Cursed Porn","color":"gold"}
+tellraw @s[scores={CurrentMsg=3398}] {"text":"Death by icicles","color":"gold"}
+tellraw @s[scores={CurrentMsg=3399}] {"text":"So how'd you die grandson?  Oh, I was running a cable under the deck, stood up, and got a back full of icicles.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3400}] {"text":"Escrow lunchbox","color":"gold"}
+tellraw @s[scores={CurrentMsg=3401}] {"text":"Try again tomorrow","color":"gold"}
+tellraw @s[scores={CurrentMsg=3402}] {"text":"Twenty thousand years of this / Seven more to go","color":"gold"}
+tellraw @s[scores={CurrentMsg=3403}] {"text":"Tranny Wax","color":"gold"}
+tellraw @s[scores={CurrentMsg=3404}] {"text":"Sends friend a recipe, friend says ''your recipe only adds up to 90%...?''","color":"gold"}
+tellraw @s[scores={CurrentMsg=3405}] {"text":"The voice of Vegetables.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3406}] {"text":"Phalius Erectus","color":"gold"}
+tellraw @s[scores={CurrentMsg=3407}] {"text":"Look.. there was an accident with a contraceptive and a time machine, ok?..","color":"gold"}
+tellraw @s[scores={CurrentMsg=3408}] {"text":"Spicy Coconut","color":"gold"}
+tellraw @s[scores={CurrentMsg=3409}] {"text":"The OverCompensator 9,000,000 Pro X Max™","color":"gold"}
+tellraw @s[scores={CurrentMsg=3410}] {"text":"You're certifiable if you think you can replace all of these...","color":"gold"}
+tellraw @s[scores={CurrentMsg=3411}] {"text":"KrakGitten","color":"gold"}
+tellraw @s[scores={CurrentMsg=3412}] {"text":"KritGaken","color":"gold"}
+tellraw @s[scores={CurrentMsg=3413}] {"text":"GatKriken","color":"gold"}
+tellraw @s[scores={CurrentMsg=3414}] {"text":"KatGriken","color":"gold"}
+tellraw @s[scores={CurrentMsg=3415}] {"text":"GitKraken","color":"gold"}
+tellraw @s[scores={CurrentMsg=3416}] {"text":"GrakKitten","color":"gold"}
+tellraw @s[scores={CurrentMsg=3417}] {"text":"Crack Kitten","color":"gold"}
+tellraw @s[scores={CurrentMsg=3418}] {"text":"Barny","color":"gold"}
+tellraw @s[scores={CurrentMsg=3419}] {"text":"Evil Barny","color":"gold"}
+tellraw @s[scores={CurrentMsg=3420}] {"text":"Worrysomingly","color":"gold"}
+tellraw @s[scores={CurrentMsg=3421}] {"text":"Someworringly","color":"gold"}
+tellraw @s[scores={CurrentMsg=3422}] {"text":"Worrysomeling","color":"gold"}
+tellraw @s[scores={CurrentMsg=3423}] {"text":"Harry Merthmas","color":"gold"}
+tellraw @s[scores={CurrentMsg=3424}] {"text":"Taxation = State Sponsored Extortion","color":"gold"}
+tellraw @s[scores={CurrentMsg=3425}] {"text":"Yesent","color":"gold"}
+tellraw @s[scores={CurrentMsg=3426}] {"text":"GitKraken is God","color":"gold"}
+tellraw @s[scores={CurrentMsg=3427}] {"text":"Don't'nt","color":"gold"}
+tellraw @s[scores={CurrentMsg=3428}] {"text":"Quality? Nahh","color":"gold"}
+tellraw @s[scores={CurrentMsg=3429}] {"text":"I feel empty inside...","color":"gold"}
+tellraw @s[scores={CurrentMsg=3430}] {"text":"Sit Upon Them","color":"gold"}
+tellraw @s[scores={CurrentMsg=3431}] {"text":"Inertialess Ring","color":"gold"}
+tellraw @s[scores={CurrentMsg=3432}] {"text":"What didn't you expect?","color":"gold"}
+tellraw @s[scores={CurrentMsg=3433}] {"text":"But... I don't have any symptoms...  Thats one of the symptoms.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3434}] {"text":"'We live in a post-society society''","color":"gold"}
+tellraw @s[scores={CurrentMsg=3435}] {"text":"Chainsaw Cock","color":"gold"}
+tellraw @s[scores={CurrentMsg=3436}] {"text":"AirBoyes","color":"gold"}
+tellraw @s[scores={CurrentMsg=3437}] {"text":"Mantipulating","color":"gold"}
+tellraw @s[scores={CurrentMsg=3438}] {"text":"How do you wanna reproduce?","color":"gold"}
+tellraw @s[scores={CurrentMsg=3439}] {"text":"Hand me the rap rod plate captain.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3440}] {"text":"There's nothing you can screw up that Paul can't fix.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3441}] {"text":"The worst thing that could happen here is you destroy an Apple product...  Oh I'm ok with that.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3442}] {"text":"Fundamentalist Polygamous Desert Compound Mormorns","color":"gold"}
+tellraw @s[scores={CurrentMsg=3443}] {"text":"We're on a mission from god.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3444}] {"text":"Am'nt","color":"gold"}
+tellraw @s[scores={CurrentMsg=3445}] {"text":"Don't fix what isn't broken.  Get a spare.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3446}] {"text":"Are you stupid?  Or are you just makin' a special effort today?","color":"gold"}
+tellraw @s[scores={CurrentMsg=3447}] {"text":"CritGacken","color":"gold"}
+tellraw @s[scores={CurrentMsg=3448}] {"text":"The USS Compensation","color":"gold"}
+tellraw @s[scores={CurrentMsg=3449}] {"text":"Star Pounder","color":"gold"}
+tellraw @s[scores={CurrentMsg=3450}] {"text":"Emocoes Sexuais De Um Cavalo","color":"gold"}
+tellraw @s[scores={CurrentMsg=3451}] {"text":"Brazilian State Sanctioned Bestiality Porn","color":"gold"}
+tellraw @s[scores={CurrentMsg=3452}] {"text":"Ranked by obscurity, and a little bit of depravity.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3453}] {"text":"This too, is reality.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3454}] {"text":"I understand your disbelief.  But... this, too, is reality.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3455}] {"text":"Sploreckin'","color":"gold"}
+tellraw @s[scores={CurrentMsg=3456}] {"text":"Rule 3, Never trust Nobody'","color":"gold"}
+tellraw @s[scores={CurrentMsg=3457}] {"text":"I just want to steal some of your vital organs, come on, please?","color":"gold"}
+tellraw @s[scores={CurrentMsg=3458}] {"text":"An Overwhelming Compelling Force","color":"gold"}
+tellraw @s[scores={CurrentMsg=3459}] {"text":"Parachutes, PCs and Plugs.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3460}] {"text":"Pomposity","color":"gold"}
+tellraw @s[scores={CurrentMsg=3461}] {"text":"This is the stage, so get off.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3462}] {"text":"Feel like fuckin' a dude?","color":"gold"}
+tellraw @s[scores={CurrentMsg=3463}] {"text":"Silicone has feelings too.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3464}] {"text":"If a design looks good... I'll steal it in photoshop.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3465}] {"text":"A Man with a Vagina is my favorite kind of Woman","color":"gold"}
+tellraw @s[scores={CurrentMsg=3466}] {"text":"My status is a lie","color":"gold"}
+tellraw @s[scores={CurrentMsg=3467}] {"text":"Nice cans haver","color":"gold"}
+tellraw @s[scores={CurrentMsg=3468}] {"text":"Skull trapped thought sponge","color":"gold"}
+tellraw @s[scores={CurrentMsg=3469}] {"text":"Mouth sounds","color":"gold"}
+tellraw @s[scores={CurrentMsg=3470}] {"text":"Sentimental Steel","color":"gold"}
+tellraw @s[scores={CurrentMsg=3471}] {"text":"Yeah, its a golden retriever, so I think it should retrieve lots of gold...","color":"gold"}
+tellraw @s[scores={CurrentMsg=3472}] {"text":"The best place to hide a body is on the second page of google.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3473}] {"text":"Sugar, also known as death salt.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3474}] {"text":"Death Salt","color":"gold"}
+tellraw @s[scores={CurrentMsg=3475}] {"text":"Cocaine, also known as argument powder.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3476}] {"text":"Argument Powder","color":"gold"}
+tellraw @s[scores={CurrentMsg=3477}] {"text":"Progidy","color":"gold"}
+tellraw @s[scores={CurrentMsg=3478}] {"text":"Face Seats","color":"gold"}
+tellraw @s[scores={CurrentMsg=3479}] {"text":"Sleep Squares","color":"gold"}
+tellraw @s[scores={CurrentMsg=3480}] {"text":"Make Life Less Mechanically Mundane","color":"gold"}
+tellraw @s[scores={CurrentMsg=3481}] {"text":"Fuck that shit I'm dead.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3482}] {"text":"Inhale Your Destiny","color":"gold"}
+tellraw @s[scores={CurrentMsg=3483}] {"text":"It hurt itself in its confusion!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3484}] {"text":"Ball Flicker","color":"gold"}
+tellraw @s[scores={CurrentMsg=3485}] {"text":"Esleeziastical","color":"gold"}
+tellraw @s[scores={CurrentMsg=3486}] {"text":"Snortage","color":"gold"}
+tellraw @s[scores={CurrentMsg=3487}] {"text":"Mechanically Mundane","color":"gold"}
+tellraw @s[scores={CurrentMsg=3488}] {"text":"Suicide with extra steps.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3489}] {"text":"Yeaahh, look at my cigar....","color":"gold"}
+tellraw @s[scores={CurrentMsg=3490}] {"text":"Why would you say something like that to me... Right after...?","color":"gold"}
+tellraw @s[scores={CurrentMsg=3491}] {"text":"Smug Tree Energy","color":"gold"}
+tellraw @s[scores={CurrentMsg=3492}] {"text":"Russian Sushi Shop","color":"gold"}
+tellraw @s[scores={CurrentMsg=3493}] {"text":"Dont think, just start swinging.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3494}] {"text":"Where you gettin shot from?  EVERYWHERE!!!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3495}] {"text":"I'm gods gift to women.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3496}] {"text":"It's time to kick ass and chew bubble gum.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3497}] {"text":"I'm here to kick ass and chew bubble gum, and I'm all outta gum.","color":"gold"}
+tellraw @s[scores={CurrentMsg=3498}] {"text":"Fucktioning","color":"gold"}
+tellraw @s[scores={CurrentMsg=3499}] {"text":"Right after...?","color":"gold"}
+tellraw @s[scores={CurrentMsg=3500}] {"text":"Why does the linux community put up with crontab?","color":"gold"}
 
 # oh yeah... ...theres more coming...
 # (There are 490 Dupleicate messages so far.)

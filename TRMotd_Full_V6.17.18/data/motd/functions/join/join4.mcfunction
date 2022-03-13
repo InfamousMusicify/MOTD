@@ -1,4 +1,3 @@
-tellraw @s[scores={CurrentMsg=2500}] {"text":"1.25 when?","color":"gold"}
 tellraw @s[scores={CurrentMsg=2501}] {"text":"We are the masters of a power driven to the far reaches of the universe, and we have but one desire! Can one such as you possibly fathom how dearly we have clung to this dream across the aeons? How could you! You couldn't! Never ever ever! We who once faced those who were in such fear of our power that they sealed us away and banished us to the edge of the galaxy! US! As if THAT loveliness wasn't enough, they tried to erase our very existence from history! RUDE! Only through our magic were we able to overcome their science and achieve great prosperity! We alone were responsible for stopping that repulsive nightmare of a galactic crisis, yet this is how you repay us! This won't stand! It won't be forgiven! It won't be forgotten! Never ever EVER! Those who called us mad, are you listening? You left us at the edge of the galaxy to be forgotten, then went along your merry way, probably living somewhere pretty and peaceful! But know this! Your future is a farce! You have none! We, masters of a matter most dark, vow to be restored, as foretold in the book of legend, which everyone thought was just a fairy tale! It WASN'T! We have already obtained the vessel that contains our Dark Lord, and he will soon awaken and shower us in compassion! Look! The vessel of our Dark Lord is filling up even as we speak! Now the time for his greatness to enter our world has come! Welcome to a new history! A new age! The age of awesome! HAPPY BIRTHDAY, DARK LORD! HAPPY BIRTHDAY! Grace us, Gloriously Dark Looooooord!","color":"gold"}
 tellraw @s[scores={CurrentMsg=2502}] {"text":"Placeholder","color":"gold"}
 tellraw @s[scores={CurrentMsg=2503}] {"text":"Placeholder text","color":"gold"}
@@ -498,6 +497,7 @@ tellraw @s[scores={CurrentMsg=2996}] {"text":"Singleplayer with cancerous chat."
 tellraw @s[scores={CurrentMsg=2997}] {"text":"Sleep deprivation is a drug.","color":"gold"}
 tellraw @s[scores={CurrentMsg=2998}] {"text":"So hard to die.","color":"gold"}
 tellraw @s[scores={CurrentMsg=2999}] {"text":"Something new disabled weekly!","color":"gold"}
+tellraw @s[scores={CurrentMsg=3000}] {"text":"Sooner or later,","color":"gold"}
 # # # 
 # function motd:join/join_end
 #

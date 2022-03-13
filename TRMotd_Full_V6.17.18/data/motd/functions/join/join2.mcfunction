@@ -1,4 +1,3 @@
-tellraw @s[scores={CurrentMsg=1500}] {"text":"You won't last long here","color":"gold"}
 tellraw @s[scores={CurrentMsg=1501}] {"text":"MOTD has been disabled due to an exploit","color":"gold"}
 tellraw @s[scores={CurrentMsg=1502}] {"text":"Right or wrong, it's very pleasant to break something from time to time","color":"gold"}
 tellraw @s[scores={CurrentMsg=1503}] {"text":"Happy senior man approves this message!","color":"gold"}
@@ -498,5 +497,6 @@ tellraw @s[scores={CurrentMsg=1996}] {"text":"''Please don't try on one more out
 tellraw @s[scores={CurrentMsg=1997}] {"text":"''I'M NOT LOST. I KNOW EXACTLY WHERE WE ARE.''","color":"gold"}
 tellraw @s[scores={CurrentMsg=1998}] {"text":"''No one will ever see us alive again.''","color":"gold"}
 tellraw @s[scores={CurrentMsg=1999}] {"text":"''WE SHARE THE HOUSEWORK.''","color":"gold"}
+tellraw @s[scores={CurrentMsg=2000}] {"text":"''I make the messes, she cleans them up.''","color":"gold"}
 # function motd:join/join_end
 #
