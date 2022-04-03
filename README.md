@@ -12,15 +12,14 @@ If you do not wish to see such things, Check out the ___PG Edition___.  It has 1
 __If you are under the age of consent please ask your parents for permission before using the Full Edition pack!__    
 ~~~
 Commands:   
-     /trigger <motd>  
-     /trigger <tglmotd>  
-   motd: sends the player a random message  
-   tglmotd: toggle login motd (per player)
-You can use the command:  
-     /scoreboard players set @p rmt_logout 1 ,to trigger a message for the closest player, or 
-     /scoreboard players set @a[distance=..50] rmt_logout 1 ,for an area of effect message.  
-     /execute as @p run trigger motd  ,bypass closest login toggled player
-     /execute as @a[distance=..50] run trigger motd  ,area of effect that bypasses login toggle
+     /trigger motd - sends the player a random message   
+     /trigger tglmotd - toggle login motd (per player)   
+OPs can use theese commands:  
+     /scoreboard players set @p rmt_logout 1 - to trigger a message for the closest player, or 
+     /scoreboard players set @a[distance=..50] rmt_logout 1 - for an area of effect message.  
+     
+     /execute as @p run trigger motd - bypass closest login toggled player
+     /execute as @a[distance=..50] run trigger motd - area of effect that bypasses login toggle
 ~~~
 If your going to use this on a public or busy server I recommend using the PG edition. or edit some of the messages.   
 You can customize the messages once downloaded, there are notes in the function files explaing how to change or add messages. 
