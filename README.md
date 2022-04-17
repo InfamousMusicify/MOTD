@@ -26,8 +26,8 @@ You can customize the messages once downloaded, there are notes in the function 
 
 ## [🔗Download🔗](https://github.com/InfamousMusicify/MOTD/archive/refs/heads/master.zip)
 
-[How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)     
-__[Suggest Motd's for this pack here!](https://www.reddit.com/user/InfamousMusicify/comments/pznw9e/trmotd_suggestions/)__
+__[🔗 How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)   
+[Suggest Motd's for this pack here!](https://www.reddit.com/user/InfamousMusicify/comments/pznw9e/trmotd_suggestions/)__
 
 Motd Sources:   
      All the Minecraft Splashes as of Dec 2019, all of 2b2t Motds as of Feb 2021,   
