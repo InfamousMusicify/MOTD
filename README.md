@@ -26,7 +26,7 @@ You can customize the messages once downloaded, there are notes in the function 
 
 ## [🔗Download🔗](https://github.com/InfamousMusicify/MOTD/archive/refs/heads/master.zip)
 
-[How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)     
+[How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)     
 __[Suggest Motd's for this pack here!](https://www.reddit.com/user/InfamousMusicify/comments/pznw9e/trmotd_suggestions/)__
 
 Motd Sources:   
@@ -37,10 +37,10 @@ Motd Sources:
 
      MOTD / TRMOTD / RMOTD / Vanilla Minecraft MOTD / Vanilla Minecraft RMotd / Truly Random Message of The Day / Random Message of The Day / Message of The Day
 
-### [Donations appreciated:🔗](https://www.patreon.com/InfamousMusicify)   
+### [Donations appreciated:🔗](https://www.patreon.com/InfamousMusicify) 
 __All of my projects take an inordinant amount of time to upkeep/create.  
 I use my free time to make them.  Any support would be much appreciated!  
-If you enjoy these packs and want to see more like them and see them maintained, [send me some love](https://www.patreon.com/InfamousMusicify)!__  
+If you enjoy these packs and want to see more like them and see them maintained, send me some love!__  
 
 I spent an inordinate amount of time making this so, I really hope you enjoy. :)   
 Special Thanks to M.R. Programs for helping me create this.  
