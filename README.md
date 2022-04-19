@@ -37,9 +37,9 @@ Motd Sources:
 
      MOTD / TRMOTD / RMOTD / Vanilla Minecraft MOTD / Vanilla Minecraft RMotd / Truly Random Message of The Day / Random Message of The Day / Message of The Day
 ### [Donations appreciated:🔗](https://www.patreon.com/InfamousMusicify)   
-__All of my projects take an inordinate amount of time to upkeep/create.
-I use my free time to make them. Any support would be much appreciated!
-If you enjoy these packs and want to see more like them and see them maintained, send me some love!__   
+__All of my projects take an inordinate amount of time to upkeep/create.  
+I use my free time to make them. Any support would be much appreciated!  
+If you enjoy these packs and want to see more like them and see them maintained, send me some love!__    
 
 I spent an inordinate amount of time making this so, I really hope you enjoy. :)   
 Special Thanks to M.R. Programs for helping me create this.  
