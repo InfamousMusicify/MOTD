@@ -505,7 +505,8 @@ execute as @s[scores={CurrentMsg=1004}] run tellraw @a ["",{"selector":"@s","col
 execute as @s[scores={CurrentMsg=1005}] run tellraw @a ["",{"selector":"@s","color":"gold"},{"text":" got mugged.","color":"gold"}]
 
 # # #
-give @s[scores={CurrentMsg=1000}] minecraft:totem_of_undying 1
+execute unless entity @s[scores={motd=1..}] run give @s[scores={CurrentMsg=1000}] minecraft:totem_of_undying 1
+tellraw @s[scores={motd=1000}] {"text":"(hah, nice try!)","color":"gray"}
 #
 # execute as @s run function motd:join/join_end
 #
