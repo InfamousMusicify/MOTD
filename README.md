@@ -13,6 +13,8 @@ __If you are under the age of consent please ask your parents for permission bef
 ~~~
 Commands:   
      /trigger motd - sends the player a random message   
+     /trigger motd set # - specify a message    (/trigger motd set 69)
+     /trigger motd set -1 - see first message    
      /trigger tglmotd - toggle login motd (per player)   
 OPs can use theese commands:  
      /scoreboard players set @p rmt_logout 1 - to trigger a message for the closest player, or 
