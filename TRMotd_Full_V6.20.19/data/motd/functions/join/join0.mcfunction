@@ -499,7 +499,8 @@ tellraw @s[scores={CurrentMsg=998}] {"text":"A little union","color":"gold"}
 tellraw @s[scores={CurrentMsg=999}] ["",{"text":"&k","obfuscated":true,"color":"blue"},{"text":" Adventure Time!","color":"gold"},{"text":" &k","obfuscated":true,"color":"blue"}]
 tellraw @s[scores={CurrentMsg=1000}] {"text":"Change your stage.","color":"gold"}
 # # #
-give @s[scores={CurrentMsg=813}] minecraft:totem_of_undying 1
+execute unless entity @s[scores={motd=1..}] run give @s[scores={CurrentMsg=813}] minecraft:totem_of_undying 1
+tellraw @s[scores={motd=813}] {"text":"(hah, get fucked)","color":"gray"}
 #
 # function motd:join/join_end
 #
