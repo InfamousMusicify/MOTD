@@ -9,9 +9,11 @@ execute if score @s motd matches 1 run execute store result score @s CurrentMsg 
 # function motd:join/join
 
 #execute if score @s motd matches 1 run 
-execute if entity @s[scores={motd=-2}] run scoreboard players set @s CurrentMsg 0
-execute if entity @s[scores={motd=-1}] run scoreboard players set @s CurrentMsg 1
 execute if entity @s[scores={motd=2..}] store result score @s CurrentMsg run scoreboard players get @s motd 
+execute if entity @s[scores={motd=-1}] run scoreboard players set @s CurrentMsg 1
+execute if entity @s[scores={motd=-2}] run scoreboard players set @s CurrentMsg 0
+execute if entity @s[scores={motd=..-3}] run function mcprng:nextrand
+execute if entity @s[scores={motd=..-3}] store result score @s CurrentMsg run scoreboard players get #randval mcprng
 
 execute as @s[scores={CurrentMsg=0..500}] run function motd:join/join
 execute as @s[scores={CurrentMsg=501..1000}] run function motd:join/join0

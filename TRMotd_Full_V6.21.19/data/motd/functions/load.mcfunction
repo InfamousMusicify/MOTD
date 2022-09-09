@@ -20,8 +20,7 @@ execute store result score #seeded mcprng run scoreboard players get #random mcp
 execute if score #seeded mcprng matches 0 run function mcprng:seed
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #mrp additions - init rmt scoreboards
-#TODO: set to the minecraft:custom thingy for logout
-# Join is 1st login,  Login is subsequnt
+#TODO: 
 #   util dummies and boards
 scoreboard objectives add CurrentMsg dummy
 scoreboard objectives add rmt_logout minecraft.custom:minecraft.leave_game
@@ -29,6 +28,9 @@ scoreboard objectives add rmt_logout minecraft.custom:minecraft.leave_game
 scoreboard objectives add motd trigger "Random Message"
 # moderation commands
 scoreboard objectives add tglmotd trigger "Toggle Login MOTD"
+scoreboard objectives add motd.config dummy
+execute unless score #music motd.config matches 0.. run scoreboard players set #music motd.config 0
+
 ### ### ### ### ### ###
 schedule function motd:tick 1s
 

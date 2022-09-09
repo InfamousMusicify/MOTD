@@ -2,7 +2,8 @@
 scoreboard players enable @a motd
 scoreboard players enable @a tglmotd
 # run motd on command
-execute as @a[scores={motd=-2..-1,motd=1..}] run function motd:motd
+execute as @a[scores={motd=1..}] run function motd:motd
+execute as @a[scores={motd=..-1}] run function motd:motd
 # per player motd control
 execute as @a[scores={tglmotd=1}] run function motd:toggle_motd_on
 execute as @a[scores={tglmotd=3..}] run function motd:toggle_motd_off
