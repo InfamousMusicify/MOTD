@@ -17,6 +17,8 @@ Commands:
      /trigger motd set -1 - see first message    
      /trigger tglmotd - toggle login motd (per player)   
 OPs can use theese commands:  
+     /function motd:config - Open config menu
+     /scoreboard players set #music motd.config 1 - turn off login music for new players
      /scoreboard players set @p rmt_logout 1 - to trigger a message for the closest player, or 
      /scoreboard players set @a[distance=..50] rmt_logout 1 - for an area of effect message.  
      
