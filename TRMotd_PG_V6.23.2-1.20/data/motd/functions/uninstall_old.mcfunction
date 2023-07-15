@@ -1,4 +1,3 @@
-# rmt:new
 scoreboard objectives remove mcprng
 scoreboard objectives remove CurrentMsg
 scoreboard objectives remove Login
@@ -20,6 +19,14 @@ scoreboard objectives remove rmt_logout
 scoreboard objectives remove rmt_login
 scoreboard objectives remove rmt_join
 scoreboard objectives remove tglmotd
-
+scoreboard objectives remove motd.config
 tag @a remove rmt_join
 tag @a remove RandMsg
+
+
+scoreboard objectives remove CurrentMsg
+scoreboard objectives remove rmt_logout
+scoreboard objectives remove motd
+scoreboard objectives remove tglmotd
+scoreboard objectives remove motd.config
+scoreboard objectives remove rmtprng

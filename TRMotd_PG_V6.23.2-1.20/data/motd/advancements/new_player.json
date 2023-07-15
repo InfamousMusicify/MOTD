@@ -5,6 +5,6 @@
         }
     },
     "rewards": {
-        "function": "motd:new"
+        "function": "motd:new_player"
     }
 }
