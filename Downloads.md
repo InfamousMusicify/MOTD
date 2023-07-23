@@ -11,6 +11,7 @@
 
 ### [🔗1.18+](https://github.com/InfamousMusicify/MOTD/releases/download/1.18/TRMotd_Full_V6.23.2-1.18.zip)       
 
+Backports coming soon:
 ### [🔗1.17+]() (1.16-1.17+)   
 
 ### [🔗1.16.2 - 1.16.5]()   
